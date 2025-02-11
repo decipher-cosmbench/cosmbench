@@ -1,0 +1,5 @@
+axelar/bin/axelard filter=lfs diff=lfs merge=lfs -text
+celestia/bin/celestia-appd filter=lfs diff=lfs merge=lfs -text
+cosmos/bin/cosmosd filter=lfs diff=lfs merge=lfs -text
+injective/bin/injectived filter=lfs diff=lfs merge=lfs -text
+cronos/bin/* filter=lfs diff=lfs merge=lfs -text

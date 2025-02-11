@@ -1,0 +1,182 @@
+[
+  {
+    "txIdx": 0,
+    "timestamp": 1738820334503,
+    "height": 17,
+    "latency": 1056
+  },
+  {
+    "txIdx": 1,
+    "timestamp": 1738820334504,
+    "height": 17,
+    "latency": 1055
+  },
+  {
+    "txIdx": 2,
+    "timestamp": 1738820334504,
+    "height": 17,
+    "latency": 1055
+  },
+  {
+    "txIdx": 3,
+    "timestamp": 1738820334504,
+    "height": 17,
+    "latency": 1055
+  },
+  {
+    "txIdx": 4,
+    "timestamp": 1738820334507,
+    "height": 17,
+    "latency": 1052
+  },
+  {
+    "txIdx": 5,
+    "timestamp": 1738820334505,
+    "height": 17,
+    "latency": 1054
+  },
+  {
+    "txIdx": 6,
+    "timestamp": 1738820334505,
+    "height": 17,
+    "latency": 1054
+  },
+  {
+    "txIdx": 7,
+    "timestamp": 1738820334505,
+    "height": 17,
+    "latency": 1054
+  },
+  {
+    "txIdx": 8,
+    "timestamp": 1738820334505,
+    "height": 17,
+    "latency": 1054
+  },
+  {
+    "txIdx": 9,
+    "timestamp": 1738820334503,
+    "height": 17,
+    "latency": 1056
+  },
+  {
+    "txIdx": 10,
+    "timestamp": 1738820335502,
+    "height": 18,
+    "latency": 1291
+  },
+  {
+    "txIdx": 11,
+    "timestamp": 1738820335508,
+    "height": 18,
+    "latency": 1285
+  },
+  {
+    "txIdx": 12,
+    "timestamp": 1738820335535,
+    "height": 18,
+    "latency": 1258
+  },
+  {
+    "txIdx": 13,
+    "timestamp": 1738820335503,
+    "height": 18,
+    "latency": 1290
+  },
+  {
+    "txIdx": 14,
+    "timestamp": 1738820335505,
+    "height": 18,
+    "latency": 1288
+  },
+  {
+    "txIdx": 15,
+    "timestamp": 1738820335510,
+    "height": 18,
+    "latency": 1283
+  },
+  {
+    "txIdx": 16,
+    "timestamp": 1738820335534,
+    "height": 18,
+    "latency": 1259
+  },
+  {
+    "txIdx": 17,
+    "timestamp": 1738820335502,
+    "height": 18,
+    "latency": 1291
+  },
+  {
+    "txIdx": 18,
+    "timestamp": 1738820335504,
+    "height": 18,
+    "latency": 1289
+  },
+  {
+    "txIdx": 19,
+    "timestamp": 1738820335506,
+    "height": 18,
+    "latency": 1287
+  },
+  {
+    "txIdx": 20,
+    "timestamp": 1738820336504,
+    "height": 19,
+    "latency": 1470
+  },
+  {
+    "txIdx": 21,
+    "timestamp": 1738820336504,
+    "height": 19,
+    "latency": 1470
+  },
+  {
+    "txIdx": 22,
+    "timestamp": 1738820336502,
+    "height": 19,
+    "latency": 1472
+  },
+  {
+    "txIdx": 23,
+    "timestamp": 1738820336505,
+    "height": 19,
+    "latency": 1469
+  },
+  {
+    "txIdx": 24,
+    "timestamp": 1738820336503,
+    "height": 19,
+    "latency": 1471
+  },
+  {
+    "txIdx": 25,
+    "timestamp": 1738820336505,
+    "height": 19,
+    "latency": 1469
+  },
+  {
+    "txIdx": 26,
+    "timestamp": 1738820336504,
+    "height": 19,
+    "latency": 1470
+  },
+  {
+    "txIdx": 27,
+    "timestamp": 1738820336504,
+    "height": 19,
+    "latency": 1470
+  },
+  {
+    "txIdx": 28,
+    "timestamp": 1738820336506,
+    "height": 19,
+    "latency": 1468
+  },
+  {
+    "txIdx": 29,
+    "timestamp": 1738820336503,
+    "height": 19,
+    "latency": 1471
+  }
+]

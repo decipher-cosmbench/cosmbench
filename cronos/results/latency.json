@@ -1,0 +1,10916 @@
+[
+  {
+    "txIdx": 325,
+    "timestamp": 1737802246584,
+    "height": 15,
+    "latency": 60233
+  },
+  {
+    "txIdx": 282,
+    "timestamp": 1737802246586,
+    "height": 12,
+    "latency": 37531
+  },
+  {
+    "txIdx": 29,
+    "timestamp": 1737802246587,
+    "height": 8,
+    "latency": 5798
+  },
+  {
+    "txIdx": 133,
+    "timestamp": 1737802246611,
+    "height": 8,
+    "latency": 5774
+  },
+  {
+    "txIdx": 276,
+    "timestamp": 1737802246611,
+    "height": 8,
+    "latency": 5774
+  },
+  {
+    "txIdx": 618,
+    "timestamp": 1737802246612,
+    "height": 8,
+    "latency": 5773
+  },
+  {
+    "txIdx": 642,
+    "timestamp": 1737802246611,
+    "height": 14,
+    "latency": 52652
+  },
+  {
+    "txIdx": 174,
+    "timestamp": 1737802246619,
+    "height": 15,
+    "latency": 60198
+  },
+  {
+    "txIdx": 352,
+    "timestamp": 1737802246620,
+    "height": 15,
+    "latency": 60197
+  },
+  {
+    "txIdx": 126,
+    "timestamp": 1737802246623,
+    "height": 10,
+    "latency": 21688
+  },
+  {
+    "txIdx": 155,
+    "timestamp": 1737802246625,
+    "height": 15,
+    "latency": 60192
+  },
+  {
+    "txIdx": 208,
+    "timestamp": 1737802246625,
+    "height": 8,
+    "latency": 5760
+  },
+  {
+    "txIdx": 119,
+    "timestamp": 1737802246628,
+    "height": 12,
+    "latency": 37489
+  },
+  {
+    "txIdx": 85,
+    "timestamp": 1737802246628,
+    "height": 14,
+    "latency": 52635
+  },
+  {
+    "txIdx": 472,
+    "timestamp": 1737802246628,
+    "height": 12,
+    "latency": 37489
+  },
+  {
+    "txIdx": 194,
+    "timestamp": 1737802246628,
+    "height": 12,
+    "latency": 37489
+  },
+  {
+    "txIdx": 23,
+    "timestamp": 1737802246629,
+    "height": 12,
+    "latency": 37488
+  },
+  {
+    "txIdx": 546,
+    "timestamp": 1737802246630,
+    "height": 15,
+    "latency": 60187
+  },
+  {
+    "txIdx": 608,
+    "timestamp": 1737802246632,
+    "height": 15,
+    "latency": 60185
+  },
+  {
+    "txIdx": 361,
+    "timestamp": 1737802246632,
+    "height": 8,
+    "latency": 5753
+  },
+  {
+    "txIdx": 365,
+    "timestamp": 1737802246634,
+    "height": 15,
+    "latency": 60183
+  },
+  {
+    "txIdx": 412,
+    "timestamp": 1737802246634,
+    "height": 14,
+    "latency": 52629
+  },
+  {
+    "txIdx": 200,
+    "timestamp": 1737802246671,
+    "height": 15,
+    "latency": 60146
+  },
+  {
+    "txIdx": 611,
+    "timestamp": 1737802246671,
+    "height": 8,
+    "latency": 5714
+  },
+  {
+    "txIdx": 45,
+    "timestamp": 1737802246671,
+    "height": 10,
+    "latency": 21640
+  },
+  {
+    "txIdx": 360,
+    "timestamp": 1737802246671,
+    "height": 13,
+    "latency": 44897
+  },
+  {
+    "txIdx": 327,
+    "timestamp": 1737802246671,
+    "height": 8,
+    "latency": 5714
+  },
+  {
+    "txIdx": 708,
+    "timestamp": 1737802246671,
+    "height": 14,
+    "latency": 52592
+  },
+  {
+    "txIdx": 8,
+    "timestamp": 1737802246671,
+    "height": 8,
+    "latency": 5714
+  },
+  {
+    "txIdx": 364,
+    "timestamp": 1737802246671,
+    "height": 10,
+    "latency": 21640
+  },
+  {
+    "txIdx": 349,
+    "timestamp": 1737802246672,
+    "height": 13,
+    "latency": 44896
+  },
+  {
+    "txIdx": 278,
+    "timestamp": 1737802246672,
+    "height": 8,
+    "latency": 5713
+  },
+  {
+    "txIdx": 111,
+    "timestamp": 1737802246671,
+    "height": 8,
+    "latency": 5714
+  },
+  {
+    "txIdx": 246,
+    "timestamp": 1737802246672,
+    "height": 14,
+    "latency": 52591
+  },
+  {
+    "txIdx": 522,
+    "timestamp": 1737802246671,
+    "height": 8,
+    "latency": 5714
+  },
+  {
+    "txIdx": 144,
+    "timestamp": 1737802246672,
+    "height": 14,
+    "latency": 52591
+  },
+  {
+    "txIdx": 76,
+    "timestamp": 1737802246671,
+    "height": 15,
+    "latency": 60146
+  },
+  {
+    "txIdx": 195,
+    "timestamp": 1737802246672,
+    "height": 13,
+    "latency": 44896
+  },
+  {
+    "txIdx": 236,
+    "timestamp": 1737802246672,
+    "height": 10,
+    "latency": 21639
+  },
+  {
+    "txIdx": 231,
+    "timestamp": 1737802246672,
+    "height": 11,
+    "latency": 29425
+  },
+  {
+    "txIdx": 297,
+    "timestamp": 1737802246672,
+    "height": 9,
+    "latency": 13822
+  },
+  {
+    "txIdx": 677,
+    "timestamp": 1737802246672,
+    "height": 14,
+    "latency": 52591
+  },
+  {
+    "txIdx": 84,
+    "timestamp": 1737802246672,
+    "height": 10,
+    "latency": 21639
+  },
+  {
+    "txIdx": 127,
+    "timestamp": 1737802246672,
+    "height": 8,
+    "latency": 5713
+  },
+  {
+    "txIdx": 469,
+    "timestamp": 1737802246673,
+    "height": 11,
+    "latency": 29424
+  },
+  {
+    "txIdx": 359,
+    "timestamp": 1737802246673,
+    "height": 10,
+    "latency": 21638
+  },
+  {
+    "txIdx": 88,
+    "timestamp": 1737802246672,
+    "height": 8,
+    "latency": 5713
+  },
+  {
+    "txIdx": 549,
+    "timestamp": 1737802246672,
+    "height": 8,
+    "latency": 5713
+  },
+  {
+    "txIdx": 138,
+    "timestamp": 1737802246672,
+    "height": 12,
+    "latency": 37445
+  },
+  {
+    "txIdx": 598,
+    "timestamp": 1737802246673,
+    "height": 10,
+    "latency": 21638
+  },
+  {
+    "txIdx": 269,
+    "timestamp": 1737802246671,
+    "height": 8,
+    "latency": 5714
+  },
+  {
+    "txIdx": 373,
+    "timestamp": 1737802246673,
+    "height": 11,
+    "latency": 29424
+  },
+  {
+    "txIdx": 308,
+    "timestamp": 1737802246673,
+    "height": 8,
+    "latency": 5712
+  },
+  {
+    "txIdx": 416,
+    "timestamp": 1737802246675,
+    "height": 12,
+    "latency": 37442
+  },
+  {
+    "txIdx": 403,
+    "timestamp": 1737802246675,
+    "height": 12,
+    "latency": 37442
+  },
+  {
+    "txIdx": 262,
+    "timestamp": 1737802246679,
+    "height": 10,
+    "latency": 21632
+  },
+  {
+    "txIdx": 253,
+    "timestamp": 1737802246682,
+    "height": 14,
+    "latency": 52581
+  },
+  {
+    "txIdx": 164,
+    "timestamp": 1737802246684,
+    "height": 13,
+    "latency": 44884
+  },
+  {
+    "txIdx": 533,
+    "timestamp": 1737802246684,
+    "height": 15,
+    "latency": 60133
+  },
+  {
+    "txIdx": 257,
+    "timestamp": 1737802246687,
+    "height": 15,
+    "latency": 60130
+  },
+  {
+    "txIdx": 491,
+    "timestamp": 1737802246687,
+    "height": 10,
+    "latency": 21624
+  },
+  {
+    "txIdx": 107,
+    "timestamp": 1737802246688,
+    "height": 8,
+    "latency": 5697
+  },
+  {
+    "txIdx": 756,
+    "timestamp": 1737802246691,
+    "height": 14,
+    "latency": 52572
+  },
+  {
+    "txIdx": 183,
+    "timestamp": 1737802246691,
+    "height": 13,
+    "latency": 44877
+  },
+  {
+    "txIdx": 213,
+    "timestamp": 1737802246691,
+    "height": 14,
+    "latency": 52572
+  },
+  {
+    "txIdx": 580,
+    "timestamp": 1737802246694,
+    "height": 12,
+    "latency": 37423
+  },
+  {
+    "txIdx": 199,
+    "timestamp": 1737802246694,
+    "height": 8,
+    "latency": 5691
+  },
+  {
+    "txIdx": 196,
+    "timestamp": 1737802246698,
+    "height": 14,
+    "latency": 52565
+  },
+  {
+    "txIdx": 137,
+    "timestamp": 1737802246698,
+    "height": 15,
+    "latency": 60119
+  },
+  {
+    "txIdx": 255,
+    "timestamp": 1737802246698,
+    "height": 14,
+    "latency": 52565
+  },
+  {
+    "txIdx": 312,
+    "timestamp": 1737802246699,
+    "height": 15,
+    "latency": 60118
+  },
+  {
+    "txIdx": 385,
+    "timestamp": 1737802246699,
+    "height": 14,
+    "latency": 52564
+  },
+  {
+    "txIdx": 298,
+    "timestamp": 1737802246699,
+    "height": 12,
+    "latency": 37418
+  },
+  {
+    "txIdx": 279,
+    "timestamp": 1737802246699,
+    "height": 8,
+    "latency": 5686
+  },
+  {
+    "txIdx": 383,
+    "timestamp": 1737802246701,
+    "height": 12,
+    "latency": 37416
+  },
+  {
+    "txIdx": 49,
+    "timestamp": 1737802246701,
+    "height": 10,
+    "latency": 21610
+  },
+  {
+    "txIdx": 426,
+    "timestamp": 1737802246702,
+    "height": 8,
+    "latency": 5683
+  },
+  {
+    "txIdx": 488,
+    "timestamp": 1737802246702,
+    "height": 8,
+    "latency": 5683
+  },
+  {
+    "txIdx": 556,
+    "timestamp": 1737802246704,
+    "height": 11,
+    "latency": 29393
+  },
+  {
+    "txIdx": 420,
+    "timestamp": 1737802246705,
+    "height": 8,
+    "latency": 5680
+  },
+  {
+    "txIdx": 368,
+    "timestamp": 1737802246708,
+    "height": 15,
+    "latency": 60109
+  },
+  {
+    "txIdx": 744,
+    "timestamp": 1737802246708,
+    "height": 11,
+    "latency": 29389
+  },
+  {
+    "txIdx": 748,
+    "timestamp": 1737802246710,
+    "height": 15,
+    "latency": 60107
+  },
+  {
+    "txIdx": 362,
+    "timestamp": 1737802246710,
+    "height": 11,
+    "latency": 29387
+  },
+  {
+    "txIdx": 629,
+    "timestamp": 1737802246712,
+    "height": 13,
+    "latency": 44856
+  },
+  {
+    "txIdx": 605,
+    "timestamp": 1737802246713,
+    "height": 8,
+    "latency": 5672
+  },
+  {
+    "txIdx": 696,
+    "timestamp": 1737802246714,
+    "height": 14,
+    "latency": 52549
+  },
+  {
+    "txIdx": 487,
+    "timestamp": 1737802246715,
+    "height": 8,
+    "latency": 5670
+  },
+  {
+    "txIdx": 545,
+    "timestamp": 1737802246715,
+    "height": 8,
+    "latency": 5670
+  },
+  {
+    "txIdx": 106,
+    "timestamp": 1737802246715,
+    "height": 13,
+    "latency": 44853
+  },
+  {
+    "txIdx": 386,
+    "timestamp": 1737802246716,
+    "height": 13,
+    "latency": 44852
+  },
+  {
+    "txIdx": 518,
+    "timestamp": 1737802246717,
+    "height": 14,
+    "latency": 52546
+  },
+  {
+    "txIdx": 587,
+    "timestamp": 1737802246718,
+    "height": 15,
+    "latency": 60099
+  },
+  {
+    "txIdx": 220,
+    "timestamp": 1737802246720,
+    "height": 10,
+    "latency": 21591
+  },
+  {
+    "txIdx": 248,
+    "timestamp": 1737802246720,
+    "height": 10,
+    "latency": 21591
+  },
+  {
+    "txIdx": 736,
+    "timestamp": 1737802246722,
+    "height": 8,
+    "latency": 5663
+  },
+  {
+    "txIdx": 347,
+    "timestamp": 1737802246723,
+    "height": 12,
+    "latency": 37394
+  },
+  {
+    "txIdx": 418,
+    "timestamp": 1737802246723,
+    "height": 11,
+    "latency": 29374
+  },
+  {
+    "txIdx": 35,
+    "timestamp": 1737802246724,
+    "height": 8,
+    "latency": 5661
+  },
+  {
+    "txIdx": 124,
+    "timestamp": 1737802246725,
+    "height": 11,
+    "latency": 29372
+  },
+  {
+    "txIdx": 79,
+    "timestamp": 1737802246726,
+    "height": 8,
+    "latency": 5659
+  },
+  {
+    "txIdx": 116,
+    "timestamp": 1737802246727,
+    "height": 13,
+    "latency": 44841
+  },
+  {
+    "txIdx": 730,
+    "timestamp": 1737802246727,
+    "height": 13,
+    "latency": 44841
+  },
+  {
+    "txIdx": 324,
+    "timestamp": 1737802246728,
+    "height": 14,
+    "latency": 52535
+  },
+  {
+    "txIdx": 95,
+    "timestamp": 1737802246728,
+    "height": 11,
+    "latency": 29369
+  },
+  {
+    "txIdx": 773,
+    "timestamp": 1737802246729,
+    "height": 15,
+    "latency": 60088
+  },
+  {
+    "txIdx": 504,
+    "timestamp": 1737802246730,
+    "height": 11,
+    "latency": 29367
+  },
+  {
+    "txIdx": 694,
+    "timestamp": 1737802246730,
+    "height": 8,
+    "latency": 5655
+  },
+  {
+    "txIdx": 260,
+    "timestamp": 1737802246730,
+    "height": 13,
+    "latency": 44838
+  },
+  {
+    "txIdx": 673,
+    "timestamp": 1737802246731,
+    "height": 8,
+    "latency": 5654
+  },
+  {
+    "txIdx": 514,
+    "timestamp": 1737802246732,
+    "height": 8,
+    "latency": 5653
+  },
+  {
+    "txIdx": 400,
+    "timestamp": 1737802246732,
+    "height": 13,
+    "latency": 44836
+  },
+  {
+    "txIdx": 645,
+    "timestamp": 1737802246733,
+    "height": 13,
+    "latency": 44835
+  },
+  {
+    "txIdx": 574,
+    "timestamp": 1737802246734,
+    "height": 8,
+    "latency": 5651
+  },
+  {
+    "txIdx": 211,
+    "timestamp": 1737802246734,
+    "height": 15,
+    "latency": 60083
+  },
+  {
+    "txIdx": 392,
+    "timestamp": 1737802246735,
+    "height": 8,
+    "latency": 5650
+  },
+  {
+    "txIdx": 353,
+    "timestamp": 1737802246739,
+    "height": 11,
+    "latency": 29358
+  },
+  {
+    "txIdx": 64,
+    "timestamp": 1737802246739,
+    "height": 11,
+    "latency": 29358
+  },
+  {
+    "txIdx": 459,
+    "timestamp": 1737802246740,
+    "height": 15,
+    "latency": 60077
+  },
+  {
+    "txIdx": 464,
+    "timestamp": 1737802246740,
+    "height": 8,
+    "latency": 5645
+  },
+  {
+    "txIdx": 793,
+    "timestamp": 1737802246740,
+    "height": 10,
+    "latency": 21571
+  },
+  {
+    "txIdx": 456,
+    "timestamp": 1737802246742,
+    "height": 8,
+    "latency": 5643
+  },
+  {
+    "txIdx": 123,
+    "timestamp": 1737802246742,
+    "height": 12,
+    "latency": 37375
+  },
+  {
+    "txIdx": 240,
+    "timestamp": 1737802246742,
+    "height": 13,
+    "latency": 44826
+  },
+  {
+    "txIdx": 646,
+    "timestamp": 1737802246743,
+    "height": 11,
+    "latency": 29354
+  },
+  {
+    "txIdx": 415,
+    "timestamp": 1737802246744,
+    "height": 10,
+    "latency": 21567
+  },
+  {
+    "txIdx": 737,
+    "timestamp": 1737802246744,
+    "height": 10,
+    "latency": 21567
+  },
+  {
+    "txIdx": 620,
+    "timestamp": 1737802246744,
+    "height": 14,
+    "latency": 52519
+  },
+  {
+    "txIdx": 71,
+    "timestamp": 1737802246747,
+    "height": 14,
+    "latency": 52516
+  },
+  {
+    "txIdx": 263,
+    "timestamp": 1737802246748,
+    "height": 8,
+    "latency": 5637
+  },
+  {
+    "txIdx": 494,
+    "timestamp": 1737802246749,
+    "height": 13,
+    "latency": 44819
+  },
+  {
+    "txIdx": 73,
+    "timestamp": 1737802246749,
+    "height": 13,
+    "latency": 44819
+  },
+  {
+    "txIdx": 788,
+    "timestamp": 1737802246749,
+    "height": 11,
+    "latency": 29348
+  },
+  {
+    "txIdx": 363,
+    "timestamp": 1737802246750,
+    "height": 8,
+    "latency": 5635
+  },
+  {
+    "txIdx": 552,
+    "timestamp": 1737802246750,
+    "height": 12,
+    "latency": 37367
+  },
+  {
+    "txIdx": 495,
+    "timestamp": 1737802246751,
+    "height": 8,
+    "latency": 5634
+  },
+  {
+    "txIdx": 105,
+    "timestamp": 1737802246752,
+    "height": 15,
+    "latency": 60065
+  },
+  {
+    "txIdx": 460,
+    "timestamp": 1737802246752,
+    "height": 12,
+    "latency": 37365
+  },
+  {
+    "txIdx": 267,
+    "timestamp": 1737802246753,
+    "height": 10,
+    "latency": 21558
+  },
+  {
+    "txIdx": 786,
+    "timestamp": 1737802246753,
+    "height": 13,
+    "latency": 44815
+  },
+  {
+    "txIdx": 511,
+    "timestamp": 1737802246755,
+    "height": 11,
+    "latency": 29342
+  },
+  {
+    "txIdx": 330,
+    "timestamp": 1737802246755,
+    "height": 11,
+    "latency": 29342
+  },
+  {
+    "txIdx": 319,
+    "timestamp": 1737802246760,
+    "height": 8,
+    "latency": 5625
+  },
+  {
+    "txIdx": 44,
+    "timestamp": 1737802246760,
+    "height": 12,
+    "latency": 37357
+  },
+  {
+    "txIdx": 762,
+    "timestamp": 1737802246762,
+    "height": 14,
+    "latency": 52501
+  },
+  {
+    "txIdx": 684,
+    "timestamp": 1737802246762,
+    "height": 8,
+    "latency": 5623
+  },
+  {
+    "txIdx": 716,
+    "timestamp": 1737802246763,
+    "height": 14,
+    "latency": 52500
+  },
+  {
+    "txIdx": 221,
+    "timestamp": 1737802246763,
+    "height": 15,
+    "latency": 60054
+  },
+  {
+    "txIdx": 632,
+    "timestamp": 1737802246764,
+    "height": 8,
+    "latency": 5621
+  },
+  {
+    "txIdx": 380,
+    "timestamp": 1737802246764,
+    "height": 8,
+    "latency": 5621
+  },
+  {
+    "txIdx": 229,
+    "timestamp": 1737802246765,
+    "height": 13,
+    "latency": 44803
+  },
+  {
+    "txIdx": 136,
+    "timestamp": 1737802246766,
+    "height": 11,
+    "latency": 29331
+  },
+  {
+    "txIdx": 398,
+    "timestamp": 1737802246767,
+    "height": 11,
+    "latency": 29330
+  },
+  {
+    "txIdx": 215,
+    "timestamp": 1737802246767,
+    "height": 8,
+    "latency": 5618
+  },
+  {
+    "txIdx": 497,
+    "timestamp": 1737802246767,
+    "height": 13,
+    "latency": 44801
+  },
+  {
+    "txIdx": 192,
+    "timestamp": 1737802246768,
+    "height": 15,
+    "latency": 60049
+  },
+  {
+    "txIdx": 422,
+    "timestamp": 1737802246769,
+    "height": 8,
+    "latency": 5616
+  },
+  {
+    "txIdx": 251,
+    "timestamp": 1737802246769,
+    "height": 11,
+    "latency": 29328
+  },
+  {
+    "txIdx": 493,
+    "timestamp": 1737802246769,
+    "height": 13,
+    "latency": 44799
+  },
+  {
+    "txIdx": 576,
+    "timestamp": 1737802246769,
+    "height": 8,
+    "latency": 5616
+  },
+  {
+    "txIdx": 537,
+    "timestamp": 1737802246770,
+    "height": 11,
+    "latency": 29327
+  },
+  {
+    "txIdx": 584,
+    "timestamp": 1737802246771,
+    "height": 8,
+    "latency": 5614
+  },
+  {
+    "txIdx": 285,
+    "timestamp": 1737802246775,
+    "height": 11,
+    "latency": 29322
+  },
+  {
+    "txIdx": 732,
+    "timestamp": 1737802246775,
+    "height": 15,
+    "latency": 60042
+  },
+  {
+    "txIdx": 525,
+    "timestamp": 1737802246776,
+    "height": 11,
+    "latency": 29321
+  },
+  {
+    "txIdx": 65,
+    "timestamp": 1737802246777,
+    "height": 15,
+    "latency": 60040
+  },
+  {
+    "txIdx": 534,
+    "timestamp": 1737802246782,
+    "height": 12,
+    "latency": 37335
+  },
+  {
+    "txIdx": 489,
+    "timestamp": 1737802246783,
+    "height": 13,
+    "latency": 44785
+  },
+  {
+    "txIdx": 103,
+    "timestamp": 1737802246784,
+    "height": 12,
+    "latency": 37333
+  },
+  {
+    "txIdx": 613,
+    "timestamp": 1737802246784,
+    "height": 13,
+    "latency": 44784
+  },
+  {
+    "txIdx": 657,
+    "timestamp": 1737802246785,
+    "height": 8,
+    "latency": 5600
+  },
+  {
+    "txIdx": 770,
+    "timestamp": 1737802246787,
+    "height": 8,
+    "latency": 5598
+  },
+  {
+    "txIdx": 294,
+    "timestamp": 1737802246796,
+    "height": 15,
+    "latency": 60021
+  },
+  {
+    "txIdx": 55,
+    "timestamp": 1737802246796,
+    "height": 13,
+    "latency": 44772
+  },
+  {
+    "txIdx": 178,
+    "timestamp": 1737802246797,
+    "height": 15,
+    "latency": 60020
+  },
+  {
+    "txIdx": 527,
+    "timestamp": 1737802246797,
+    "height": 11,
+    "latency": 29300
+  },
+  {
+    "txIdx": 433,
+    "timestamp": 1737802246797,
+    "height": 12,
+    "latency": 37320
+  },
+  {
+    "txIdx": 735,
+    "timestamp": 1737802246798,
+    "height": 15,
+    "latency": 60019
+  },
+  {
+    "txIdx": 689,
+    "timestamp": 1737802246800,
+    "height": 13,
+    "latency": 44768
+  },
+  {
+    "txIdx": 331,
+    "timestamp": 1737802246803,
+    "height": 10,
+    "latency": 21508
+  },
+  {
+    "txIdx": 402,
+    "timestamp": 1737802246804,
+    "height": 14,
+    "latency": 52459
+  },
+  {
+    "txIdx": 717,
+    "timestamp": 1737802246804,
+    "height": 14,
+    "latency": 52459
+  },
+  {
+    "txIdx": 750,
+    "timestamp": 1737802246805,
+    "height": 13,
+    "latency": 44763
+  },
+  {
+    "txIdx": 767,
+    "timestamp": 1737802246805,
+    "height": 15,
+    "latency": 60012
+  },
+  {
+    "txIdx": 474,
+    "timestamp": 1737802246806,
+    "height": 14,
+    "latency": 52457
+  },
+  {
+    "txIdx": 479,
+    "timestamp": 1737802246806,
+    "height": 15,
+    "latency": 60011
+  },
+  {
+    "txIdx": 355,
+    "timestamp": 1737802246807,
+    "height": 14,
+    "latency": 52456
+  },
+  {
+    "txIdx": 555,
+    "timestamp": 1737802246810,
+    "height": 12,
+    "latency": 37307
+  },
+  {
+    "txIdx": 745,
+    "timestamp": 1737802246811,
+    "height": 8,
+    "latency": 5574
+  },
+  {
+    "txIdx": 259,
+    "timestamp": 1737802246811,
+    "height": 8,
+    "latency": 5574
+  },
+  {
+    "txIdx": 779,
+    "timestamp": 1737802246812,
+    "height": 11,
+    "latency": 29285
+  },
+  {
+    "txIdx": 395,
+    "timestamp": 1737802246813,
+    "height": 8,
+    "latency": 5572
+  },
+  {
+    "txIdx": 721,
+    "timestamp": 1737802246813,
+    "height": 14,
+    "latency": 52450
+  },
+  {
+    "txIdx": 205,
+    "timestamp": 1737802246814,
+    "height": 15,
+    "latency": 60003
+  },
+  {
+    "txIdx": 439,
+    "timestamp": 1737802246814,
+    "height": 15,
+    "latency": 60003
+  },
+  {
+    "txIdx": 203,
+    "timestamp": 1737802246815,
+    "height": 8,
+    "latency": 5570
+  },
+  {
+    "txIdx": 413,
+    "timestamp": 1737802246816,
+    "height": 8,
+    "latency": 5569
+  },
+  {
+    "txIdx": 175,
+    "timestamp": 1737802246816,
+    "height": 13,
+    "latency": 44752
+  },
+  {
+    "txIdx": 626,
+    "timestamp": 1737802246817,
+    "height": 11,
+    "latency": 29280
+  },
+  {
+    "txIdx": 719,
+    "timestamp": 1737802246822,
+    "height": 14,
+    "latency": 52441
+  },
+  {
+    "txIdx": 446,
+    "timestamp": 1737802246822,
+    "height": 8,
+    "latency": 5563
+  },
+  {
+    "txIdx": 681,
+    "timestamp": 1737802246824,
+    "height": 13,
+    "latency": 44744
+  },
+  {
+    "txIdx": 429,
+    "timestamp": 1737802246825,
+    "height": 8,
+    "latency": 5560
+  },
+  {
+    "txIdx": 658,
+    "timestamp": 1737802246825,
+    "height": 8,
+    "latency": 5560
+  },
+  {
+    "txIdx": 674,
+    "timestamp": 1737802246827,
+    "height": 15,
+    "latency": 59990
+  },
+  {
+    "txIdx": 701,
+    "timestamp": 1737802246830,
+    "height": 14,
+    "latency": 52433
+  },
+  {
+    "txIdx": 191,
+    "timestamp": 1737802246831,
+    "height": 15,
+    "latency": 59986
+  },
+  {
+    "txIdx": 615,
+    "timestamp": 1737802246838,
+    "height": 12,
+    "latency": 37279
+  },
+  {
+    "txIdx": 659,
+    "timestamp": 1737802246839,
+    "height": 10,
+    "latency": 21472
+  },
+  {
+    "txIdx": 802,
+    "timestamp": 1737802247523,
+    "height": 10,
+    "latency": 20788
+  },
+  {
+    "txIdx": 835,
+    "timestamp": 1737802247523,
+    "height": 11,
+    "latency": 28574
+  },
+  {
+    "txIdx": 1144,
+    "timestamp": 1737802247524,
+    "height": 14,
+    "latency": 51739
+  },
+  {
+    "txIdx": 809,
+    "timestamp": 1737802247538,
+    "height": 10,
+    "latency": 20773
+  },
+  {
+    "txIdx": 1330,
+    "timestamp": 1737802247534,
+    "height": 12,
+    "latency": 36583
+  },
+  {
+    "txIdx": 1260,
+    "timestamp": 1737802247533,
+    "height": 15,
+    "latency": 59284
+  },
+  {
+    "txIdx": 1245,
+    "timestamp": 1737802247541,
+    "height": 12,
+    "latency": 36576
+  },
+  {
+    "txIdx": 1276,
+    "timestamp": 1737802247539,
+    "height": 8,
+    "latency": 4846
+  },
+  {
+    "txIdx": 1089,
+    "timestamp": 1737802247539,
+    "height": 15,
+    "latency": 59278
+  },
+  {
+    "txIdx": 1322,
+    "timestamp": 1737802247539,
+    "height": 10,
+    "latency": 20772
+  },
+  {
+    "txIdx": 800,
+    "timestamp": 1737802247540,
+    "height": 12,
+    "latency": 36577
+  },
+  {
+    "txIdx": 1197,
+    "timestamp": 1737802247547,
+    "height": 12,
+    "latency": 36570
+  },
+  {
+    "txIdx": 1503,
+    "timestamp": 1737802247548,
+    "height": 8,
+    "latency": 4837
+  },
+  {
+    "txIdx": 1005,
+    "timestamp": 1737802247549,
+    "height": 14,
+    "latency": 51714
+  },
+  {
+    "txIdx": 1084,
+    "timestamp": 1737802247552,
+    "height": 8,
+    "latency": 4833
+  },
+  {
+    "txIdx": 1308,
+    "timestamp": 1737802247553,
+    "height": 14,
+    "latency": 51710
+  },
+  {
+    "txIdx": 1184,
+    "timestamp": 1737802247558,
+    "height": 12,
+    "latency": 36559
+  },
+  {
+    "txIdx": 924,
+    "timestamp": 1737802247559,
+    "height": 8,
+    "latency": 4826
+  },
+  {
+    "txIdx": 1169,
+    "timestamp": 1737802247560,
+    "height": 8,
+    "latency": 4825
+  },
+  {
+    "txIdx": 1075,
+    "timestamp": 1737802247561,
+    "height": 13,
+    "latency": 44007
+  },
+  {
+    "txIdx": 1165,
+    "timestamp": 1737802247561,
+    "height": 12,
+    "latency": 36556
+  },
+  {
+    "txIdx": 853,
+    "timestamp": 1737802247563,
+    "height": 10,
+    "latency": 20748
+  },
+  {
+    "txIdx": 1288,
+    "timestamp": 1737802247564,
+    "height": 12,
+    "latency": 36553
+  },
+  {
+    "txIdx": 1458,
+    "timestamp": 1737802247565,
+    "height": 11,
+    "latency": 28532
+  },
+  {
+    "txIdx": 849,
+    "timestamp": 1737802247569,
+    "height": 14,
+    "latency": 51694
+  },
+  {
+    "txIdx": 1055,
+    "timestamp": 1737802247569,
+    "height": 8,
+    "latency": 4816
+  },
+  {
+    "txIdx": 877,
+    "timestamp": 1737802247570,
+    "height": 11,
+    "latency": 28527
+  },
+  {
+    "txIdx": 884,
+    "timestamp": 1737802247570,
+    "height": 8,
+    "latency": 4815
+  },
+  {
+    "txIdx": 907,
+    "timestamp": 1737802247570,
+    "height": 10,
+    "latency": 20741
+  },
+  {
+    "txIdx": 1224,
+    "timestamp": 1737802247571,
+    "height": 8,
+    "latency": 4814
+  },
+  {
+    "txIdx": 961,
+    "timestamp": 1737802247572,
+    "height": 10,
+    "latency": 20739
+  },
+  {
+    "txIdx": 818,
+    "timestamp": 1737802247574,
+    "height": 8,
+    "latency": 4811
+  },
+  {
+    "txIdx": 1013,
+    "timestamp": 1737802247575,
+    "height": 8,
+    "latency": 4810
+  },
+  {
+    "txIdx": 959,
+    "timestamp": 1737802247575,
+    "height": 8,
+    "latency": 4810
+  },
+  {
+    "txIdx": 928,
+    "timestamp": 1737802247577,
+    "height": 8,
+    "latency": 4808
+  },
+  {
+    "txIdx": 1096,
+    "timestamp": 1737802247578,
+    "height": 8,
+    "latency": 4807
+  },
+  {
+    "txIdx": 1170,
+    "timestamp": 1737802247579,
+    "height": 8,
+    "latency": 4806
+  },
+  {
+    "txIdx": 1366,
+    "timestamp": 1737802247580,
+    "height": 10,
+    "latency": 20731
+  },
+  {
+    "txIdx": 1332,
+    "timestamp": 1737802247581,
+    "height": 12,
+    "latency": 36536
+  },
+  {
+    "txIdx": 1310,
+    "timestamp": 1737802247584,
+    "height": 13,
+    "latency": 43984
+  },
+  {
+    "txIdx": 1360,
+    "timestamp": 1737802247588,
+    "height": 15,
+    "latency": 59229
+  },
+  {
+    "txIdx": 1127,
+    "timestamp": 1737802247588,
+    "height": 8,
+    "latency": 4797
+  },
+  {
+    "txIdx": 1545,
+    "timestamp": 1737802247589,
+    "height": 13,
+    "latency": 43979
+  },
+  {
+    "txIdx": 1021,
+    "timestamp": 1737802247590,
+    "height": 8,
+    "latency": 4795
+  },
+  {
+    "txIdx": 1353,
+    "timestamp": 1737802247591,
+    "height": 10,
+    "latency": 20720
+  },
+  {
+    "txIdx": 1228,
+    "timestamp": 1737802247592,
+    "height": 8,
+    "latency": 4793
+  },
+  {
+    "txIdx": 1155,
+    "timestamp": 1737802247593,
+    "height": 13,
+    "latency": 43975
+  },
+  {
+    "txIdx": 1180,
+    "timestamp": 1737802247594,
+    "height": 8,
+    "latency": 4791
+  },
+  {
+    "txIdx": 1357,
+    "timestamp": 1737802247597,
+    "height": 8,
+    "latency": 4788
+  },
+  {
+    "txIdx": 1304,
+    "timestamp": 1737802247599,
+    "height": 11,
+    "latency": 28498
+  },
+  {
+    "txIdx": 904,
+    "timestamp": 1737802247600,
+    "height": 10,
+    "latency": 20711
+  },
+  {
+    "txIdx": 996,
+    "timestamp": 1737802247602,
+    "height": 12,
+    "latency": 36515
+  },
+  {
+    "txIdx": 1313,
+    "timestamp": 1737802247603,
+    "height": 14,
+    "latency": 51660
+  },
+  {
+    "txIdx": 845,
+    "timestamp": 1737802247604,
+    "height": 8,
+    "latency": 4781
+  },
+  {
+    "txIdx": 872,
+    "timestamp": 1737802247605,
+    "height": 14,
+    "latency": 51658
+  },
+  {
+    "txIdx": 958,
+    "timestamp": 1737802247606,
+    "height": 8,
+    "latency": 4779
+  },
+  {
+    "txIdx": 1091,
+    "timestamp": 1737802247607,
+    "height": 12,
+    "latency": 36510
+  },
+  {
+    "txIdx": 985,
+    "timestamp": 1737802247608,
+    "height": 8,
+    "latency": 4777
+  },
+  {
+    "txIdx": 857,
+    "timestamp": 1737802247609,
+    "height": 12,
+    "latency": 36508
+  },
+  {
+    "txIdx": 876,
+    "timestamp": 1737802247610,
+    "height": 8,
+    "latency": 4775
+  },
+  {
+    "txIdx": 1350,
+    "timestamp": 1737802247610,
+    "height": 10,
+    "latency": 20701
+  },
+  {
+    "txIdx": 953,
+    "timestamp": 1737802247611,
+    "height": 12,
+    "latency": 36506
+  },
+  {
+    "txIdx": 1361,
+    "timestamp": 1737802247615,
+    "height": 12,
+    "latency": 36502
+  },
+  {
+    "txIdx": 916,
+    "timestamp": 1737802247616,
+    "height": 15,
+    "latency": 59201
+  },
+  {
+    "txIdx": 1459,
+    "timestamp": 1737802247616,
+    "height": 11,
+    "latency": 28481
+  },
+  {
+    "txIdx": 981,
+    "timestamp": 1737802247619,
+    "height": 15,
+    "latency": 59198
+  },
+  {
+    "txIdx": 1369,
+    "timestamp": 1737802247619,
+    "height": 10,
+    "latency": 20692
+  },
+  {
+    "txIdx": 1236,
+    "timestamp": 1737802247620,
+    "height": 12,
+    "latency": 36497
+  },
+  {
+    "txIdx": 995,
+    "timestamp": 1737802247621,
+    "height": 13,
+    "latency": 43947
+  },
+  {
+    "txIdx": 1371,
+    "timestamp": 1737802247625,
+    "height": 13,
+    "latency": 43943
+  },
+  {
+    "txIdx": 949,
+    "timestamp": 1737802247626,
+    "height": 13,
+    "latency": 43942
+  },
+  {
+    "txIdx": 1319,
+    "timestamp": 1737802247626,
+    "height": 13,
+    "latency": 43942
+  },
+  {
+    "txIdx": 825,
+    "timestamp": 1737802247629,
+    "height": 15,
+    "latency": 59188
+  },
+  {
+    "txIdx": 1546,
+    "timestamp": 1737802247630,
+    "height": 12,
+    "latency": 36487
+  },
+  {
+    "txIdx": 1456,
+    "timestamp": 1737802247631,
+    "height": 15,
+    "latency": 59186
+  },
+  {
+    "txIdx": 1294,
+    "timestamp": 1737802247632,
+    "height": 16,
+    "latency": 66512
+  },
+  {
+    "txIdx": 1302,
+    "timestamp": 1737802247637,
+    "height": 15,
+    "latency": 59180
+  },
+  {
+    "txIdx": 920,
+    "timestamp": 1737802247638,
+    "height": 16,
+    "latency": 66506
+  },
+  {
+    "txIdx": 1131,
+    "timestamp": 1737802247639,
+    "height": 13,
+    "latency": 43929
+  },
+  {
+    "txIdx": 1137,
+    "timestamp": 1737802247639,
+    "height": 8,
+    "latency": 4746
+  },
+  {
+    "txIdx": 1173,
+    "timestamp": 1737802247643,
+    "height": 10,
+    "latency": 20668
+  },
+  {
+    "txIdx": 841,
+    "timestamp": 1737802247644,
+    "height": 12,
+    "latency": 36473
+  },
+  {
+    "txIdx": 1254,
+    "timestamp": 1737802247644,
+    "height": 9,
+    "latency": 12850
+  },
+  {
+    "txIdx": 1029,
+    "timestamp": 1737802247645,
+    "height": 14,
+    "latency": 51618
+  },
+  {
+    "txIdx": 945,
+    "timestamp": 1737802247646,
+    "height": 14,
+    "latency": 51617
+  },
+  {
+    "txIdx": 1031,
+    "timestamp": 1737802247646,
+    "height": 8,
+    "latency": 4739
+  },
+  {
+    "txIdx": 1100,
+    "timestamp": 1737802247647,
+    "height": 8,
+    "latency": 4738
+  },
+  {
+    "txIdx": 1079,
+    "timestamp": 1737802247648,
+    "height": 12,
+    "latency": 36469
+  },
+  {
+    "txIdx": 1573,
+    "timestamp": 1737802247648,
+    "height": 12,
+    "latency": 36469
+  },
+  {
+    "txIdx": 1040,
+    "timestamp": 1737802247649,
+    "height": 10,
+    "latency": 20662
+  },
+  {
+    "txIdx": 1362,
+    "timestamp": 1737802247650,
+    "height": 8,
+    "latency": 4735
+  },
+  {
+    "txIdx": 1057,
+    "timestamp": 1737802247651,
+    "height": 8,
+    "latency": 4734
+  },
+  {
+    "txIdx": 1115,
+    "timestamp": 1737802247651,
+    "height": 10,
+    "latency": 20660
+  },
+  {
+    "txIdx": 1277,
+    "timestamp": 1737802247651,
+    "height": 8,
+    "latency": 4734
+  },
+  {
+    "txIdx": 1314,
+    "timestamp": 1737802247652,
+    "height": 10,
+    "latency": 20659
+  },
+  {
+    "txIdx": 1065,
+    "timestamp": 1737802247653,
+    "height": 10,
+    "latency": 20658
+  },
+  {
+    "txIdx": 1168,
+    "timestamp": 1737802247653,
+    "height": 13,
+    "latency": 43915
+  },
+  {
+    "txIdx": 1469,
+    "timestamp": 1737802247654,
+    "height": 12,
+    "latency": 36463
+  },
+  {
+    "txIdx": 912,
+    "timestamp": 1737802247655,
+    "height": 12,
+    "latency": 36462
+  },
+  {
+    "txIdx": 1109,
+    "timestamp": 1737802247655,
+    "height": 8,
+    "latency": 4730
+  },
+  {
+    "txIdx": 1053,
+    "timestamp": 1737802247656,
+    "height": 13,
+    "latency": 43912
+  },
+  {
+    "txIdx": 834,
+    "timestamp": 1737802247657,
+    "height": 16,
+    "latency": 66487
+  },
+  {
+    "txIdx": 1557,
+    "timestamp": 1737802247658,
+    "height": 12,
+    "latency": 36459
+  },
+  {
+    "txIdx": 833,
+    "timestamp": 1737802247659,
+    "height": 8,
+    "latency": 4726
+  },
+  {
+    "txIdx": 1370,
+    "timestamp": 1737802247660,
+    "height": 10,
+    "latency": 20651
+  },
+  {
+    "txIdx": 1593,
+    "timestamp": 1737802247661,
+    "height": 16,
+    "latency": 66483
+  },
+  {
+    "txIdx": 1200,
+    "timestamp": 1737802247662,
+    "height": 8,
+    "latency": 4723
+  },
+  {
+    "txIdx": 1291,
+    "timestamp": 1737802247663,
+    "height": 15,
+    "latency": 59154
+  },
+  {
+    "txIdx": 897,
+    "timestamp": 1737802247663,
+    "height": 13,
+    "latency": 43905
+  },
+  {
+    "txIdx": 1202,
+    "timestamp": 1737802247663,
+    "height": 13,
+    "latency": 43905
+  },
+  {
+    "txIdx": 1391,
+    "timestamp": 1737802247664,
+    "height": 14,
+    "latency": 51599
+  },
+  {
+    "txIdx": 838,
+    "timestamp": 1737802247664,
+    "height": 10,
+    "latency": 20647
+  },
+  {
+    "txIdx": 1073,
+    "timestamp": 1737802247665,
+    "height": 8,
+    "latency": 4720
+  },
+  {
+    "txIdx": 1341,
+    "timestamp": 1737802247667,
+    "height": 16,
+    "latency": 66477
+  },
+  {
+    "txIdx": 1070,
+    "timestamp": 1737802247667,
+    "height": 15,
+    "latency": 59150
+  },
+  {
+    "txIdx": 827,
+    "timestamp": 1737802247668,
+    "height": 14,
+    "latency": 51595
+  },
+  {
+    "txIdx": 1284,
+    "timestamp": 1737802247668,
+    "height": 15,
+    "latency": 59149
+  },
+  {
+    "txIdx": 824,
+    "timestamp": 1737802247669,
+    "height": 8,
+    "latency": 4716
+  },
+  {
+    "txIdx": 1401,
+    "timestamp": 1737802247669,
+    "height": 8,
+    "latency": 4716
+  },
+  {
+    "txIdx": 1553,
+    "timestamp": 1737802247671,
+    "height": 12,
+    "latency": 36446
+  },
+  {
+    "txIdx": 948,
+    "timestamp": 1737802247672,
+    "height": 14,
+    "latency": 51591
+  },
+  {
+    "txIdx": 1345,
+    "timestamp": 1737802247672,
+    "height": 14,
+    "latency": 51591
+  },
+  {
+    "txIdx": 982,
+    "timestamp": 1737802247673,
+    "height": 8,
+    "latency": 4712
+  },
+  {
+    "txIdx": 1146,
+    "timestamp": 1737802247674,
+    "height": 11,
+    "latency": 28423
+  },
+  {
+    "txIdx": 1324,
+    "timestamp": 1737802247675,
+    "height": 10,
+    "latency": 20636
+  },
+  {
+    "txIdx": 1440,
+    "timestamp": 1737802247677,
+    "height": 8,
+    "latency": 4708
+  },
+  {
+    "txIdx": 1504,
+    "timestamp": 1737802247681,
+    "height": 10,
+    "latency": 20630
+  },
+  {
+    "txIdx": 984,
+    "timestamp": 1737802247682,
+    "height": 14,
+    "latency": 51581
+  },
+  {
+    "txIdx": 1429,
+    "timestamp": 1737802247683,
+    "height": 14,
+    "latency": 51580
+  },
+  {
+    "txIdx": 1548,
+    "timestamp": 1737802247684,
+    "height": 10,
+    "latency": 20627
+  },
+  {
+    "txIdx": 1208,
+    "timestamp": 1737802247685,
+    "height": 11,
+    "latency": 28412
+  },
+  {
+    "txIdx": 1576,
+    "timestamp": 1737802247687,
+    "height": 10,
+    "latency": 20624
+  },
+  {
+    "txIdx": 1385,
+    "timestamp": 1737802247687,
+    "height": 8,
+    "latency": 4698
+  },
+  {
+    "txIdx": 1457,
+    "timestamp": 1737802247688,
+    "height": 10,
+    "latency": 20623
+  },
+  {
+    "txIdx": 868,
+    "timestamp": 1737802247688,
+    "height": 11,
+    "latency": 28409
+  },
+  {
+    "txIdx": 1421,
+    "timestamp": 1737802247689,
+    "height": 16,
+    "latency": 66455
+  },
+  {
+    "txIdx": 1094,
+    "timestamp": 1737802247691,
+    "height": 12,
+    "latency": 36426
+  },
+  {
+    "txIdx": 1032,
+    "timestamp": 1737802247691,
+    "height": 14,
+    "latency": 51572
+  },
+  {
+    "txIdx": 1448,
+    "timestamp": 1737802247692,
+    "height": 16,
+    "latency": 66452
+  },
+  {
+    "txIdx": 1481,
+    "timestamp": 1737802247692,
+    "height": 12,
+    "latency": 36425
+  },
+  {
+    "txIdx": 1290,
+    "timestamp": 1737802247694,
+    "height": 8,
+    "latency": 4691
+  },
+  {
+    "txIdx": 1505,
+    "timestamp": 1737802247694,
+    "height": 14,
+    "latency": 51569
+  },
+  {
+    "txIdx": 1413,
+    "timestamp": 1737802247695,
+    "height": 15,
+    "latency": 59122
+  },
+  {
+    "txIdx": 1156,
+    "timestamp": 1737802247698,
+    "height": 11,
+    "latency": 28399
+  },
+  {
+    "txIdx": 814,
+    "timestamp": 1737802247698,
+    "height": 12,
+    "latency": 36419
+  },
+  {
+    "txIdx": 1059,
+    "timestamp": 1737802247699,
+    "height": 8,
+    "latency": 4686
+  },
+  {
+    "txIdx": 1090,
+    "timestamp": 1737802247699,
+    "height": 15,
+    "latency": 59118
+  },
+  {
+    "txIdx": 1363,
+    "timestamp": 1737802247700,
+    "height": 11,
+    "latency": 28397
+  },
+  {
+    "txIdx": 1560,
+    "timestamp": 1737802247701,
+    "height": 13,
+    "latency": 43867
+  },
+  {
+    "txIdx": 1191,
+    "timestamp": 1737802247702,
+    "height": 11,
+    "latency": 28395
+  },
+  {
+    "txIdx": 1203,
+    "timestamp": 1737802247704,
+    "height": 13,
+    "latency": 43864
+  },
+  {
+    "txIdx": 1292,
+    "timestamp": 1737802247707,
+    "height": 14,
+    "latency": 51556
+  },
+  {
+    "txIdx": 1372,
+    "timestamp": 1737802247709,
+    "height": 16,
+    "latency": 66435
+  },
+  {
+    "txIdx": 1484,
+    "timestamp": 1737802247711,
+    "height": 14,
+    "latency": 51552
+  },
+  {
+    "txIdx": 1447,
+    "timestamp": 1737802247713,
+    "height": 8,
+    "latency": 4672
+  },
+  {
+    "txIdx": 1532,
+    "timestamp": 1737802247713,
+    "height": 8,
+    "latency": 4672
+  },
+  {
+    "txIdx": 1384,
+    "timestamp": 1737802247715,
+    "height": 15,
+    "latency": 59102
+  },
+  {
+    "txIdx": 1087,
+    "timestamp": 1737802247717,
+    "height": 11,
+    "latency": 28380
+  },
+  {
+    "txIdx": 998,
+    "timestamp": 1737802247718,
+    "height": 8,
+    "latency": 4667
+  },
+  {
+    "txIdx": 1420,
+    "timestamp": 1737802247718,
+    "height": 8,
+    "latency": 4667
+  },
+  {
+    "txIdx": 1382,
+    "timestamp": 1737802247720,
+    "height": 12,
+    "latency": 36397
+  },
+  {
+    "txIdx": 1571,
+    "timestamp": 1737802247721,
+    "height": 8,
+    "latency": 4664
+  },
+  {
+    "txIdx": 1022,
+    "timestamp": 1737802247722,
+    "height": 13,
+    "latency": 43846
+  },
+  {
+    "txIdx": 1596,
+    "timestamp": 1737802247722,
+    "height": 11,
+    "latency": 28375
+  },
+  {
+    "txIdx": 1199,
+    "timestamp": 1737802247724,
+    "height": 11,
+    "latency": 28373
+  },
+  {
+    "txIdx": 1566,
+    "timestamp": 1737802247724,
+    "height": 12,
+    "latency": 36393
+  },
+  {
+    "txIdx": 1496,
+    "timestamp": 1737802247726,
+    "height": 15,
+    "latency": 59091
+  },
+  {
+    "txIdx": 919,
+    "timestamp": 1737802247727,
+    "height": 11,
+    "latency": 28370
+  },
+  {
+    "txIdx": 1540,
+    "timestamp": 1737802247727,
+    "height": 8,
+    "latency": 4658
+  },
+  {
+    "txIdx": 1570,
+    "timestamp": 1737802247727,
+    "height": 13,
+    "latency": 43841
+  },
+  {
+    "txIdx": 1584,
+    "timestamp": 1737802247728,
+    "height": 8,
+    "latency": 4657
+  },
+  {
+    "txIdx": 1226,
+    "timestamp": 1737802247729,
+    "height": 13,
+    "latency": 43839
+  },
+  {
+    "txIdx": 1239,
+    "timestamp": 1737802247730,
+    "height": 13,
+    "latency": 43838
+  },
+  {
+    "txIdx": 826,
+    "timestamp": 1737802247730,
+    "height": 11,
+    "latency": 28367
+  },
+  {
+    "txIdx": 931,
+    "timestamp": 1737802247731,
+    "height": 8,
+    "latency": 4654
+  },
+  {
+    "txIdx": 967,
+    "timestamp": 1737802247736,
+    "height": 9,
+    "latency": 12758
+  },
+  {
+    "txIdx": 863,
+    "timestamp": 1737802247737,
+    "height": 15,
+    "latency": 59080
+  },
+  {
+    "txIdx": 1278,
+    "timestamp": 1737802247738,
+    "height": 10,
+    "latency": 20573
+  },
+  {
+    "txIdx": 1078,
+    "timestamp": 1737802247739,
+    "height": 14,
+    "latency": 51524
+  },
+  {
+    "txIdx": 1542,
+    "timestamp": 1737802247740,
+    "height": 8,
+    "latency": 4645
+  },
+  {
+    "txIdx": 915,
+    "timestamp": 1737802247741,
+    "height": 16,
+    "latency": 66403
+  },
+  {
+    "txIdx": 1394,
+    "timestamp": 1737802247747,
+    "height": 13,
+    "latency": 43821
+  },
+  {
+    "txIdx": 1151,
+    "timestamp": 1737802247748,
+    "height": 8,
+    "latency": 4637
+  },
+  {
+    "txIdx": 1502,
+    "timestamp": 1737802247749,
+    "height": 8,
+    "latency": 4636
+  },
+  {
+    "txIdx": 951,
+    "timestamp": 1737802247749,
+    "height": 13,
+    "latency": 43819
+  },
+  {
+    "txIdx": 1558,
+    "timestamp": 1737802247752,
+    "height": 8,
+    "latency": 4633
+  },
+  {
+    "txIdx": 1550,
+    "timestamp": 1737802247753,
+    "height": 16,
+    "latency": 66391
+  },
+  {
+    "txIdx": 1138,
+    "timestamp": 1737802247754,
+    "height": 8,
+    "latency": 4631
+  },
+  {
+    "txIdx": 1398,
+    "timestamp": 1737802247756,
+    "height": 11,
+    "latency": 28341
+  },
+  {
+    "txIdx": 1551,
+    "timestamp": 1737802247759,
+    "height": 8,
+    "latency": 4626
+  },
+  {
+    "txIdx": 894,
+    "timestamp": 1737802247759,
+    "height": 10,
+    "latency": 20552
+  },
+  {
+    "txIdx": 1414,
+    "timestamp": 1737802247760,
+    "height": 8,
+    "latency": 4625
+  },
+  {
+    "txIdx": 1510,
+    "timestamp": 1737802247763,
+    "height": 8,
+    "latency": 4622
+  },
+  {
+    "txIdx": 1547,
+    "timestamp": 1737802247763,
+    "height": 12,
+    "latency": 36354
+  },
+  {
+    "txIdx": 1567,
+    "timestamp": 1737802247765,
+    "height": 13,
+    "latency": 43803
+  },
+  {
+    "txIdx": 1442,
+    "timestamp": 1737802247767,
+    "height": 11,
+    "latency": 28330
+  },
+  {
+    "txIdx": 903,
+    "timestamp": 1737802247769,
+    "height": 14,
+    "latency": 51494
+  },
+  {
+    "txIdx": 1534,
+    "timestamp": 1737802247769,
+    "height": 10,
+    "latency": 20542
+  },
+  {
+    "txIdx": 1439,
+    "timestamp": 1737802247770,
+    "height": 11,
+    "latency": 28327
+  },
+  {
+    "txIdx": 1526,
+    "timestamp": 1737802247770,
+    "height": 8,
+    "latency": 4615
+  },
+  {
+    "txIdx": 1258,
+    "timestamp": 1737802247773,
+    "height": 15,
+    "latency": 59044
+  },
+  {
+    "txIdx": 1511,
+    "timestamp": 1737802247774,
+    "height": 8,
+    "latency": 4611
+  },
+  {
+    "txIdx": 1231,
+    "timestamp": 1737802247778,
+    "height": 12,
+    "latency": 36339
+  },
+  {
+    "txIdx": 1479,
+    "timestamp": 1737802247782,
+    "height": 13,
+    "latency": 43786
+  },
+  {
+    "txIdx": 1538,
+    "timestamp": 1737802247784,
+    "height": 10,
+    "latency": 20527
+  },
+  {
+    "txIdx": 1482,
+    "timestamp": 1737802247785,
+    "height": 11,
+    "latency": 28312
+  },
+  {
+    "txIdx": 819,
+    "timestamp": 1737802247787,
+    "height": 16,
+    "latency": 66357
+  },
+  {
+    "txIdx": 1103,
+    "timestamp": 1737802247790,
+    "height": 12,
+    "latency": 36327
+  },
+  {
+    "txIdx": 1490,
+    "timestamp": 1737802247793,
+    "height": 8,
+    "latency": 4592
+  },
+  {
+    "txIdx": 1426,
+    "timestamp": 1737802247797,
+    "height": 14,
+    "latency": 51466
+  },
+  {
+    "txIdx": 1514,
+    "timestamp": 1737802247799,
+    "height": 13,
+    "latency": 43769
+  },
+  {
+    "txIdx": 1019,
+    "timestamp": 1737802247799,
+    "height": 15,
+    "latency": 59018
+  },
+  {
+    "txIdx": 1582,
+    "timestamp": 1737802247802,
+    "height": 14,
+    "latency": 51461
+  },
+  {
+    "txIdx": 1427,
+    "timestamp": 1737802247804,
+    "height": 16,
+    "latency": 66340
+  },
+  {
+    "txIdx": 1531,
+    "timestamp": 1737802247806,
+    "height": 8,
+    "latency": 4579
+  },
+  {
+    "txIdx": 1535,
+    "timestamp": 1737802247808,
+    "height": 14,
+    "latency": 51455
+  },
+  {
+    "txIdx": 1466,
+    "timestamp": 1737802247808,
+    "height": 15,
+    "latency": 59009
+  },
+  {
+    "txIdx": 1590,
+    "timestamp": 1737802247812,
+    "height": 15,
+    "latency": 59005
+  },
+  {
+    "txIdx": 1578,
+    "timestamp": 1737802247813,
+    "height": 15,
+    "latency": 59004
+  },
+  {
+    "txIdx": 1543,
+    "timestamp": 1737802247814,
+    "height": 10,
+    "latency": 20497
+  },
+  {
+    "txIdx": 1406,
+    "timestamp": 1737802247815,
+    "height": 8,
+    "latency": 4570
+  },
+  {
+    "txIdx": 1423,
+    "timestamp": 1737802247816,
+    "height": 8,
+    "latency": 4569
+  },
+  {
+    "txIdx": 1601,
+    "timestamp": 1737802248521,
+    "height": 14,
+    "latency": 50742
+  },
+  {
+    "txIdx": 1869,
+    "timestamp": 1737802248538,
+    "height": 15,
+    "latency": 58279
+  },
+  {
+    "txIdx": 1832,
+    "timestamp": 1737802248538,
+    "height": 13,
+    "latency": 43030
+  },
+  {
+    "txIdx": 2147,
+    "timestamp": 1737802248538,
+    "height": 10,
+    "latency": 19773
+  },
+  {
+    "txIdx": 2168,
+    "timestamp": 1737802248538,
+    "height": 11,
+    "latency": 27559
+  },
+  {
+    "txIdx": 1642,
+    "timestamp": 1737802248540,
+    "height": 10,
+    "latency": 19771
+  },
+  {
+    "txIdx": 1602,
+    "timestamp": 1737802248542,
+    "height": 16,
+    "latency": 65602
+  },
+  {
+    "txIdx": 1998,
+    "timestamp": 1737802248543,
+    "height": 13,
+    "latency": 43025
+  },
+  {
+    "txIdx": 1630,
+    "timestamp": 1737802248530,
+    "height": 8,
+    "latency": 3855
+  },
+  {
+    "txIdx": 1925,
+    "timestamp": 1737802248530,
+    "height": 12,
+    "latency": 35587
+  },
+  {
+    "txIdx": 1858,
+    "timestamp": 1737802248533,
+    "height": 8,
+    "latency": 3852
+  },
+  {
+    "txIdx": 2233,
+    "timestamp": 1737802248533,
+    "height": 13,
+    "latency": 43035
+  },
+  {
+    "txIdx": 1712,
+    "timestamp": 1737802248536,
+    "height": 8,
+    "latency": 3849
+  },
+  {
+    "txIdx": 2138,
+    "timestamp": 1737802248536,
+    "height": 8,
+    "latency": 3849
+  },
+  {
+    "txIdx": 1620,
+    "timestamp": 1737802248537,
+    "height": 11,
+    "latency": 27560
+  },
+  {
+    "txIdx": 1623,
+    "timestamp": 1737802248537,
+    "height": 12,
+    "latency": 35580
+  },
+  {
+    "txIdx": 2103,
+    "timestamp": 1737802248540,
+    "height": 8,
+    "latency": 3845
+  },
+  {
+    "txIdx": 1969,
+    "timestamp": 1737802248545,
+    "height": 8,
+    "latency": 3840
+  },
+  {
+    "txIdx": 1610,
+    "timestamp": 1737802248547,
+    "height": 11,
+    "latency": 27550
+  },
+  {
+    "txIdx": 2234,
+    "timestamp": 1737802248549,
+    "height": 10,
+    "latency": 19762
+  },
+  {
+    "txIdx": 1666,
+    "timestamp": 1737802248550,
+    "height": 8,
+    "latency": 3835
+  },
+  {
+    "txIdx": 2094,
+    "timestamp": 1737802248552,
+    "height": 11,
+    "latency": 27545
+  },
+  {
+    "txIdx": 2199,
+    "timestamp": 1737802248552,
+    "height": 16,
+    "latency": 65592
+  },
+  {
+    "txIdx": 2205,
+    "timestamp": 1737802248553,
+    "height": 9,
+    "latency": 11941
+  },
+  {
+    "txIdx": 2192,
+    "timestamp": 1737802248554,
+    "height": 14,
+    "latency": 50709
+  },
+  {
+    "txIdx": 2046,
+    "timestamp": 1737802248556,
+    "height": 8,
+    "latency": 3829
+  },
+  {
+    "txIdx": 2148,
+    "timestamp": 1737802248557,
+    "height": 14,
+    "latency": 50706
+  },
+  {
+    "txIdx": 2042,
+    "timestamp": 1737802248557,
+    "height": 13,
+    "latency": 43011
+  },
+  {
+    "txIdx": 2202,
+    "timestamp": 1737802248558,
+    "height": 13,
+    "latency": 43010
+  },
+  {
+    "txIdx": 1692,
+    "timestamp": 1737802248559,
+    "height": 12,
+    "latency": 35558
+  },
+  {
+    "txIdx": 2172,
+    "timestamp": 1737802248560,
+    "height": 11,
+    "latency": 27537
+  },
+  {
+    "txIdx": 1738,
+    "timestamp": 1737802248560,
+    "height": 16,
+    "latency": 65584
+  },
+  {
+    "txIdx": 2049,
+    "timestamp": 1737802248561,
+    "height": 10,
+    "latency": 19750
+  },
+  {
+    "txIdx": 2028,
+    "timestamp": 1737802248562,
+    "height": 15,
+    "latency": 58255
+  },
+  {
+    "txIdx": 2014,
+    "timestamp": 1737802248563,
+    "height": 8,
+    "latency": 3822
+  },
+  {
+    "txIdx": 2038,
+    "timestamp": 1737802248564,
+    "height": 16,
+    "latency": 65580
+  },
+  {
+    "txIdx": 2157,
+    "timestamp": 1737802248565,
+    "height": 10,
+    "latency": 19746
+  },
+  {
+    "txIdx": 1608,
+    "timestamp": 1737802248565,
+    "height": 10,
+    "latency": 19746
+  },
+  {
+    "txIdx": 2190,
+    "timestamp": 1737802248566,
+    "height": 8,
+    "latency": 3819
+  },
+  {
+    "txIdx": 2054,
+    "timestamp": 1737802248568,
+    "height": 12,
+    "latency": 35549
+  },
+  {
+    "txIdx": 1810,
+    "timestamp": 1737802248569,
+    "height": 14,
+    "latency": 50694
+  },
+  {
+    "txIdx": 1914,
+    "timestamp": 1737802248569,
+    "height": 15,
+    "latency": 58248
+  },
+  {
+    "txIdx": 1847,
+    "timestamp": 1737802248570,
+    "height": 12,
+    "latency": 35547
+  },
+  {
+    "txIdx": 1865,
+    "timestamp": 1737802248571,
+    "height": 15,
+    "latency": 58246
+  },
+  {
+    "txIdx": 1942,
+    "timestamp": 1737802248575,
+    "height": 13,
+    "latency": 42993
+  },
+  {
+    "txIdx": 1774,
+    "timestamp": 1737802248576,
+    "height": 11,
+    "latency": 27521
+  },
+  {
+    "txIdx": 1617,
+    "timestamp": 1737802248578,
+    "height": 8,
+    "latency": 3807
+  },
+  {
+    "txIdx": 1632,
+    "timestamp": 1737802248578,
+    "height": 14,
+    "latency": 50685
+  },
+  {
+    "txIdx": 1808,
+    "timestamp": 1737802248579,
+    "height": 8,
+    "latency": 3806
+  },
+  {
+    "txIdx": 1881,
+    "timestamp": 1737802248579,
+    "height": 15,
+    "latency": 58238
+  },
+  {
+    "txIdx": 2052,
+    "timestamp": 1737802248581,
+    "height": 13,
+    "latency": 42987
+  },
+  {
+    "txIdx": 1811,
+    "timestamp": 1737802248582,
+    "height": 8,
+    "latency": 3803
+  },
+  {
+    "txIdx": 2027,
+    "timestamp": 1737802248584,
+    "height": 15,
+    "latency": 58233
+  },
+  {
+    "txIdx": 2015,
+    "timestamp": 1737802248585,
+    "height": 14,
+    "latency": 50678
+  },
+  {
+    "txIdx": 1802,
+    "timestamp": 1737802248586,
+    "height": 8,
+    "latency": 3799
+  },
+  {
+    "txIdx": 2154,
+    "timestamp": 1737802248587,
+    "height": 8,
+    "latency": 3798
+  },
+  {
+    "txIdx": 1807,
+    "timestamp": 1737802248588,
+    "height": 16,
+    "latency": 65556
+  },
+  {
+    "txIdx": 2194,
+    "timestamp": 1737802248588,
+    "height": 8,
+    "latency": 3797
+  },
+  {
+    "txIdx": 2076,
+    "timestamp": 1737802248588,
+    "height": 15,
+    "latency": 58229
+  },
+  {
+    "txIdx": 1748,
+    "timestamp": 1737802248589,
+    "height": 13,
+    "latency": 42979
+  },
+  {
+    "txIdx": 1747,
+    "timestamp": 1737802248589,
+    "height": 10,
+    "latency": 19722
+  },
+  {
+    "txIdx": 1878,
+    "timestamp": 1737802248590,
+    "height": 10,
+    "latency": 19721
+  },
+  {
+    "txIdx": 2155,
+    "timestamp": 1737802248591,
+    "height": 8,
+    "latency": 3794
+  },
+  {
+    "txIdx": 1996,
+    "timestamp": 1737802248591,
+    "height": 16,
+    "latency": 65553
+  },
+  {
+    "txIdx": 1730,
+    "timestamp": 1737802248592,
+    "height": 11,
+    "latency": 27505
+  },
+  {
+    "txIdx": 1662,
+    "timestamp": 1737802248593,
+    "height": 11,
+    "latency": 27504
+  },
+  {
+    "txIdx": 1696,
+    "timestamp": 1737802248593,
+    "height": 8,
+    "latency": 3792
+  },
+  {
+    "txIdx": 2004,
+    "timestamp": 1737802248594,
+    "height": 11,
+    "latency": 27503
+  },
+  {
+    "txIdx": 1645,
+    "timestamp": 1737802248595,
+    "height": 14,
+    "latency": 50668
+  },
+  {
+    "txIdx": 1828,
+    "timestamp": 1737802248596,
+    "height": 11,
+    "latency": 27501
+  },
+  {
+    "txIdx": 1849,
+    "timestamp": 1737802248597,
+    "height": 14,
+    "latency": 50666
+  },
+  {
+    "txIdx": 1951,
+    "timestamp": 1737802248598,
+    "height": 8,
+    "latency": 3787
+  },
+  {
+    "txIdx": 2066,
+    "timestamp": 1737802248599,
+    "height": 10,
+    "latency": 19712
+  },
+  {
+    "txIdx": 1726,
+    "timestamp": 1737802248600,
+    "height": 16,
+    "latency": 65544
+  },
+  {
+    "txIdx": 1618,
+    "timestamp": 1737802248600,
+    "height": 8,
+    "latency": 3785
+  },
+  {
+    "txIdx": 1949,
+    "timestamp": 1737802248602,
+    "height": 8,
+    "latency": 3783
+  },
+  {
+    "txIdx": 2110,
+    "timestamp": 1737802248603,
+    "height": 8,
+    "latency": 3782
+  },
+  {
+    "txIdx": 1634,
+    "timestamp": 1737802248603,
+    "height": 11,
+    "latency": 27494
+  },
+  {
+    "txIdx": 1845,
+    "timestamp": 1737802248604,
+    "height": 16,
+    "latency": 65540
+  },
+  {
+    "txIdx": 2032,
+    "timestamp": 1737802248606,
+    "height": 11,
+    "latency": 27491
+  },
+  {
+    "txIdx": 1781,
+    "timestamp": 1737802248606,
+    "height": 12,
+    "latency": 35511
+  },
+  {
+    "txIdx": 1954,
+    "timestamp": 1737802248606,
+    "height": 14,
+    "latency": 50657
+  },
+  {
+    "txIdx": 1755,
+    "timestamp": 1737802248607,
+    "height": 16,
+    "latency": 65537
+  },
+  {
+    "txIdx": 2146,
+    "timestamp": 1737802248608,
+    "height": 8,
+    "latency": 3777
+  },
+  {
+    "txIdx": 2008,
+    "timestamp": 1737802248609,
+    "height": 15,
+    "latency": 58208
+  },
+  {
+    "txIdx": 1898,
+    "timestamp": 1737802248611,
+    "height": 16,
+    "latency": 65533
+  },
+  {
+    "txIdx": 2171,
+    "timestamp": 1737802248613,
+    "height": 16,
+    "latency": 65531
+  },
+  {
+    "txIdx": 1665,
+    "timestamp": 1737802248614,
+    "height": 14,
+    "latency": 50649
+  },
+  {
+    "txIdx": 1890,
+    "timestamp": 1737802248616,
+    "height": 14,
+    "latency": 50647
+  },
+  {
+    "txIdx": 2077,
+    "timestamp": 1737802248616,
+    "height": 8,
+    "latency": 3769
+  },
+  {
+    "txIdx": 1913,
+    "timestamp": 1737802248617,
+    "height": 15,
+    "latency": 58200
+  },
+  {
+    "txIdx": 1910,
+    "timestamp": 1737802248617,
+    "height": 12,
+    "latency": 35500
+  },
+  {
+    "txIdx": 1827,
+    "timestamp": 1737802248618,
+    "height": 16,
+    "latency": 65526
+  },
+  {
+    "txIdx": 2310,
+    "timestamp": 1737802248620,
+    "height": 14,
+    "latency": 50643
+  },
+  {
+    "txIdx": 1826,
+    "timestamp": 1737802248620,
+    "height": 10,
+    "latency": 19691
+  },
+  {
+    "txIdx": 2037,
+    "timestamp": 1737802248620,
+    "height": 13,
+    "latency": 42948
+  },
+  {
+    "txIdx": 2238,
+    "timestamp": 1737802248621,
+    "height": 8,
+    "latency": 3764
+  },
+  {
+    "txIdx": 1771,
+    "timestamp": 1737802248623,
+    "height": 11,
+    "latency": 27474
+  },
+  {
+    "txIdx": 2221,
+    "timestamp": 1737802248623,
+    "height": 8,
+    "latency": 3762
+  },
+  {
+    "txIdx": 2170,
+    "timestamp": 1737802248624,
+    "height": 8,
+    "latency": 3761
+  },
+  {
+    "txIdx": 1644,
+    "timestamp": 1737802248624,
+    "height": 8,
+    "latency": 3761
+  },
+  {
+    "txIdx": 2398,
+    "timestamp": 1737802248625,
+    "height": 14,
+    "latency": 50638
+  },
+  {
+    "txIdx": 2012,
+    "timestamp": 1737802248627,
+    "height": 8,
+    "latency": 3758
+  },
+  {
+    "txIdx": 1722,
+    "timestamp": 1737802248627,
+    "height": 14,
+    "latency": 50636
+  },
+  {
+    "txIdx": 1877,
+    "timestamp": 1737802248628,
+    "height": 13,
+    "latency": 42940
+  },
+  {
+    "txIdx": 1980,
+    "timestamp": 1737802248628,
+    "height": 10,
+    "latency": 19683
+  },
+  {
+    "txIdx": 1646,
+    "timestamp": 1737802248628,
+    "height": 13,
+    "latency": 42940
+  },
+  {
+    "txIdx": 1741,
+    "timestamp": 1737802248629,
+    "height": 15,
+    "latency": 58188
+  },
+  {
+    "txIdx": 1904,
+    "timestamp": 1737802248631,
+    "height": 8,
+    "latency": 3754
+  },
+  {
+    "txIdx": 1688,
+    "timestamp": 1737802248633,
+    "height": 8,
+    "latency": 3752
+  },
+  {
+    "txIdx": 2298,
+    "timestamp": 1737802248633,
+    "height": 8,
+    "latency": 3752
+  },
+  {
+    "txIdx": 2173,
+    "timestamp": 1737802248633,
+    "height": 8,
+    "latency": 3752
+  },
+  {
+    "txIdx": 1609,
+    "timestamp": 1737802248636,
+    "height": 10,
+    "latency": 19675
+  },
+  {
+    "txIdx": 2378,
+    "timestamp": 1737802248636,
+    "height": 11,
+    "latency": 27461
+  },
+  {
+    "txIdx": 2043,
+    "timestamp": 1737802248637,
+    "height": 8,
+    "latency": 3748
+  },
+  {
+    "txIdx": 1624,
+    "timestamp": 1737802248638,
+    "height": 15,
+    "latency": 58179
+  },
+  {
+    "txIdx": 1752,
+    "timestamp": 1737802248639,
+    "height": 14,
+    "latency": 50624
+  },
+  {
+    "txIdx": 2058,
+    "timestamp": 1737802248640,
+    "height": 15,
+    "latency": 58177
+  },
+  {
+    "txIdx": 1862,
+    "timestamp": 1737802248642,
+    "height": 16,
+    "latency": 65502
+  },
+  {
+    "txIdx": 1659,
+    "timestamp": 1737802248643,
+    "height": 8,
+    "latency": 3742
+  },
+  {
+    "txIdx": 1720,
+    "timestamp": 1737802248643,
+    "height": 11,
+    "latency": 27454
+  },
+  {
+    "txIdx": 2149,
+    "timestamp": 1737802248643,
+    "height": 11,
+    "latency": 27454
+  },
+  {
+    "txIdx": 2362,
+    "timestamp": 1737802248644,
+    "height": 12,
+    "latency": 35473
+  },
+  {
+    "txIdx": 2013,
+    "timestamp": 1737802248644,
+    "height": 10,
+    "latency": 19667
+  },
+  {
+    "txIdx": 1975,
+    "timestamp": 1737802248644,
+    "height": 9,
+    "latency": 11850
+  },
+  {
+    "txIdx": 1816,
+    "timestamp": 1737802248646,
+    "height": 12,
+    "latency": 35471
+  },
+  {
+    "txIdx": 2282,
+    "timestamp": 1737802248646,
+    "height": 12,
+    "latency": 35471
+  },
+  {
+    "txIdx": 2306,
+    "timestamp": 1737802248648,
+    "height": 11,
+    "latency": 27449
+  },
+  {
+    "txIdx": 2169,
+    "timestamp": 1737802248649,
+    "height": 14,
+    "latency": 50614
+  },
+  {
+    "txIdx": 1903,
+    "timestamp": 1737802248649,
+    "height": 8,
+    "latency": 3736
+  },
+  {
+    "txIdx": 2055,
+    "timestamp": 1737802248650,
+    "height": 8,
+    "latency": 3735
+  },
+  {
+    "txIdx": 1753,
+    "timestamp": 1737802248650,
+    "height": 10,
+    "latency": 19661
+  },
+  {
+    "txIdx": 1985,
+    "timestamp": 1737802248651,
+    "height": 14,
+    "latency": 50612
+  },
+  {
+    "txIdx": 2035,
+    "timestamp": 1737802248651,
+    "height": 8,
+    "latency": 3734
+  },
+  {
+    "txIdx": 1926,
+    "timestamp": 1737802248651,
+    "height": 15,
+    "latency": 58166
+  },
+  {
+    "txIdx": 1953,
+    "timestamp": 1737802248652,
+    "height": 8,
+    "latency": 3733
+  },
+  {
+    "txIdx": 2350,
+    "timestamp": 1737802248653,
+    "height": 14,
+    "latency": 50610
+  },
+  {
+    "txIdx": 1703,
+    "timestamp": 1737802248654,
+    "height": 8,
+    "latency": 3731
+  },
+  {
+    "txIdx": 2322,
+    "timestamp": 1737802248654,
+    "height": 13,
+    "latency": 42914
+  },
+  {
+    "txIdx": 1885,
+    "timestamp": 1737802248655,
+    "height": 15,
+    "latency": 58162
+  },
+  {
+    "txIdx": 2161,
+    "timestamp": 1737802248656,
+    "height": 13,
+    "latency": 42912
+  },
+  {
+    "txIdx": 1970,
+    "timestamp": 1737802248656,
+    "height": 14,
+    "latency": 50607
+  },
+  {
+    "txIdx": 1664,
+    "timestamp": 1737802248657,
+    "height": 13,
+    "latency": 42911
+  },
+  {
+    "txIdx": 2087,
+    "timestamp": 1737802248658,
+    "height": 10,
+    "latency": 19653
+  },
+  {
+    "txIdx": 1749,
+    "timestamp": 1737802248658,
+    "height": 15,
+    "latency": 58159
+  },
+  {
+    "txIdx": 2106,
+    "timestamp": 1737802248658,
+    "height": 13,
+    "latency": 42910
+  },
+  {
+    "txIdx": 2391,
+    "timestamp": 1737802248660,
+    "height": 12,
+    "latency": 35457
+  },
+  {
+    "txIdx": 1813,
+    "timestamp": 1737802248660,
+    "height": 13,
+    "latency": 42908
+  },
+  {
+    "txIdx": 2133,
+    "timestamp": 1737802248661,
+    "height": 15,
+    "latency": 58156
+  },
+  {
+    "txIdx": 2144,
+    "timestamp": 1737802248662,
+    "height": 13,
+    "latency": 42906
+  },
+  {
+    "txIdx": 2338,
+    "timestamp": 1737802248663,
+    "height": 8,
+    "latency": 3722
+  },
+  {
+    "txIdx": 2040,
+    "timestamp": 1737802248664,
+    "height": 13,
+    "latency": 42904
+  },
+  {
+    "txIdx": 1663,
+    "timestamp": 1737802248665,
+    "height": 15,
+    "latency": 58152
+  },
+  {
+    "txIdx": 2141,
+    "timestamp": 1737802248666,
+    "height": 13,
+    "latency": 42902
+  },
+  {
+    "txIdx": 1670,
+    "timestamp": 1737802248666,
+    "height": 10,
+    "latency": 19645
+  },
+  {
+    "txIdx": 2097,
+    "timestamp": 1737802248666,
+    "height": 11,
+    "latency": 27431
+  },
+  {
+    "txIdx": 1654,
+    "timestamp": 1737802248666,
+    "height": 9,
+    "latency": 11828
+  },
+  {
+    "txIdx": 2223,
+    "timestamp": 1737802248668,
+    "height": 8,
+    "latency": 3717
+  },
+  {
+    "txIdx": 2129,
+    "timestamp": 1737802248671,
+    "height": 14,
+    "latency": 50592
+  },
+  {
+    "txIdx": 2323,
+    "timestamp": 1737802248672,
+    "height": 8,
+    "latency": 3713
+  },
+  {
+    "txIdx": 1710,
+    "timestamp": 1737802248672,
+    "height": 13,
+    "latency": 42896
+  },
+  {
+    "txIdx": 2334,
+    "timestamp": 1737802248673,
+    "height": 13,
+    "latency": 42895
+  },
+  {
+    "txIdx": 2085,
+    "timestamp": 1737802248673,
+    "height": 8,
+    "latency": 3712
+  },
+  {
+    "txIdx": 2286,
+    "timestamp": 1737802248675,
+    "height": 12,
+    "latency": 35442
+  },
+  {
+    "txIdx": 1689,
+    "timestamp": 1737802248676,
+    "height": 12,
+    "latency": 35441
+  },
+  {
+    "txIdx": 2349,
+    "timestamp": 1737802248677,
+    "height": 11,
+    "latency": 27420
+  },
+  {
+    "txIdx": 2164,
+    "timestamp": 1737802248677,
+    "height": 8,
+    "latency": 3708
+  },
+  {
+    "txIdx": 2291,
+    "timestamp": 1737802248679,
+    "height": 10,
+    "latency": 19632
+  },
+  {
+    "txIdx": 1783,
+    "timestamp": 1737802248680,
+    "height": 11,
+    "latency": 27417
+  },
+  {
+    "txIdx": 1715,
+    "timestamp": 1737802248681,
+    "height": 8,
+    "latency": 3704
+  },
+  {
+    "txIdx": 1709,
+    "timestamp": 1737802248682,
+    "height": 8,
+    "latency": 3703
+  },
+  {
+    "txIdx": 2313,
+    "timestamp": 1737802248684,
+    "height": 12,
+    "latency": 35433
+  },
+  {
+    "txIdx": 1867,
+    "timestamp": 1737802248684,
+    "height": 15,
+    "latency": 58133
+  },
+  {
+    "txIdx": 1805,
+    "timestamp": 1737802248686,
+    "height": 8,
+    "latency": 3699
+  },
+  {
+    "txIdx": 1685,
+    "timestamp": 1737802248687,
+    "height": 16,
+    "latency": 65457
+  },
+  {
+    "txIdx": 2333,
+    "timestamp": 1737802248688,
+    "height": 15,
+    "latency": 58129
+  },
+  {
+    "txIdx": 2029,
+    "timestamp": 1737802248689,
+    "height": 15,
+    "latency": 58128
+  },
+  {
+    "txIdx": 2000,
+    "timestamp": 1737802248690,
+    "height": 14,
+    "latency": 50573
+  },
+  {
+    "txIdx": 2140,
+    "timestamp": 1737802248690,
+    "height": 11,
+    "latency": 27407
+  },
+  {
+    "txIdx": 1992,
+    "timestamp": 1737802248692,
+    "height": 12,
+    "latency": 35425
+  },
+  {
+    "txIdx": 1615,
+    "timestamp": 1737802248694,
+    "height": 10,
+    "latency": 19617
+  },
+  {
+    "txIdx": 1912,
+    "timestamp": 1737802248694,
+    "height": 16,
+    "latency": 65450
+  },
+  {
+    "txIdx": 2301,
+    "timestamp": 1737802248695,
+    "height": 10,
+    "latency": 19616
+  },
+  {
+    "txIdx": 1743,
+    "timestamp": 1737802248696,
+    "height": 11,
+    "latency": 27401
+  },
+  {
+    "txIdx": 2393,
+    "timestamp": 1737802248699,
+    "height": 13,
+    "latency": 42869
+  },
+  {
+    "txIdx": 1681,
+    "timestamp": 1737802248700,
+    "height": 8,
+    "latency": 3685
+  },
+  {
+    "txIdx": 2397,
+    "timestamp": 1737802248702,
+    "height": 10,
+    "latency": 19609
+  },
+  {
+    "txIdx": 2324,
+    "timestamp": 1737802248702,
+    "height": 13,
+    "latency": 42866
+  },
+  {
+    "txIdx": 1843,
+    "timestamp": 1737802248705,
+    "height": 8,
+    "latency": 3680
+  },
+  {
+    "txIdx": 2269,
+    "timestamp": 1737802248705,
+    "height": 10,
+    "latency": 19606
+  },
+  {
+    "txIdx": 2325,
+    "timestamp": 1737802248706,
+    "height": 8,
+    "latency": 3679
+  },
+  {
+    "txIdx": 2275,
+    "timestamp": 1737802248712,
+    "height": 16,
+    "latency": 65432
+  },
+  {
+    "txIdx": 2216,
+    "timestamp": 1737802248712,
+    "height": 16,
+    "latency": 65432
+  },
+  {
+    "txIdx": 1671,
+    "timestamp": 1737802248712,
+    "height": 9,
+    "latency": 11782
+  },
+  {
+    "txIdx": 2112,
+    "timestamp": 1737802248713,
+    "height": 11,
+    "latency": 27384
+  },
+  {
+    "txIdx": 1760,
+    "timestamp": 1737802248714,
+    "height": 12,
+    "latency": 35403
+  },
+  {
+    "txIdx": 2296,
+    "timestamp": 1737802248715,
+    "height": 9,
+    "latency": 11779
+  },
+  {
+    "txIdx": 1868,
+    "timestamp": 1737802248718,
+    "height": 15,
+    "latency": 58099
+  },
+  {
+    "txIdx": 2003,
+    "timestamp": 1737802248718,
+    "height": 8,
+    "latency": 3667
+  },
+  {
+    "txIdx": 2123,
+    "timestamp": 1737802248721,
+    "height": 8,
+    "latency": 3664
+  },
+  {
+    "txIdx": 2368,
+    "timestamp": 1737802248727,
+    "height": 14,
+    "latency": 50536
+  },
+  {
+    "txIdx": 2232,
+    "timestamp": 1737802248728,
+    "height": 8,
+    "latency": 3657
+  },
+  {
+    "txIdx": 2271,
+    "timestamp": 1737802248736,
+    "height": 16,
+    "latency": 65408
+  },
+  {
+    "txIdx": 2335,
+    "timestamp": 1737802248739,
+    "height": 10,
+    "latency": 19572
+  },
+  {
+    "txIdx": 2319,
+    "timestamp": 1737802248744,
+    "height": 12,
+    "latency": 35373
+  },
+  {
+    "txIdx": 2316,
+    "timestamp": 1737802248752,
+    "height": 10,
+    "latency": 19559
+  },
+  {
+    "txIdx": 1704,
+    "timestamp": 1737802248753,
+    "height": 11,
+    "latency": 27344
+  },
+  {
+    "txIdx": 2392,
+    "timestamp": 1737802248754,
+    "height": 11,
+    "latency": 27343
+  },
+  {
+    "txIdx": 1803,
+    "timestamp": 1737802248755,
+    "height": 10,
+    "latency": 19556
+  },
+  {
+    "txIdx": 2388,
+    "timestamp": 1737802248756,
+    "height": 16,
+    "latency": 65388
+  },
+  {
+    "txIdx": 2215,
+    "timestamp": 1737802248759,
+    "height": 14,
+    "latency": 50504
+  },
+  {
+    "txIdx": 1723,
+    "timestamp": 1737802248761,
+    "height": 11,
+    "latency": 27336
+  },
+  {
+    "txIdx": 2352,
+    "timestamp": 1737802248763,
+    "height": 14,
+    "latency": 50500
+  },
+  {
+    "txIdx": 1716,
+    "timestamp": 1737802248768,
+    "height": 10,
+    "latency": 19543
+  },
+  {
+    "txIdx": 1680,
+    "timestamp": 1737802248772,
+    "height": 13,
+    "latency": 42796
+  },
+  {
+    "txIdx": 1863,
+    "timestamp": 1737802248772,
+    "height": 10,
+    "latency": 19539
+  },
+  {
+    "txIdx": 2279,
+    "timestamp": 1737802248780,
+    "height": 15,
+    "latency": 58037
+  },
+  {
+    "txIdx": 1991,
+    "timestamp": 1737802248781,
+    "height": 11,
+    "latency": 27316
+  },
+  {
+    "txIdx": 1707,
+    "timestamp": 1737802248784,
+    "height": 16,
+    "latency": 65360
+  },
+  {
+    "txIdx": 2119,
+    "timestamp": 1737802248785,
+    "height": 10,
+    "latency": 19526
+  },
+  {
+    "txIdx": 2339,
+    "timestamp": 1737802248788,
+    "height": 15,
+    "latency": 58029
+  },
+  {
+    "txIdx": 2402,
+    "timestamp": 1737802249520,
+    "height": 12,
+    "latency": 34597
+  },
+  {
+    "txIdx": 2420,
+    "timestamp": 1737802249528,
+    "height": 15,
+    "latency": 57289
+  },
+  {
+    "txIdx": 2848,
+    "timestamp": 1737802249531,
+    "height": 13,
+    "latency": 42037
+  },
+  {
+    "txIdx": 2429,
+    "timestamp": 1737802249527,
+    "height": 15,
+    "latency": 57290
+  },
+  {
+    "txIdx": 2411,
+    "timestamp": 1737802249535,
+    "height": 10,
+    "latency": 18776
+  },
+  {
+    "txIdx": 2403,
+    "timestamp": 1737802249529,
+    "height": 15,
+    "latency": 57288
+  },
+  {
+    "txIdx": 2557,
+    "timestamp": 1737802249536,
+    "height": 10,
+    "latency": 18775
+  },
+  {
+    "txIdx": 2404,
+    "timestamp": 1737802249538,
+    "height": 8,
+    "latency": 2847
+  },
+  {
+    "txIdx": 2733,
+    "timestamp": 1737802249539,
+    "height": 9,
+    "latency": 10955
+  },
+  {
+    "txIdx": 2798,
+    "timestamp": 1737802249540,
+    "height": 14,
+    "latency": 49723
+  },
+  {
+    "txIdx": 3183,
+    "timestamp": 1737802249540,
+    "height": 9,
+    "latency": 10954
+  },
+  {
+    "txIdx": 2994,
+    "timestamp": 1737802249540,
+    "height": 16,
+    "latency": 64604
+  },
+  {
+    "txIdx": 3016,
+    "timestamp": 1737802249540,
+    "height": 15,
+    "latency": 57277
+  },
+  {
+    "txIdx": 2896,
+    "timestamp": 1737802249543,
+    "height": 15,
+    "latency": 57274
+  },
+  {
+    "txIdx": 2736,
+    "timestamp": 1737802249546,
+    "height": 16,
+    "latency": 64598
+  },
+  {
+    "txIdx": 2470,
+    "timestamp": 1737802249546,
+    "height": 15,
+    "latency": 57271
+  },
+  {
+    "txIdx": 2603,
+    "timestamp": 1737802249546,
+    "height": 13,
+    "latency": 42022
+  },
+  {
+    "txIdx": 2575,
+    "timestamp": 1737802249551,
+    "height": 12,
+    "latency": 34566
+  },
+  {
+    "txIdx": 2738,
+    "timestamp": 1737802249551,
+    "height": 11,
+    "latency": 26546
+  },
+  {
+    "txIdx": 2983,
+    "timestamp": 1737802249551,
+    "height": 15,
+    "latency": 57266
+  },
+  {
+    "txIdx": 2700,
+    "timestamp": 1737802249551,
+    "height": 12,
+    "latency": 34566
+  },
+  {
+    "txIdx": 2618,
+    "timestamp": 1737802249551,
+    "height": 10,
+    "latency": 18760
+  },
+  {
+    "txIdx": 2660,
+    "timestamp": 1737802249551,
+    "height": 16,
+    "latency": 64593
+  },
+  {
+    "txIdx": 2692,
+    "timestamp": 1737802249554,
+    "height": 15,
+    "latency": 57263
+  },
+  {
+    "txIdx": 2975,
+    "timestamp": 1737802249557,
+    "height": 14,
+    "latency": 49706
+  },
+  {
+    "txIdx": 2977,
+    "timestamp": 1737802249558,
+    "height": 12,
+    "latency": 34559
+  },
+  {
+    "txIdx": 2550,
+    "timestamp": 1737802249559,
+    "height": 13,
+    "latency": 42009
+  },
+  {
+    "txIdx": 2545,
+    "timestamp": 1737802249560,
+    "height": 11,
+    "latency": 26537
+  },
+  {
+    "txIdx": 2771,
+    "timestamp": 1737802249560,
+    "height": 10,
+    "latency": 18751
+  },
+  {
+    "txIdx": 2866,
+    "timestamp": 1737802249561,
+    "height": 8,
+    "latency": 2824
+  },
+  {
+    "txIdx": 3025,
+    "timestamp": 1737802249561,
+    "height": 16,
+    "latency": 64583
+  },
+  {
+    "txIdx": 2583,
+    "timestamp": 1737802249561,
+    "height": 14,
+    "latency": 49702
+  },
+  {
+    "txIdx": 2425,
+    "timestamp": 1737802249562,
+    "height": 16,
+    "latency": 64582
+  },
+  {
+    "txIdx": 2793,
+    "timestamp": 1737802249564,
+    "height": 13,
+    "latency": 42004
+  },
+  {
+    "txIdx": 2867,
+    "timestamp": 1737802249565,
+    "height": 10,
+    "latency": 18746
+  },
+  {
+    "txIdx": 3048,
+    "timestamp": 1737802249565,
+    "height": 14,
+    "latency": 49698
+  },
+  {
+    "txIdx": 2438,
+    "timestamp": 1737802249568,
+    "height": 8,
+    "latency": 2817
+  },
+  {
+    "txIdx": 2609,
+    "timestamp": 1737802249569,
+    "height": 10,
+    "latency": 18742
+  },
+  {
+    "txIdx": 2413,
+    "timestamp": 1737802249570,
+    "height": 9,
+    "latency": 10924
+  },
+  {
+    "txIdx": 2559,
+    "timestamp": 1737802249573,
+    "height": 16,
+    "latency": 64571
+  },
+  {
+    "txIdx": 2424,
+    "timestamp": 1737802249573,
+    "height": 14,
+    "latency": 49690
+  },
+  {
+    "txIdx": 2423,
+    "timestamp": 1737802249574,
+    "height": 15,
+    "latency": 57243
+  },
+  {
+    "txIdx": 2889,
+    "timestamp": 1737802249574,
+    "height": 10,
+    "latency": 18737
+  },
+  {
+    "txIdx": 2808,
+    "timestamp": 1737802249574,
+    "height": 8,
+    "latency": 2811
+  },
+  {
+    "txIdx": 2604,
+    "timestamp": 1737802249576,
+    "height": 16,
+    "latency": 64568
+  },
+  {
+    "txIdx": 3032,
+    "timestamp": 1737802249577,
+    "height": 15,
+    "latency": 57240
+  },
+  {
+    "txIdx": 2570,
+    "timestamp": 1737802249579,
+    "height": 14,
+    "latency": 49684
+  },
+  {
+    "txIdx": 3012,
+    "timestamp": 1737802249579,
+    "height": 14,
+    "latency": 49684
+  },
+  {
+    "txIdx": 2922,
+    "timestamp": 1737802249582,
+    "height": 16,
+    "latency": 64562
+  },
+  {
+    "txIdx": 2539,
+    "timestamp": 1737802249582,
+    "height": 10,
+    "latency": 18729
+  },
+  {
+    "txIdx": 2638,
+    "timestamp": 1737802249583,
+    "height": 14,
+    "latency": 49680
+  },
+  {
+    "txIdx": 2551,
+    "timestamp": 1737802249584,
+    "height": 9,
+    "latency": 10910
+  },
+  {
+    "txIdx": 2702,
+    "timestamp": 1737802249586,
+    "height": 16,
+    "latency": 64558
+  },
+  {
+    "txIdx": 2657,
+    "timestamp": 1737802249587,
+    "height": 9,
+    "latency": 10907
+  },
+  {
+    "txIdx": 2840,
+    "timestamp": 1737802249587,
+    "height": 8,
+    "latency": 2798
+  },
+  {
+    "txIdx": 2974,
+    "timestamp": 1737802249589,
+    "height": 16,
+    "latency": 64555
+  },
+  {
+    "txIdx": 2408,
+    "timestamp": 1737802249591,
+    "height": 10,
+    "latency": 18720
+  },
+  {
+    "txIdx": 2904,
+    "timestamp": 1737802249592,
+    "height": 11,
+    "latency": 26505
+  },
+  {
+    "txIdx": 2602,
+    "timestamp": 1737802249592,
+    "height": 14,
+    "latency": 49671
+  },
+  {
+    "txIdx": 2799,
+    "timestamp": 1737802249593,
+    "height": 10,
+    "latency": 18718
+  },
+  {
+    "txIdx": 2796,
+    "timestamp": 1737802249593,
+    "height": 15,
+    "latency": 57224
+  },
+  {
+    "txIdx": 3056,
+    "timestamp": 1737802249594,
+    "height": 15,
+    "latency": 57223
+  },
+  {
+    "txIdx": 2820,
+    "timestamp": 1737802249595,
+    "height": 8,
+    "latency": 2790
+  },
+  {
+    "txIdx": 2644,
+    "timestamp": 1737802249599,
+    "height": 11,
+    "latency": 26498
+  },
+  {
+    "txIdx": 2767,
+    "timestamp": 1737802249601,
+    "height": 14,
+    "latency": 49662
+  },
+  {
+    "txIdx": 2965,
+    "timestamp": 1737802249601,
+    "height": 14,
+    "latency": 49662
+  },
+  {
+    "txIdx": 2838,
+    "timestamp": 1737802249602,
+    "height": 14,
+    "latency": 49661
+  },
+  {
+    "txIdx": 2436,
+    "timestamp": 1737802249602,
+    "height": 15,
+    "latency": 57215
+  },
+  {
+    "txIdx": 3138,
+    "timestamp": 1737802249603,
+    "height": 8,
+    "latency": 2782
+  },
+  {
+    "txIdx": 2915,
+    "timestamp": 1737802249607,
+    "height": 10,
+    "latency": 18704
+  },
+  {
+    "txIdx": 2548,
+    "timestamp": 1737802249608,
+    "height": 14,
+    "latency": 49655
+  },
+  {
+    "txIdx": 2580,
+    "timestamp": 1737802249615,
+    "height": 11,
+    "latency": 26482
+  },
+  {
+    "txIdx": 2558,
+    "timestamp": 1737802249615,
+    "height": 16,
+    "latency": 64529
+  },
+  {
+    "txIdx": 2874,
+    "timestamp": 1737802249615,
+    "height": 16,
+    "latency": 64529
+  },
+  {
+    "txIdx": 2826,
+    "timestamp": 1737802249615,
+    "height": 8,
+    "latency": 2770
+  },
+  {
+    "txIdx": 2774,
+    "timestamp": 1737802249615,
+    "height": 12,
+    "latency": 34502
+  },
+  {
+    "txIdx": 2697,
+    "timestamp": 1737802249615,
+    "height": 11,
+    "latency": 26482
+  },
+  {
+    "txIdx": 2828,
+    "timestamp": 1737802249616,
+    "height": 8,
+    "latency": 2769
+  },
+  {
+    "txIdx": 2945,
+    "timestamp": 1737802249617,
+    "height": 9,
+    "latency": 10877
+  },
+  {
+    "txIdx": 2821,
+    "timestamp": 1737802249618,
+    "height": 10,
+    "latency": 18693
+  },
+  {
+    "txIdx": 2434,
+    "timestamp": 1737802249619,
+    "height": 8,
+    "latency": 2766
+  },
+  {
+    "txIdx": 3198,
+    "timestamp": 1737802249620,
+    "height": 13,
+    "latency": 41948
+  },
+  {
+    "txIdx": 2647,
+    "timestamp": 1737802249622,
+    "height": 15,
+    "latency": 57195
+  },
+  {
+    "txIdx": 2571,
+    "timestamp": 1737802249624,
+    "height": 14,
+    "latency": 49639
+  },
+  {
+    "txIdx": 2594,
+    "timestamp": 1737802249626,
+    "height": 15,
+    "latency": 57191
+  },
+  {
+    "txIdx": 2932,
+    "timestamp": 1737802249626,
+    "height": 11,
+    "latency": 26471
+  },
+  {
+    "txIdx": 2745,
+    "timestamp": 1737802249627,
+    "height": 14,
+    "latency": 49636
+  },
+  {
+    "txIdx": 2695,
+    "timestamp": 1737802249627,
+    "height": 9,
+    "latency": 10867
+  },
+  {
+    "txIdx": 3010,
+    "timestamp": 1737802249629,
+    "height": 12,
+    "latency": 34488
+  },
+  {
+    "txIdx": 2617,
+    "timestamp": 1737802249629,
+    "height": 14,
+    "latency": 49634
+  },
+  {
+    "txIdx": 2871,
+    "timestamp": 1737802249630,
+    "height": 16,
+    "latency": 64514
+  },
+  {
+    "txIdx": 2742,
+    "timestamp": 1737802249631,
+    "height": 8,
+    "latency": 2754
+  },
+  {
+    "txIdx": 3057,
+    "timestamp": 1737802249631,
+    "height": 14,
+    "latency": 49632
+  },
+  {
+    "txIdx": 2671,
+    "timestamp": 1737802249632,
+    "height": 13,
+    "latency": 41936
+  },
+  {
+    "txIdx": 2546,
+    "timestamp": 1737802249633,
+    "height": 8,
+    "latency": 2752
+  },
+  {
+    "txIdx": 2417,
+    "timestamp": 1737802249633,
+    "height": 9,
+    "latency": 10861
+  },
+  {
+    "txIdx": 2905,
+    "timestamp": 1737802249634,
+    "height": 9,
+    "latency": 10860
+  },
+  {
+    "txIdx": 3026,
+    "timestamp": 1737802249636,
+    "height": 8,
+    "latency": 2749
+  },
+  {
+    "txIdx": 3068,
+    "timestamp": 1737802249637,
+    "height": 13,
+    "latency": 41931
+  },
+  {
+    "txIdx": 2441,
+    "timestamp": 1737802249638,
+    "height": 11,
+    "latency": 26459
+  },
+  {
+    "txIdx": 2586,
+    "timestamp": 1737802249639,
+    "height": 14,
+    "latency": 49624
+  },
+  {
+    "txIdx": 2979,
+    "timestamp": 1737802249639,
+    "height": 9,
+    "latency": 10855
+  },
+  {
+    "txIdx": 2416,
+    "timestamp": 1737802249640,
+    "height": 16,
+    "latency": 64504
+  },
+  {
+    "txIdx": 2670,
+    "timestamp": 1737802249640,
+    "height": 15,
+    "latency": 57177
+  },
+  {
+    "txIdx": 2549,
+    "timestamp": 1737802249641,
+    "height": 14,
+    "latency": 49622
+  },
+  {
+    "txIdx": 2921,
+    "timestamp": 1737802249643,
+    "height": 15,
+    "latency": 57174
+  },
+  {
+    "txIdx": 2706,
+    "timestamp": 1737802249644,
+    "height": 12,
+    "latency": 34473
+  },
+  {
+    "txIdx": 2973,
+    "timestamp": 1737802249648,
+    "height": 12,
+    "latency": 34469
+  },
+  {
+    "txIdx": 2450,
+    "timestamp": 1737802249648,
+    "height": 8,
+    "latency": 2737
+  },
+  {
+    "txIdx": 2910,
+    "timestamp": 1737802249649,
+    "height": 16,
+    "latency": 64495
+  },
+  {
+    "txIdx": 2737,
+    "timestamp": 1737802249649,
+    "height": 10,
+    "latency": 18662
+  },
+  {
+    "txIdx": 2619,
+    "timestamp": 1737802249650,
+    "height": 16,
+    "latency": 64494
+  },
+  {
+    "txIdx": 2770,
+    "timestamp": 1737802249651,
+    "height": 12,
+    "latency": 34466
+  },
+  {
+    "txIdx": 3028,
+    "timestamp": 1737802249651,
+    "height": 16,
+    "latency": 64493
+  },
+  {
+    "txIdx": 2669,
+    "timestamp": 1737802249651,
+    "height": 16,
+    "latency": 64493
+  },
+  {
+    "txIdx": 2926,
+    "timestamp": 1737802249652,
+    "height": 15,
+    "latency": 57165
+  },
+  {
+    "txIdx": 2769,
+    "timestamp": 1737802249652,
+    "height": 10,
+    "latency": 18659
+  },
+  {
+    "txIdx": 2813,
+    "timestamp": 1737802249653,
+    "height": 9,
+    "latency": 10841
+  },
+  {
+    "txIdx": 2685,
+    "timestamp": 1737802249654,
+    "height": 13,
+    "latency": 41914
+  },
+  {
+    "txIdx": 2480,
+    "timestamp": 1737802249654,
+    "height": 9,
+    "latency": 10840
+  },
+  {
+    "txIdx": 2504,
+    "timestamp": 1737802249655,
+    "height": 15,
+    "latency": 57162
+  },
+  {
+    "txIdx": 2530,
+    "timestamp": 1737802249656,
+    "height": 13,
+    "latency": 41912
+  },
+  {
+    "txIdx": 2595,
+    "timestamp": 1737802249656,
+    "height": 9,
+    "latency": 10838
+  },
+  {
+    "txIdx": 2585,
+    "timestamp": 1737802249657,
+    "height": 13,
+    "latency": 41911
+  },
+  {
+    "txIdx": 2456,
+    "timestamp": 1737802249657,
+    "height": 11,
+    "latency": 26440
+  },
+  {
+    "txIdx": 3105,
+    "timestamp": 1737802249657,
+    "height": 9,
+    "latency": 10837
+  },
+  {
+    "txIdx": 2443,
+    "timestamp": 1737802249658,
+    "height": 11,
+    "latency": 26439
+  },
+  {
+    "txIdx": 2600,
+    "timestamp": 1737802249658,
+    "height": 15,
+    "latency": 57159
+  },
+  {
+    "txIdx": 3052,
+    "timestamp": 1737802249660,
+    "height": 14,
+    "latency": 49603
+  },
+  {
+    "txIdx": 2765,
+    "timestamp": 1737802249660,
+    "height": 14,
+    "latency": 49603
+  },
+  {
+    "txIdx": 3098,
+    "timestamp": 1737802249661,
+    "height": 13,
+    "latency": 41907
+  },
+  {
+    "txIdx": 2476,
+    "timestamp": 1737802249662,
+    "height": 11,
+    "latency": 26435
+  },
+  {
+    "txIdx": 3118,
+    "timestamp": 1737802249663,
+    "height": 11,
+    "latency": 26434
+  },
+  {
+    "txIdx": 3006,
+    "timestamp": 1737802249665,
+    "height": 10,
+    "latency": 18646
+  },
+  {
+    "txIdx": 2832,
+    "timestamp": 1737802249665,
+    "height": 13,
+    "latency": 41903
+  },
+  {
+    "txIdx": 2665,
+    "timestamp": 1737802249667,
+    "height": 14,
+    "latency": 49596
+  },
+  {
+    "txIdx": 2971,
+    "timestamp": 1737802249667,
+    "height": 16,
+    "latency": 64477
+  },
+  {
+    "txIdx": 3104,
+    "timestamp": 1737802249668,
+    "height": 15,
+    "latency": 57149
+  },
+  {
+    "txIdx": 2525,
+    "timestamp": 1737802249669,
+    "height": 12,
+    "latency": 34448
+  },
+  {
+    "txIdx": 2500,
+    "timestamp": 1737802249669,
+    "height": 14,
+    "latency": 49594
+  },
+  {
+    "txIdx": 2512,
+    "timestamp": 1737802249670,
+    "height": 12,
+    "latency": 34447
+  },
+  {
+    "txIdx": 2794,
+    "timestamp": 1737802249670,
+    "height": 8,
+    "latency": 2715
+  },
+  {
+    "txIdx": 2731,
+    "timestamp": 1737802249671,
+    "height": 9,
+    "latency": 10823
+  },
+  {
+    "txIdx": 2629,
+    "timestamp": 1737802249671,
+    "height": 11,
+    "latency": 26426
+  },
+  {
+    "txIdx": 2714,
+    "timestamp": 1737802249671,
+    "height": 11,
+    "latency": 26426
+  },
+  {
+    "txIdx": 2452,
+    "timestamp": 1737802249672,
+    "height": 12,
+    "latency": 34445
+  },
+  {
+    "txIdx": 2923,
+    "timestamp": 1737802249673,
+    "height": 9,
+    "latency": 10821
+  },
+  {
+    "txIdx": 2590,
+    "timestamp": 1737802249673,
+    "height": 8,
+    "latency": 2712
+  },
+  {
+    "txIdx": 2698,
+    "timestamp": 1737802249675,
+    "height": 11,
+    "latency": 26422
+  },
+  {
+    "txIdx": 2843,
+    "timestamp": 1737802249676,
+    "height": 14,
+    "latency": 49587
+  },
+  {
+    "txIdx": 2773,
+    "timestamp": 1737802249677,
+    "height": 10,
+    "latency": 18634
+  },
+  {
+    "txIdx": 3126,
+    "timestamp": 1737802249678,
+    "height": 10,
+    "latency": 18633
+  },
+  {
+    "txIdx": 2442,
+    "timestamp": 1737802249679,
+    "height": 14,
+    "latency": 49584
+  },
+  {
+    "txIdx": 2845,
+    "timestamp": 1737802249679,
+    "height": 12,
+    "latency": 34438
+  },
+  {
+    "txIdx": 3095,
+    "timestamp": 1737802249679,
+    "height": 9,
+    "latency": 10815
+  },
+  {
+    "txIdx": 2786,
+    "timestamp": 1737802249679,
+    "height": 8,
+    "latency": 2706
+  },
+  {
+    "txIdx": 2720,
+    "timestamp": 1737802249680,
+    "height": 14,
+    "latency": 49583
+  },
+  {
+    "txIdx": 3122,
+    "timestamp": 1737802249681,
+    "height": 13,
+    "latency": 41887
+  },
+  {
+    "txIdx": 2711,
+    "timestamp": 1737802249682,
+    "height": 13,
+    "latency": 41886
+  },
+  {
+    "txIdx": 2748,
+    "timestamp": 1737802249682,
+    "height": 10,
+    "latency": 18629
+  },
+  {
+    "txIdx": 3184,
+    "timestamp": 1737802249683,
+    "height": 9,
+    "latency": 10811
+  },
+  {
+    "txIdx": 3174,
+    "timestamp": 1737802249683,
+    "height": 11,
+    "latency": 26414
+  },
+  {
+    "txIdx": 2694,
+    "timestamp": 1737802249684,
+    "height": 10,
+    "latency": 18627
+  },
+  {
+    "txIdx": 2701,
+    "timestamp": 1737802249685,
+    "height": 9,
+    "latency": 10809
+  },
+  {
+    "txIdx": 2508,
+    "timestamp": 1737802249685,
+    "height": 9,
+    "latency": 10809
+  },
+  {
+    "txIdx": 2566,
+    "timestamp": 1737802249685,
+    "height": 8,
+    "latency": 2700
+  },
+  {
+    "txIdx": 2688,
+    "timestamp": 1737802249686,
+    "height": 12,
+    "latency": 34431
+  },
+  {
+    "txIdx": 2761,
+    "timestamp": 1737802249686,
+    "height": 9,
+    "latency": 10808
+  },
+  {
+    "txIdx": 2524,
+    "timestamp": 1737802249687,
+    "height": 9,
+    "latency": 10807
+  },
+  {
+    "txIdx": 3157,
+    "timestamp": 1737802249687,
+    "height": 9,
+    "latency": 10807
+  },
+  {
+    "txIdx": 3178,
+    "timestamp": 1737802249688,
+    "height": 14,
+    "latency": 49575
+  },
+  {
+    "txIdx": 2645,
+    "timestamp": 1737802249688,
+    "height": 9,
+    "latency": 10806
+  },
+  {
+    "txIdx": 2800,
+    "timestamp": 1737802249691,
+    "height": 9,
+    "latency": 10803
+  },
+  {
+    "txIdx": 2637,
+    "timestamp": 1737802249692,
+    "height": 9,
+    "latency": 10802
+  },
+  {
+    "txIdx": 2553,
+    "timestamp": 1737802249693,
+    "height": 16,
+    "latency": 64451
+  },
+  {
+    "txIdx": 2778,
+    "timestamp": 1737802249694,
+    "height": 16,
+    "latency": 64450
+  },
+  {
+    "txIdx": 3101,
+    "timestamp": 1737802249694,
+    "height": 9,
+    "latency": 10800
+  },
+  {
+    "txIdx": 2884,
+    "timestamp": 1737802249695,
+    "height": 14,
+    "latency": 49568
+  },
+  {
+    "txIdx": 2506,
+    "timestamp": 1737802249695,
+    "height": 13,
+    "latency": 41873
+  },
+  {
+    "txIdx": 2947,
+    "timestamp": 1737802249697,
+    "height": 10,
+    "latency": 18614
+  },
+  {
+    "txIdx": 3110,
+    "timestamp": 1737802249697,
+    "height": 13,
+    "latency": 41871
+  },
+  {
+    "txIdx": 2929,
+    "timestamp": 1737802249698,
+    "height": 13,
+    "latency": 41870
+  },
+  {
+    "txIdx": 2461,
+    "timestamp": 1737802249698,
+    "height": 12,
+    "latency": 34419
+  },
+  {
+    "txIdx": 2515,
+    "timestamp": 1737802249699,
+    "height": 9,
+    "latency": 10795
+  },
+  {
+    "txIdx": 2608,
+    "timestamp": 1737802249700,
+    "height": 11,
+    "latency": 26397
+  },
+  {
+    "txIdx": 3197,
+    "timestamp": 1737802249700,
+    "height": 9,
+    "latency": 10794
+  },
+  {
+    "txIdx": 2707,
+    "timestamp": 1737802249701,
+    "height": 9,
+    "latency": 10793
+  },
+  {
+    "txIdx": 2955,
+    "timestamp": 1737802249702,
+    "height": 9,
+    "latency": 10792
+  },
+  {
+    "txIdx": 3140,
+    "timestamp": 1737802249703,
+    "height": 15,
+    "latency": 57114
+  },
+  {
+    "txIdx": 3024,
+    "timestamp": 1737802249703,
+    "height": 9,
+    "latency": 10791
+  },
+  {
+    "txIdx": 2454,
+    "timestamp": 1737802249704,
+    "height": 13,
+    "latency": 41864
+  },
+  {
+    "txIdx": 2990,
+    "timestamp": 1737802249705,
+    "height": 8,
+    "latency": 2680
+  },
+  {
+    "txIdx": 2912,
+    "timestamp": 1737802249705,
+    "height": 16,
+    "latency": 64439
+  },
+  {
+    "txIdx": 3115,
+    "timestamp": 1737802249705,
+    "height": 14,
+    "latency": 49558
+  },
+  {
+    "txIdx": 2885,
+    "timestamp": 1737802249705,
+    "height": 9,
+    "latency": 10789
+  },
+  {
+    "txIdx": 2448,
+    "timestamp": 1737802249707,
+    "height": 9,
+    "latency": 10787
+  },
+  {
+    "txIdx": 3148,
+    "timestamp": 1737802249708,
+    "height": 10,
+    "latency": 18603
+  },
+  {
+    "txIdx": 2677,
+    "timestamp": 1737802249708,
+    "height": 12,
+    "latency": 34409
+  },
+  {
+    "txIdx": 2622,
+    "timestamp": 1737802249708,
+    "height": 8,
+    "latency": 2677
+  },
+  {
+    "txIdx": 2521,
+    "timestamp": 1737802249709,
+    "height": 15,
+    "latency": 57108
+  },
+  {
+    "txIdx": 2892,
+    "timestamp": 1737802249709,
+    "height": 14,
+    "latency": 49554
+  },
+  {
+    "txIdx": 2787,
+    "timestamp": 1737802249709,
+    "height": 12,
+    "latency": 34408
+  },
+  {
+    "txIdx": 2518,
+    "timestamp": 1737802249710,
+    "height": 8,
+    "latency": 2675
+  },
+  {
+    "txIdx": 2532,
+    "timestamp": 1737802249710,
+    "height": 9,
+    "latency": 10784
+  },
+  {
+    "txIdx": 2487,
+    "timestamp": 1737802249712,
+    "height": 11,
+    "latency": 26385
+  },
+  {
+    "txIdx": 2449,
+    "timestamp": 1737802249712,
+    "height": 16,
+    "latency": 64432
+  },
+  {
+    "txIdx": 2511,
+    "timestamp": 1737802249713,
+    "height": 9,
+    "latency": 10781
+  },
+  {
+    "txIdx": 2520,
+    "timestamp": 1737802249714,
+    "height": 13,
+    "latency": 41854
+  },
+  {
+    "txIdx": 2495,
+    "timestamp": 1737802249714,
+    "height": 14,
+    "latency": 49549
+  },
+  {
+    "txIdx": 3161,
+    "timestamp": 1737802249717,
+    "height": 15,
+    "latency": 57100
+  },
+  {
+    "txIdx": 2844,
+    "timestamp": 1737802249718,
+    "height": 13,
+    "latency": 41850
+  },
+  {
+    "txIdx": 2493,
+    "timestamp": 1737802249719,
+    "height": 13,
+    "latency": 41849
+  },
+  {
+    "txIdx": 2444,
+    "timestamp": 1737802249719,
+    "height": 9,
+    "latency": 10775
+  },
+  {
+    "txIdx": 3121,
+    "timestamp": 1737802249720,
+    "height": 9,
+    "latency": 10774
+  },
+  {
+    "txIdx": 2989,
+    "timestamp": 1737802249721,
+    "height": 9,
+    "latency": 10773
+  },
+  {
+    "txIdx": 3146,
+    "timestamp": 1737802249722,
+    "height": 15,
+    "latency": 57095
+  },
+  {
+    "txIdx": 2527,
+    "timestamp": 1737802249724,
+    "height": 9,
+    "latency": 10770
+  },
+  {
+    "txIdx": 3137,
+    "timestamp": 1737802249724,
+    "height": 13,
+    "latency": 41844
+  },
+  {
+    "txIdx": 2462,
+    "timestamp": 1737802249725,
+    "height": 15,
+    "latency": 57092
+  },
+  {
+    "txIdx": 2466,
+    "timestamp": 1737802249728,
+    "height": 10,
+    "latency": 18583
+  },
+  {
+    "txIdx": 3141,
+    "timestamp": 1737802249728,
+    "height": 9,
+    "latency": 10766
+  },
+  {
+    "txIdx": 2599,
+    "timestamp": 1737802249729,
+    "height": 12,
+    "latency": 34388
+  },
+  {
+    "txIdx": 3070,
+    "timestamp": 1737802249731,
+    "height": 11,
+    "latency": 26366
+  },
+  {
+    "txIdx": 3038,
+    "timestamp": 1737802249733,
+    "height": 16,
+    "latency": 64411
+  },
+  {
+    "txIdx": 3181,
+    "timestamp": 1737802249734,
+    "height": 12,
+    "latency": 34383
+  },
+  {
+    "txIdx": 2578,
+    "timestamp": 1737802249734,
+    "height": 8,
+    "latency": 2651
+  },
+  {
+    "txIdx": 2537,
+    "timestamp": 1737802249736,
+    "height": 16,
+    "latency": 64408
+  },
+  {
+    "txIdx": 2839,
+    "timestamp": 1737802249738,
+    "height": 11,
+    "latency": 26359
+  },
+  {
+    "txIdx": 3069,
+    "timestamp": 1737802249738,
+    "height": 12,
+    "latency": 34379
+  },
+  {
+    "txIdx": 3195,
+    "timestamp": 1737802249744,
+    "height": 15,
+    "latency": 57073
+  },
+  {
+    "txIdx": 3051,
+    "timestamp": 1737802249748,
+    "height": 16,
+    "latency": 64396
+  },
+  {
+    "txIdx": 2959,
+    "timestamp": 1737802249753,
+    "height": 12,
+    "latency": 34364
+  },
+  {
+    "txIdx": 2847,
+    "timestamp": 1737802249760,
+    "height": 10,
+    "latency": 18551
+  },
+  {
+    "txIdx": 3083,
+    "timestamp": 1737802249762,
+    "height": 10,
+    "latency": 18549
+  },
+  {
+    "txIdx": 3191,
+    "timestamp": 1737802249765,
+    "height": 10,
+    "latency": 18546
+  },
+  {
+    "txIdx": 2747,
+    "timestamp": 1737802249766,
+    "height": 11,
+    "latency": 26331
+  },
+  {
+    "txIdx": 2535,
+    "timestamp": 1737802249770,
+    "height": 12,
+    "latency": 34347
+  },
+  {
+    "txIdx": 3103,
+    "timestamp": 1737802249773,
+    "height": 9,
+    "latency": 10721
+  },
+  {
+    "txIdx": 3205,
+    "timestamp": 1737802250530,
+    "height": 12,
+    "latency": 33587
+  },
+  {
+    "txIdx": 3641,
+    "timestamp": 1737802250534,
+    "height": 13,
+    "latency": 41034
+  },
+  {
+    "txIdx": 3305,
+    "timestamp": 1737802250535,
+    "height": 10,
+    "latency": 17776
+  },
+  {
+    "txIdx": 3571,
+    "timestamp": 1737802250533,
+    "height": 14,
+    "latency": 48730
+  },
+  {
+    "txIdx": 3208,
+    "timestamp": 1737802250537,
+    "height": 12,
+    "latency": 33580
+  },
+  {
+    "txIdx": 3247,
+    "timestamp": 1737802250527,
+    "height": 9,
+    "latency": 9967
+  },
+  {
+    "txIdx": 3523,
+    "timestamp": 1737802250549,
+    "height": 13,
+    "latency": 41019
+  },
+  {
+    "txIdx": 3477,
+    "timestamp": 1737802250549,
+    "height": 12,
+    "latency": 33568
+  },
+  {
+    "txIdx": 3304,
+    "timestamp": 1737802250527,
+    "height": 9,
+    "latency": 9967
+  },
+  {
+    "txIdx": 3813,
+    "timestamp": 1737802250542,
+    "height": 15,
+    "latency": 56275
+  },
+  {
+    "txIdx": 3424,
+    "timestamp": 1737802250542,
+    "height": 9,
+    "latency": 9952
+  },
+  {
+    "txIdx": 3815,
+    "timestamp": 1737802250543,
+    "height": 12,
+    "latency": 33574
+  },
+  {
+    "txIdx": 3317,
+    "timestamp": 1737802250546,
+    "height": 9,
+    "latency": 9948
+  },
+  {
+    "txIdx": 3209,
+    "timestamp": 1737802250551,
+    "height": 15,
+    "latency": 56266
+  },
+  {
+    "txIdx": 3460,
+    "timestamp": 1737802250553,
+    "height": 11,
+    "latency": 25544
+  },
+  {
+    "txIdx": 3227,
+    "timestamp": 1737802250556,
+    "height": 15,
+    "latency": 56261
+  },
+  {
+    "txIdx": 3437,
+    "timestamp": 1737802250556,
+    "height": 14,
+    "latency": 48707
+  },
+  {
+    "txIdx": 3409,
+    "timestamp": 1737802250558,
+    "height": 12,
+    "latency": 33559
+  },
+  {
+    "txIdx": 3232,
+    "timestamp": 1737802250561,
+    "height": 15,
+    "latency": 56256
+  },
+  {
+    "txIdx": 3269,
+    "timestamp": 1737802250563,
+    "height": 11,
+    "latency": 25534
+  },
+  {
+    "txIdx": 3928,
+    "timestamp": 1737802250564,
+    "height": 16,
+    "latency": 63580
+  },
+  {
+    "txIdx": 3233,
+    "timestamp": 1737802250564,
+    "height": 12,
+    "latency": 33553
+  },
+  {
+    "txIdx": 3736,
+    "timestamp": 1737802250565,
+    "height": 15,
+    "latency": 56252
+  },
+  {
+    "txIdx": 3733,
+    "timestamp": 1737802250567,
+    "height": 16,
+    "latency": 63577
+  },
+  {
+    "txIdx": 3368,
+    "timestamp": 1737802250568,
+    "height": 9,
+    "latency": 9926
+  },
+  {
+    "txIdx": 3685,
+    "timestamp": 1737802250570,
+    "height": 9,
+    "latency": 9924
+  },
+  {
+    "txIdx": 3648,
+    "timestamp": 1737802250572,
+    "height": 11,
+    "latency": 25525
+  },
+  {
+    "txIdx": 3668,
+    "timestamp": 1737802250573,
+    "height": 12,
+    "latency": 33544
+  },
+  {
+    "txIdx": 3535,
+    "timestamp": 1737802250573,
+    "height": 9,
+    "latency": 9921
+  },
+  {
+    "txIdx": 3253,
+    "timestamp": 1737802250575,
+    "height": 10,
+    "latency": 17736
+  },
+  {
+    "txIdx": 3557,
+    "timestamp": 1737802250578,
+    "height": 13,
+    "latency": 40990
+  },
+  {
+    "txIdx": 3404,
+    "timestamp": 1737802250578,
+    "height": 16,
+    "latency": 63566
+  },
+  {
+    "txIdx": 3451,
+    "timestamp": 1737802250580,
+    "height": 15,
+    "latency": 56237
+  },
+  {
+    "txIdx": 3681,
+    "timestamp": 1737802250581,
+    "height": 9,
+    "latency": 9913
+  },
+  {
+    "txIdx": 3228,
+    "timestamp": 1737802250582,
+    "height": 14,
+    "latency": 48681
+  },
+  {
+    "txIdx": 3669,
+    "timestamp": 1737802250583,
+    "height": 12,
+    "latency": 33534
+  },
+  {
+    "txIdx": 3295,
+    "timestamp": 1737802250583,
+    "height": 10,
+    "latency": 17728
+  },
+  {
+    "txIdx": 3415,
+    "timestamp": 1737802250585,
+    "height": 11,
+    "latency": 25512
+  },
+  {
+    "txIdx": 3281,
+    "timestamp": 1737802250585,
+    "height": 14,
+    "latency": 48678
+  },
+  {
+    "txIdx": 3560,
+    "timestamp": 1737802250585,
+    "height": 16,
+    "latency": 63559
+  },
+  {
+    "txIdx": 3383,
+    "timestamp": 1737802250586,
+    "height": 11,
+    "latency": 25511
+  },
+  {
+    "txIdx": 3396,
+    "timestamp": 1737802250586,
+    "height": 10,
+    "latency": 17725
+  },
+  {
+    "txIdx": 3620,
+    "timestamp": 1737802250587,
+    "height": 11,
+    "latency": 25510
+  },
+  {
+    "txIdx": 3689,
+    "timestamp": 1737802250588,
+    "height": 14,
+    "latency": 48675
+  },
+  {
+    "txIdx": 3428,
+    "timestamp": 1737802250589,
+    "height": 9,
+    "latency": 9905
+  },
+  {
+    "txIdx": 3389,
+    "timestamp": 1737802250590,
+    "height": 16,
+    "latency": 63554
+  },
+  {
+    "txIdx": 3612,
+    "timestamp": 1737802250591,
+    "height": 12,
+    "latency": 33526
+  },
+  {
+    "txIdx": 3659,
+    "timestamp": 1737802250592,
+    "height": 15,
+    "latency": 56225
+  },
+  {
+    "txIdx": 3340,
+    "timestamp": 1737802250592,
+    "height": 15,
+    "latency": 56225
+  },
+  {
+    "txIdx": 3347,
+    "timestamp": 1737802250593,
+    "height": 10,
+    "latency": 17718
+  },
+  {
+    "txIdx": 3259,
+    "timestamp": 1737802250595,
+    "height": 9,
+    "latency": 9899
+  },
+  {
+    "txIdx": 3725,
+    "timestamp": 1737802250596,
+    "height": 9,
+    "latency": 9898
+  },
+  {
+    "txIdx": 3408,
+    "timestamp": 1737802250597,
+    "height": 11,
+    "latency": 25500
+  },
+  {
+    "txIdx": 3425,
+    "timestamp": 1737802250597,
+    "height": 9,
+    "latency": 9897
+  },
+  {
+    "txIdx": 3344,
+    "timestamp": 1737802250599,
+    "height": 13,
+    "latency": 40969
+  },
+  {
+    "txIdx": 3543,
+    "timestamp": 1737802250600,
+    "height": 11,
+    "latency": 25497
+  },
+  {
+    "txIdx": 3392,
+    "timestamp": 1737802250601,
+    "height": 11,
+    "latency": 25496
+  },
+  {
+    "txIdx": 3339,
+    "timestamp": 1737802250602,
+    "height": 10,
+    "latency": 17709
+  },
+  {
+    "txIdx": 3291,
+    "timestamp": 1737802250603,
+    "height": 15,
+    "latency": 56214
+  },
+  {
+    "txIdx": 3289,
+    "timestamp": 1737802250605,
+    "height": 16,
+    "latency": 63539
+  },
+  {
+    "txIdx": 3439,
+    "timestamp": 1737802250605,
+    "height": 14,
+    "latency": 48658
+  },
+  {
+    "txIdx": 3220,
+    "timestamp": 1737802250607,
+    "height": 16,
+    "latency": 63537
+  },
+  {
+    "txIdx": 3311,
+    "timestamp": 1737802250608,
+    "height": 10,
+    "latency": 17703
+  },
+  {
+    "txIdx": 3672,
+    "timestamp": 1737802250608,
+    "height": 14,
+    "latency": 48655
+  },
+  {
+    "txIdx": 3531,
+    "timestamp": 1737802250609,
+    "height": 15,
+    "latency": 56208
+  },
+  {
+    "txIdx": 3763,
+    "timestamp": 1737802250609,
+    "height": 16,
+    "latency": 63535
+  },
+  {
+    "txIdx": 3484,
+    "timestamp": 1737802250610,
+    "height": 16,
+    "latency": 63534
+  },
+  {
+    "txIdx": 3999,
+    "timestamp": 1737802250610,
+    "height": 11,
+    "latency": 25487
+  },
+  {
+    "txIdx": 3495,
+    "timestamp": 1737802250611,
+    "height": 13,
+    "latency": 40957
+  },
+  {
+    "txIdx": 3575,
+    "timestamp": 1737802250615,
+    "height": 12,
+    "latency": 33502
+  },
+  {
+    "txIdx": 3684,
+    "timestamp": 1737802250616,
+    "height": 15,
+    "latency": 56201
+  },
+  {
+    "txIdx": 3475,
+    "timestamp": 1737802250616,
+    "height": 9,
+    "latency": 9878
+  },
+  {
+    "txIdx": 3241,
+    "timestamp": 1737802250617,
+    "height": 10,
+    "latency": 17694
+  },
+  {
+    "txIdx": 3829,
+    "timestamp": 1737802250617,
+    "height": 11,
+    "latency": 25480
+  },
+  {
+    "txIdx": 3373,
+    "timestamp": 1737802250618,
+    "height": 11,
+    "latency": 25479
+  },
+  {
+    "txIdx": 3584,
+    "timestamp": 1737802250619,
+    "height": 15,
+    "latency": 56198
+  },
+  {
+    "txIdx": 3405,
+    "timestamp": 1737802250619,
+    "height": 9,
+    "latency": 9875
+  },
+  {
+    "txIdx": 3773,
+    "timestamp": 1737802250620,
+    "height": 9,
+    "latency": 9874
+  },
+  {
+    "txIdx": 3537,
+    "timestamp": 1737802250622,
+    "height": 16,
+    "latency": 63522
+  },
+  {
+    "txIdx": 3591,
+    "timestamp": 1737802250623,
+    "height": 11,
+    "latency": 25474
+  },
+  {
+    "txIdx": 3673,
+    "timestamp": 1737802250624,
+    "height": 15,
+    "latency": 56193
+  },
+  {
+    "txIdx": 3989,
+    "timestamp": 1737802250625,
+    "height": 10,
+    "latency": 17686
+  },
+  {
+    "txIdx": 3651,
+    "timestamp": 1737802250626,
+    "height": 11,
+    "latency": 25471
+  },
+  {
+    "txIdx": 3256,
+    "timestamp": 1737802250627,
+    "height": 12,
+    "latency": 33490
+  },
+  {
+    "txIdx": 3343,
+    "timestamp": 1737802250627,
+    "height": 14,
+    "latency": 48636
+  },
+  {
+    "txIdx": 3973,
+    "timestamp": 1737802250627,
+    "height": 13,
+    "latency": 40941
+  },
+  {
+    "txIdx": 3455,
+    "timestamp": 1737802250628,
+    "height": 11,
+    "latency": 25469
+  },
+  {
+    "txIdx": 3667,
+    "timestamp": 1737802250629,
+    "height": 15,
+    "latency": 56188
+  },
+  {
+    "txIdx": 3356,
+    "timestamp": 1737802250629,
+    "height": 15,
+    "latency": 56188
+  },
+  {
+    "txIdx": 3649,
+    "timestamp": 1737802250630,
+    "height": 13,
+    "latency": 40938
+  },
+  {
+    "txIdx": 3675,
+    "timestamp": 1737802250631,
+    "height": 9,
+    "latency": 9863
+  },
+  {
+    "txIdx": 3567,
+    "timestamp": 1737802250631,
+    "height": 15,
+    "latency": 56186
+  },
+  {
+    "txIdx": 3613,
+    "timestamp": 1737802250632,
+    "height": 16,
+    "latency": 63512
+  },
+  {
+    "txIdx": 3573,
+    "timestamp": 1737802250633,
+    "height": 9,
+    "latency": 9861
+  },
+  {
+    "txIdx": 3399,
+    "timestamp": 1737802250634,
+    "height": 11,
+    "latency": 25463
+  },
+  {
+    "txIdx": 3637,
+    "timestamp": 1737802250634,
+    "height": 12,
+    "latency": 33483
+  },
+  {
+    "txIdx": 3245,
+    "timestamp": 1737802250636,
+    "height": 13,
+    "latency": 40932
+  },
+  {
+    "txIdx": 3640,
+    "timestamp": 1737802250636,
+    "height": 12,
+    "latency": 33481
+  },
+  {
+    "txIdx": 3549,
+    "timestamp": 1737802250637,
+    "height": 10,
+    "latency": 17674
+  },
+  {
+    "txIdx": 3393,
+    "timestamp": 1737802250638,
+    "height": 9,
+    "latency": 9856
+  },
+  {
+    "txIdx": 3975,
+    "timestamp": 1737802250638,
+    "height": 15,
+    "latency": 56179
+  },
+  {
+    "txIdx": 3625,
+    "timestamp": 1737802250639,
+    "height": 13,
+    "latency": 40929
+  },
+  {
+    "txIdx": 3407,
+    "timestamp": 1737802250641,
+    "height": 9,
+    "latency": 9853
+  },
+  {
+    "txIdx": 3624,
+    "timestamp": 1737802250641,
+    "height": 15,
+    "latency": 56176
+  },
+  {
+    "txIdx": 3623,
+    "timestamp": 1737802250643,
+    "height": 12,
+    "latency": 33474
+  },
+  {
+    "txIdx": 3465,
+    "timestamp": 1737802250645,
+    "height": 14,
+    "latency": 48618
+  },
+  {
+    "txIdx": 3264,
+    "timestamp": 1737802250646,
+    "height": 14,
+    "latency": 48617
+  },
+  {
+    "txIdx": 3727,
+    "timestamp": 1737802250648,
+    "height": 9,
+    "latency": 9846
+  },
+  {
+    "txIdx": 3336,
+    "timestamp": 1737802250649,
+    "height": 12,
+    "latency": 33468
+  },
+  {
+    "txIdx": 3757,
+    "timestamp": 1737802250649,
+    "height": 14,
+    "latency": 48614
+  },
+  {
+    "txIdx": 3825,
+    "timestamp": 1737802250650,
+    "height": 14,
+    "latency": 48613
+  },
+  {
+    "txIdx": 3315,
+    "timestamp": 1737802250651,
+    "height": 13,
+    "latency": 40917
+  },
+  {
+    "txIdx": 3312,
+    "timestamp": 1737802250655,
+    "height": 11,
+    "latency": 25442
+  },
+  {
+    "txIdx": 3287,
+    "timestamp": 1737802250656,
+    "height": 9,
+    "latency": 9838
+  },
+  {
+    "txIdx": 3476,
+    "timestamp": 1737802250656,
+    "height": 9,
+    "latency": 9838
+  },
+  {
+    "txIdx": 3775,
+    "timestamp": 1737802250657,
+    "height": 9,
+    "latency": 9837
+  },
+  {
+    "txIdx": 3597,
+    "timestamp": 1737802250657,
+    "height": 16,
+    "latency": 63487
+  },
+  {
+    "txIdx": 3453,
+    "timestamp": 1737802250659,
+    "height": 9,
+    "latency": 9835
+  },
+  {
+    "txIdx": 3889,
+    "timestamp": 1737802250661,
+    "height": 17,
+    "latency": 71038
+  },
+  {
+    "txIdx": 3892,
+    "timestamp": 1737802250662,
+    "height": 14,
+    "latency": 48601
+  },
+  {
+    "txIdx": 3653,
+    "timestamp": 1737802250665,
+    "height": 14,
+    "latency": 48598
+  },
+  {
+    "txIdx": 3296,
+    "timestamp": 1737802250667,
+    "height": 13,
+    "latency": 40901
+  },
+  {
+    "txIdx": 3879,
+    "timestamp": 1737802250668,
+    "height": 15,
+    "latency": 56149
+  },
+  {
+    "txIdx": 3927,
+    "timestamp": 1737802250668,
+    "height": 14,
+    "latency": 48595
+  },
+  {
+    "txIdx": 3897,
+    "timestamp": 1737802250669,
+    "height": 10,
+    "latency": 17642
+  },
+  {
+    "txIdx": 3316,
+    "timestamp": 1737802250669,
+    "height": 16,
+    "latency": 63475
+  },
+  {
+    "txIdx": 3835,
+    "timestamp": 1737802250669,
+    "height": 12,
+    "latency": 33448
+  },
+  {
+    "txIdx": 3229,
+    "timestamp": 1737802250669,
+    "height": 9,
+    "latency": 9825
+  },
+  {
+    "txIdx": 3755,
+    "timestamp": 1737802250670,
+    "height": 14,
+    "latency": 48593
+  },
+  {
+    "txIdx": 3497,
+    "timestamp": 1737802250671,
+    "height": 17,
+    "latency": 71028
+  },
+  {
+    "txIdx": 3331,
+    "timestamp": 1737802250671,
+    "height": 17,
+    "latency": 71028
+  },
+  {
+    "txIdx": 3548,
+    "timestamp": 1737802250672,
+    "height": 16,
+    "latency": 63472
+  },
+  {
+    "txIdx": 3833,
+    "timestamp": 1737802250672,
+    "height": 9,
+    "latency": 9822
+  },
+  {
+    "txIdx": 3980,
+    "timestamp": 1737802250673,
+    "height": 12,
+    "latency": 33444
+  },
+  {
+    "txIdx": 3821,
+    "timestamp": 1737802250674,
+    "height": 16,
+    "latency": 63470
+  },
+  {
+    "txIdx": 3328,
+    "timestamp": 1737802250675,
+    "height": 12,
+    "latency": 33442
+  },
+  {
+    "txIdx": 3907,
+    "timestamp": 1737802250676,
+    "height": 16,
+    "latency": 63468
+  },
+  {
+    "txIdx": 3873,
+    "timestamp": 1737802250680,
+    "height": 12,
+    "latency": 33437
+  },
+  {
+    "txIdx": 3871,
+    "timestamp": 1737802250681,
+    "height": 15,
+    "latency": 56136
+  },
+  {
+    "txIdx": 3819,
+    "timestamp": 1737802250682,
+    "height": 15,
+    "latency": 56135
+  },
+  {
+    "txIdx": 3372,
+    "timestamp": 1737802250682,
+    "height": 13,
+    "latency": 40886
+  },
+  {
+    "txIdx": 3645,
+    "timestamp": 1737802250682,
+    "height": 16,
+    "latency": 63462
+  },
+  {
+    "txIdx": 3272,
+    "timestamp": 1737802250683,
+    "height": 9,
+    "latency": 9811
+  },
+  {
+    "txIdx": 3761,
+    "timestamp": 1737802250683,
+    "height": 10,
+    "latency": 17628
+  },
+  {
+    "txIdx": 3899,
+    "timestamp": 1737802250683,
+    "height": 15,
+    "latency": 56134
+  },
+  {
+    "txIdx": 3805,
+    "timestamp": 1737802250684,
+    "height": 9,
+    "latency": 9810
+  },
+  {
+    "txIdx": 3929,
+    "timestamp": 1737802250685,
+    "height": 9,
+    "latency": 9809
+  },
+  {
+    "txIdx": 3493,
+    "timestamp": 1737802250685,
+    "height": 13,
+    "latency": 40883
+  },
+  {
+    "txIdx": 3883,
+    "timestamp": 1737802250687,
+    "height": 9,
+    "latency": 9807
+  },
+  {
+    "txIdx": 3800,
+    "timestamp": 1737802250687,
+    "height": 14,
+    "latency": 48576
+  },
+  {
+    "txIdx": 3995,
+    "timestamp": 1737802250689,
+    "height": 14,
+    "latency": 48574
+  },
+  {
+    "txIdx": 3499,
+    "timestamp": 1737802250691,
+    "height": 14,
+    "latency": 48572
+  },
+  {
+    "txIdx": 3997,
+    "timestamp": 1737802250692,
+    "height": 14,
+    "latency": 48571
+  },
+  {
+    "txIdx": 3943,
+    "timestamp": 1737802250695,
+    "height": 13,
+    "latency": 40873
+  },
+  {
+    "txIdx": 3361,
+    "timestamp": 1737802250695,
+    "height": 12,
+    "latency": 33422
+  },
+  {
+    "txIdx": 3859,
+    "timestamp": 1737802250697,
+    "height": 9,
+    "latency": 9797
+  },
+  {
+    "txIdx": 3700,
+    "timestamp": 1737802250699,
+    "height": 9,
+    "latency": 9795
+  },
+  {
+    "txIdx": 3527,
+    "timestamp": 1737802250699,
+    "height": 13,
+    "latency": 40869
+  },
+  {
+    "txIdx": 3507,
+    "timestamp": 1737802250700,
+    "height": 9,
+    "latency": 9794
+  },
+  {
+    "txIdx": 3865,
+    "timestamp": 1737802250700,
+    "height": 16,
+    "latency": 63444
+  },
+  {
+    "txIdx": 3771,
+    "timestamp": 1737802250701,
+    "height": 13,
+    "latency": 40867
+  },
+  {
+    "txIdx": 3972,
+    "timestamp": 1737802250703,
+    "height": 11,
+    "latency": 25394
+  },
+  {
+    "txIdx": 3933,
+    "timestamp": 1737802250705,
+    "height": 11,
+    "latency": 25392
+  },
+  {
+    "txIdx": 3583,
+    "timestamp": 1737802250706,
+    "height": 14,
+    "latency": 48557
+  },
+  {
+    "txIdx": 3941,
+    "timestamp": 1737802250706,
+    "height": 12,
+    "latency": 33411
+  },
+  {
+    "txIdx": 3665,
+    "timestamp": 1737802250707,
+    "height": 13,
+    "latency": 40861
+  },
+  {
+    "txIdx": 3987,
+    "timestamp": 1737802250709,
+    "height": 9,
+    "latency": 9785
+  },
+  {
+    "txIdx": 3921,
+    "timestamp": 1737802250709,
+    "height": 13,
+    "latency": 40859
+  },
+  {
+    "txIdx": 3820,
+    "timestamp": 1737802250709,
+    "height": 9,
+    "latency": 9785
+  },
+  {
+    "txIdx": 3969,
+    "timestamp": 1737802250710,
+    "height": 15,
+    "latency": 56107
+  },
+  {
+    "txIdx": 3840,
+    "timestamp": 1737802250711,
+    "height": 12,
+    "latency": 33406
+  },
+  {
+    "txIdx": 3796,
+    "timestamp": 1737802250712,
+    "height": 15,
+    "latency": 56105
+  },
+  {
+    "txIdx": 3807,
+    "timestamp": 1737802250712,
+    "height": 10,
+    "latency": 17599
+  },
+  {
+    "txIdx": 3900,
+    "timestamp": 1737802250715,
+    "height": 16,
+    "latency": 63429
+  },
+  {
+    "txIdx": 3848,
+    "timestamp": 1737802250717,
+    "height": 9,
+    "latency": 9777
+  },
+  {
+    "txIdx": 3977,
+    "timestamp": 1737802250717,
+    "height": 9,
+    "latency": 9777
+  },
+  {
+    "txIdx": 3811,
+    "timestamp": 1737802250718,
+    "height": 11,
+    "latency": 25379
+  },
+  {
+    "txIdx": 3435,
+    "timestamp": 1737802250719,
+    "height": 15,
+    "latency": 56098
+  },
+  {
+    "txIdx": 3864,
+    "timestamp": 1737802250721,
+    "height": 17,
+    "latency": 70978
+  },
+  {
+    "txIdx": 3760,
+    "timestamp": 1737802250730,
+    "height": 9,
+    "latency": 9764
+  },
+  {
+    "txIdx": 3705,
+    "timestamp": 1737802250733,
+    "height": 9,
+    "latency": 9761
+  },
+  {
+    "txIdx": 3924,
+    "timestamp": 1737802250740,
+    "height": 9,
+    "latency": 9754
+  },
+  {
+    "txIdx": 3488,
+    "timestamp": 1737802250741,
+    "height": 15,
+    "latency": 56076
+  },
+  {
+    "txIdx": 3908,
+    "timestamp": 1737802250743,
+    "height": 11,
+    "latency": 25354
+  },
+  {
+    "txIdx": 3896,
+    "timestamp": 1737802250744,
+    "height": 13,
+    "latency": 40824
+  },
+  {
+    "txIdx": 3888,
+    "timestamp": 1737802250745,
+    "height": 11,
+    "latency": 25352
+  },
+  {
+    "txIdx": 3996,
+    "timestamp": 1737802250746,
+    "height": 13,
+    "latency": 40822
+  },
+  {
+    "txIdx": 3984,
+    "timestamp": 1737802250748,
+    "height": 16,
+    "latency": 63396
+  },
+  {
+    "txIdx": 3440,
+    "timestamp": 1737802250752,
+    "height": 14,
+    "latency": 48511
+  },
+  {
+    "txIdx": 3492,
+    "timestamp": 1737802250753,
+    "height": 9,
+    "latency": 9741
+  },
+  {
+    "txIdx": 3944,
+    "timestamp": 1737802250757,
+    "height": 13,
+    "latency": 40811
+  },
+  {
+    "txIdx": 3508,
+    "timestamp": 1737802250759,
+    "height": 13,
+    "latency": 40809
+  },
+  {
+    "txIdx": 3516,
+    "timestamp": 1737802250763,
+    "height": 15,
+    "latency": 56054
+  },
+  {
+    "txIdx": 3920,
+    "timestamp": 1737802250764,
+    "height": 14,
+    "latency": 48499
+  },
+  {
+    "txIdx": 3940,
+    "timestamp": 1737802250771,
+    "height": 15,
+    "latency": 56046
+  },
+  {
+    "txIdx": 3430,
+    "timestamp": 1737802251237,
+    "height": 16,
+    "latency": 62907
+  },
+  {
+    "txIdx": 3210,
+    "timestamp": 1737802251246,
+    "height": 13,
+    "latency": 40322
+  },
+  {
+    "txIdx": 3226,
+    "timestamp": 1737802251247,
+    "height": 15,
+    "latency": 55570
+  },
+  {
+    "txIdx": 3374,
+    "timestamp": 1737802251249,
+    "height": 15,
+    "latency": 55568
+  },
+  {
+    "txIdx": 3250,
+    "timestamp": 1737802251253,
+    "height": 9,
+    "latency": 9241
+  },
+  {
+    "txIdx": 3354,
+    "timestamp": 1737802251256,
+    "height": 14,
+    "latency": 48007
+  },
+  {
+    "txIdx": 3218,
+    "timestamp": 1737802251268,
+    "height": 9,
+    "latency": 9226
+  },
+  {
+    "txIdx": 3306,
+    "timestamp": 1737802251277,
+    "height": 14,
+    "latency": 47986
+  },
+  {
+    "txIdx": 3958,
+    "timestamp": 1737802251279,
+    "height": 12,
+    "latency": 32838
+  },
+  {
+    "txIdx": 3942,
+    "timestamp": 1737802251282,
+    "height": 11,
+    "latency": 24815
+  },
+  {
+    "txIdx": 3338,
+    "timestamp": 1737802251282,
+    "height": 14,
+    "latency": 47981
+  },
+  {
+    "txIdx": 3398,
+    "timestamp": 1737802251290,
+    "height": 17,
+    "latency": 70409
+  },
+  {
+    "txIdx": 3318,
+    "timestamp": 1737802251293,
+    "height": 10,
+    "latency": 17018
+  },
+  {
+    "txIdx": 3574,
+    "timestamp": 1737802251296,
+    "height": 9,
+    "latency": 9198
+  },
+  {
+    "txIdx": 3302,
+    "timestamp": 1737802251306,
+    "height": 13,
+    "latency": 40262
+  },
+  {
+    "txIdx": 3638,
+    "timestamp": 1737802251307,
+    "height": 9,
+    "latency": 9187
+  },
+  {
+    "txIdx": 3262,
+    "timestamp": 1737802251311,
+    "height": 10,
+    "latency": 17000
+  },
+  {
+    "txIdx": 3358,
+    "timestamp": 1737802251314,
+    "height": 17,
+    "latency": 70385
+  },
+  {
+    "txIdx": 3630,
+    "timestamp": 1737802251316,
+    "height": 14,
+    "latency": 47947
+  },
+  {
+    "txIdx": 3698,
+    "timestamp": 1737802251317,
+    "height": 16,
+    "latency": 62827
+  },
+  {
+    "txIdx": 3290,
+    "timestamp": 1737802251320,
+    "height": 15,
+    "latency": 55497
+  },
+  {
+    "txIdx": 3390,
+    "timestamp": 1737802251321,
+    "height": 9,
+    "latency": 9173
+  },
+  {
+    "txIdx": 3310,
+    "timestamp": 1737802251324,
+    "height": 10,
+    "latency": 16987
+  },
+  {
+    "txIdx": 3442,
+    "timestamp": 1737802251327,
+    "height": 9,
+    "latency": 9167
+  },
+  {
+    "txIdx": 3734,
+    "timestamp": 1737802251338,
+    "height": 17,
+    "latency": 70361
+  },
+  {
+    "txIdx": 3546,
+    "timestamp": 1737802251342,
+    "height": 13,
+    "latency": 40226
+  },
+  {
+    "txIdx": 3670,
+    "timestamp": 1737802251344,
+    "height": 9,
+    "latency": 9150
+  },
+  {
+    "txIdx": 3586,
+    "timestamp": 1737802251346,
+    "height": 15,
+    "latency": 55471
+  },
+  {
+    "txIdx": 3618,
+    "timestamp": 1737802251348,
+    "height": 13,
+    "latency": 40220
+  },
+  {
+    "txIdx": 3418,
+    "timestamp": 1737802251351,
+    "height": 17,
+    "latency": 70348
+  },
+  {
+    "txIdx": 3558,
+    "timestamp": 1737802251352,
+    "height": 15,
+    "latency": 55465
+  },
+  {
+    "txIdx": 3386,
+    "timestamp": 1737802251354,
+    "height": 15,
+    "latency": 55463
+  },
+  {
+    "txIdx": 3974,
+    "timestamp": 1737802251355,
+    "height": 14,
+    "latency": 47908
+  },
+  {
+    "txIdx": 3526,
+    "timestamp": 1737802251358,
+    "height": 13,
+    "latency": 40210
+  },
+  {
+    "txIdx": 3934,
+    "timestamp": 1737802251359,
+    "height": 9,
+    "latency": 9135
+  },
+  {
+    "txIdx": 3242,
+    "timestamp": 1737802251361,
+    "height": 14,
+    "latency": 47902
+  },
+  {
+    "txIdx": 3966,
+    "timestamp": 1737802251362,
+    "height": 13,
+    "latency": 40206
+  },
+  {
+    "txIdx": 3626,
+    "timestamp": 1737802251364,
+    "height": 10,
+    "latency": 16947
+  },
+  {
+    "txIdx": 3230,
+    "timestamp": 1737802251371,
+    "height": 9,
+    "latency": 9123
+  },
+  {
+    "txIdx": 3282,
+    "timestamp": 1737802251372,
+    "height": 9,
+    "latency": 9122
+  },
+  {
+    "txIdx": 3426,
+    "timestamp": 1737802251379,
+    "height": 14,
+    "latency": 47884
+  },
+  {
+    "txIdx": 3706,
+    "timestamp": 1737802251384,
+    "height": 16,
+    "latency": 62760
+  },
+  {
+    "txIdx": 3498,
+    "timestamp": 1737802251385,
+    "height": 9,
+    "latency": 9109
+  },
+  {
+    "txIdx": 3542,
+    "timestamp": 1737802251386,
+    "height": 17,
+    "latency": 70313
+  },
+  {
+    "txIdx": 3634,
+    "timestamp": 1737802251388,
+    "height": 11,
+    "latency": 24709
+  },
+  {
+    "txIdx": 3770,
+    "timestamp": 1737802251395,
+    "height": 12,
+    "latency": 32722
+  },
+  {
+    "txIdx": 3742,
+    "timestamp": 1737802251397,
+    "height": 17,
+    "latency": 70302
+  },
+  {
+    "txIdx": 3434,
+    "timestamp": 1737802251401,
+    "height": 11,
+    "latency": 24696
+  },
+  {
+    "txIdx": 3822,
+    "timestamp": 1737802251402,
+    "height": 11,
+    "latency": 24695
+  },
+  {
+    "txIdx": 3462,
+    "timestamp": 1737802251404,
+    "height": 17,
+    "latency": 70295
+  },
+  {
+    "txIdx": 3750,
+    "timestamp": 1737802251412,
+    "height": 12,
+    "latency": 32705
+  },
+  {
+    "txIdx": 3774,
+    "timestamp": 1737802251415,
+    "height": 17,
+    "latency": 70284
+  },
+  {
+    "txIdx": 3870,
+    "timestamp": 1737802251423,
+    "height": 9,
+    "latency": 9071
+  },
+  {
+    "txIdx": 3834,
+    "timestamp": 1737802251427,
+    "height": 9,
+    "latency": 9067
+  },
+  {
+    "txIdx": 3898,
+    "timestamp": 1737802251429,
+    "height": 9,
+    "latency": 9065
+  },
+  {
+    "txIdx": 3866,
+    "timestamp": 1737802251430,
+    "height": 13,
+    "latency": 40138
+  },
+  {
+    "txIdx": 3930,
+    "timestamp": 1737802251433,
+    "height": 17,
+    "latency": 70266
+  },
+  {
+    "txIdx": 3454,
+    "timestamp": 1737802251435,
+    "height": 11,
+    "latency": 24662
+  },
+  {
+    "txIdx": 3986,
+    "timestamp": 1737802251438,
+    "height": 11,
+    "latency": 24659
+  },
+  {
+    "txIdx": 3514,
+    "timestamp": 1737802251443,
+    "height": 15,
+    "latency": 55374
+  },
+  {
+    "txIdx": 3886,
+    "timestamp": 1737802251459,
+    "height": 12,
+    "latency": 32658
+  },
+  {
+    "txIdx": 3782,
+    "timestamp": 1737802251465,
+    "height": 14,
+    "latency": 47798
+  },
+  {
+    "txIdx": 3906,
+    "timestamp": 1737802251466,
+    "height": 9,
+    "latency": 9028
+  },
+  {
+    "txIdx": 3346,
+    "timestamp": 1737802251468,
+    "height": 9,
+    "latency": 9026
+  },
+  {
+    "txIdx": 3566,
+    "timestamp": 1737802251469,
+    "height": 11,
+    "latency": 24628
+  },
+  {
+    "txIdx": 3922,
+    "timestamp": 1737802251471,
+    "height": 9,
+    "latency": 9023
+  },
+  {
+    "txIdx": 3862,
+    "timestamp": 1737802251472,
+    "height": 16,
+    "latency": 62672
+  },
+  {
+    "txIdx": 3206,
+    "timestamp": 1737802251479,
+    "height": 14,
+    "latency": 47784
+  },
+  {
+    "txIdx": 3778,
+    "timestamp": 1737802251491,
+    "height": 10,
+    "latency": 16820
+  },
+  {
+    "txIdx": 3882,
+    "timestamp": 1737802251498,
+    "height": 17,
+    "latency": 70201
+  },
+  {
+    "txIdx": 3838,
+    "timestamp": 1737802251500,
+    "height": 12,
+    "latency": 32617
+  },
+  {
+    "txIdx": 3322,
+    "timestamp": 1737802251503,
+    "height": 17,
+    "latency": 70196
+  },
+  {
+    "txIdx": 3874,
+    "timestamp": 1737802251507,
+    "height": 15,
+    "latency": 55310
+  },
+  {
+    "txIdx": 3850,
+    "timestamp": 1737802251512,
+    "height": 10,
+    "latency": 16799
+  },
+  {
+    "txIdx": 3914,
+    "timestamp": 1737802251515,
+    "height": 12,
+    "latency": 32602
+  },
+  {
+    "txIdx": 3642,
+    "timestamp": 1737802251529,
+    "height": 17,
+    "latency": 70170
+  },
+  {
+    "txIdx": 3506,
+    "timestamp": 1737802251531,
+    "height": 10,
+    "latency": 16780
+  },
+  {
+    "txIdx": 3538,
+    "timestamp": 1737802251532,
+    "height": 15,
+    "latency": 55285
+  },
+  {
+    "txIdx": 3494,
+    "timestamp": 1737802251536,
+    "height": 13,
+    "latency": 40032
+  },
+  {
+    "txIdx": 3666,
+    "timestamp": 1737802251537,
+    "height": 10,
+    "latency": 16774
+  },
+  {
+    "txIdx": 4001,
+    "timestamp": 1737802251544,
+    "height": 9,
+    "latency": 8950
+  },
+  {
+    "txIdx": 4063,
+    "timestamp": 1737802251548,
+    "height": 17,
+    "latency": 70151
+  },
+  {
+    "txIdx": 4563,
+    "timestamp": 1737802251553,
+    "height": 17,
+    "latency": 70146
+  },
+  {
+    "txIdx": 4006,
+    "timestamp": 1737802251558,
+    "height": 12,
+    "latency": 32559
+  },
+  {
+    "txIdx": 4440,
+    "timestamp": 1737802251564,
+    "height": 11,
+    "latency": 24533
+  },
+  {
+    "txIdx": 4484,
+    "timestamp": 1737802251564,
+    "height": 11,
+    "latency": 24533
+  },
+  {
+    "txIdx": 4293,
+    "timestamp": 1737802251564,
+    "height": 10,
+    "latency": 16747
+  },
+  {
+    "txIdx": 4323,
+    "timestamp": 1737802251565,
+    "height": 16,
+    "latency": 62579
+  },
+  {
+    "txIdx": 4050,
+    "timestamp": 1737802251567,
+    "height": 10,
+    "latency": 16744
+  },
+  {
+    "txIdx": 4505,
+    "timestamp": 1737802251567,
+    "height": 9,
+    "latency": 8927
+  },
+  {
+    "txIdx": 4070,
+    "timestamp": 1737802251568,
+    "height": 11,
+    "latency": 24529
+  },
+  {
+    "txIdx": 4491,
+    "timestamp": 1737802251568,
+    "height": 10,
+    "latency": 16743
+  },
+  {
+    "txIdx": 4500,
+    "timestamp": 1737802251568,
+    "height": 16,
+    "latency": 62576
+  },
+  {
+    "txIdx": 4153,
+    "timestamp": 1737802251569,
+    "height": 9,
+    "latency": 8925
+  },
+  {
+    "txIdx": 4462,
+    "timestamp": 1737802251569,
+    "height": 10,
+    "latency": 16742
+  },
+  {
+    "txIdx": 4254,
+    "timestamp": 1737802251571,
+    "height": 10,
+    "latency": 16740
+  },
+  {
+    "txIdx": 4741,
+    "timestamp": 1737802251571,
+    "height": 17,
+    "latency": 70128
+  },
+  {
+    "txIdx": 4652,
+    "timestamp": 1737802251573,
+    "height": 9,
+    "latency": 8921
+  },
+  {
+    "txIdx": 4200,
+    "timestamp": 1737802251575,
+    "height": 13,
+    "latency": 39993
+  },
+  {
+    "txIdx": 4315,
+    "timestamp": 1737802251576,
+    "height": 9,
+    "latency": 8918
+  },
+  {
+    "txIdx": 4069,
+    "timestamp": 1737802251576,
+    "height": 9,
+    "latency": 8918
+  },
+  {
+    "txIdx": 4628,
+    "timestamp": 1737802251576,
+    "height": 9,
+    "latency": 8918
+  },
+  {
+    "txIdx": 4045,
+    "timestamp": 1737802251578,
+    "height": 10,
+    "latency": 16733
+  },
+  {
+    "txIdx": 4307,
+    "timestamp": 1737802251578,
+    "height": 14,
+    "latency": 47685
+  },
+  {
+    "txIdx": 4318,
+    "timestamp": 1737802251580,
+    "height": 15,
+    "latency": 55237
+  },
+  {
+    "txIdx": 4463,
+    "timestamp": 1737802251580,
+    "height": 17,
+    "latency": 70119
+  },
+  {
+    "txIdx": 4226,
+    "timestamp": 1737802251581,
+    "height": 15,
+    "latency": 55236
+  },
+  {
+    "txIdx": 4438,
+    "timestamp": 1737802251582,
+    "height": 13,
+    "latency": 39986
+  },
+  {
+    "txIdx": 4588,
+    "timestamp": 1737802251585,
+    "height": 10,
+    "latency": 16726
+  },
+  {
+    "txIdx": 4284,
+    "timestamp": 1737802251585,
+    "height": 9,
+    "latency": 8909
+  },
+  {
+    "txIdx": 4084,
+    "timestamp": 1737802251587,
+    "height": 9,
+    "latency": 8907
+  },
+  {
+    "txIdx": 4282,
+    "timestamp": 1737802251587,
+    "height": 10,
+    "latency": 16724
+  },
+  {
+    "txIdx": 4235,
+    "timestamp": 1737802251588,
+    "height": 14,
+    "latency": 47675
+  },
+  {
+    "txIdx": 4668,
+    "timestamp": 1737802251589,
+    "height": 9,
+    "latency": 8905
+  },
+  {
+    "txIdx": 4481,
+    "timestamp": 1737802251590,
+    "height": 15,
+    "latency": 55227
+  },
+  {
+    "txIdx": 4028,
+    "timestamp": 1737802251590,
+    "height": 9,
+    "latency": 8904
+  },
+  {
+    "txIdx": 4260,
+    "timestamp": 1737802251591,
+    "height": 13,
+    "latency": 39977
+  },
+  {
+    "txIdx": 4587,
+    "timestamp": 1737802251591,
+    "height": 11,
+    "latency": 24506
+  },
+  {
+    "txIdx": 4041,
+    "timestamp": 1737802251592,
+    "height": 14,
+    "latency": 47671
+  },
+  {
+    "txIdx": 4334,
+    "timestamp": 1737802251592,
+    "height": 10,
+    "latency": 16719
+  },
+  {
+    "txIdx": 4262,
+    "timestamp": 1737802251593,
+    "height": 9,
+    "latency": 8901
+  },
+  {
+    "txIdx": 4160,
+    "timestamp": 1737802251593,
+    "height": 15,
+    "latency": 55224
+  },
+  {
+    "txIdx": 4230,
+    "timestamp": 1737802251594,
+    "height": 12,
+    "latency": 32523
+  },
+  {
+    "txIdx": 4435,
+    "timestamp": 1737802251595,
+    "height": 11,
+    "latency": 24502
+  },
+  {
+    "txIdx": 4333,
+    "timestamp": 1737802251595,
+    "height": 9,
+    "latency": 8899
+  },
+  {
+    "txIdx": 4304,
+    "timestamp": 1737802251595,
+    "height": 17,
+    "latency": 70104
+  },
+  {
+    "txIdx": 4447,
+    "timestamp": 1737802251596,
+    "height": 10,
+    "latency": 16715
+  },
+  {
+    "txIdx": 4290,
+    "timestamp": 1737802251596,
+    "height": 9,
+    "latency": 8898
+  },
+  {
+    "txIdx": 4580,
+    "timestamp": 1737802251597,
+    "height": 9,
+    "latency": 8897
+  },
+  {
+    "txIdx": 4264,
+    "timestamp": 1737802251598,
+    "height": 14,
+    "latency": 47665
+  },
+  {
+    "txIdx": 4224,
+    "timestamp": 1737802251599,
+    "height": 10,
+    "latency": 16712
+  },
+  {
+    "txIdx": 4320,
+    "timestamp": 1737802251600,
+    "height": 10,
+    "latency": 16711
+  },
+  {
+    "txIdx": 4256,
+    "timestamp": 1737802251602,
+    "height": 13,
+    "latency": 39966
+  },
+  {
+    "txIdx": 4255,
+    "timestamp": 1737802251602,
+    "height": 13,
+    "latency": 39966
+  },
+  {
+    "txIdx": 4060,
+    "timestamp": 1737802251602,
+    "height": 17,
+    "latency": 70097
+  },
+  {
+    "txIdx": 4347,
+    "timestamp": 1737802251603,
+    "height": 9,
+    "latency": 8891
+  },
+  {
+    "txIdx": 4027,
+    "timestamp": 1737802251605,
+    "height": 9,
+    "latency": 8889
+  },
+  {
+    "txIdx": 4025,
+    "timestamp": 1737802251607,
+    "height": 15,
+    "latency": 55210
+  },
+  {
+    "txIdx": 4234,
+    "timestamp": 1737802251607,
+    "height": 9,
+    "latency": 8887
+  },
+  {
+    "txIdx": 4345,
+    "timestamp": 1737802251608,
+    "height": 17,
+    "latency": 70091
+  },
+  {
+    "txIdx": 4228,
+    "timestamp": 1737802251608,
+    "height": 15,
+    "latency": 55209
+  },
+  {
+    "txIdx": 4379,
+    "timestamp": 1737802251609,
+    "height": 17,
+    "latency": 70090
+  },
+  {
+    "txIdx": 4019,
+    "timestamp": 1737802251610,
+    "height": 10,
+    "latency": 16701
+  },
+  {
+    "txIdx": 4208,
+    "timestamp": 1737802251610,
+    "height": 13,
+    "latency": 39958
+  },
+  {
+    "txIdx": 4143,
+    "timestamp": 1737802251612,
+    "height": 15,
+    "latency": 55205
+  },
+  {
+    "txIdx": 4368,
+    "timestamp": 1737802251612,
+    "height": 16,
+    "latency": 62532
+  },
+  {
+    "txIdx": 4283,
+    "timestamp": 1737802251613,
+    "height": 14,
+    "latency": 47650
+  },
+  {
+    "txIdx": 4280,
+    "timestamp": 1737802251614,
+    "height": 16,
+    "latency": 62530
+  },
+  {
+    "txIdx": 4353,
+    "timestamp": 1737802251614,
+    "height": 12,
+    "latency": 32503
+  },
+  {
+    "txIdx": 4586,
+    "timestamp": 1737802251615,
+    "height": 9,
+    "latency": 8879
+  },
+  {
+    "txIdx": 4265,
+    "timestamp": 1737802251616,
+    "height": 14,
+    "latency": 47647
+  },
+  {
+    "txIdx": 4047,
+    "timestamp": 1737802251617,
+    "height": 9,
+    "latency": 8877
+  },
+  {
+    "txIdx": 4362,
+    "timestamp": 1737802251617,
+    "height": 15,
+    "latency": 55200
+  },
+  {
+    "txIdx": 4020,
+    "timestamp": 1737802251617,
+    "height": 10,
+    "latency": 16694
+  },
+  {
+    "txIdx": 4267,
+    "timestamp": 1737802251618,
+    "height": 9,
+    "latency": 8876
+  },
+  {
+    "txIdx": 4257,
+    "timestamp": 1737802251620,
+    "height": 9,
+    "latency": 8874
+  },
+  {
+    "txIdx": 4492,
+    "timestamp": 1737802251621,
+    "height": 14,
+    "latency": 47642
+  },
+  {
+    "txIdx": 4168,
+    "timestamp": 1737802251622,
+    "height": 16,
+    "latency": 62522
+  },
+  {
+    "txIdx": 4289,
+    "timestamp": 1737802251623,
+    "height": 10,
+    "latency": 16688
+  },
+  {
+    "txIdx": 4183,
+    "timestamp": 1737802251623,
+    "height": 10,
+    "latency": 16688
+  },
+  {
+    "txIdx": 4482,
+    "timestamp": 1737802251623,
+    "height": 11,
+    "latency": 24474
+  },
+  {
+    "txIdx": 4059,
+    "timestamp": 1737802251625,
+    "height": 11,
+    "latency": 24472
+  },
+  {
+    "txIdx": 4096,
+    "timestamp": 1737802251625,
+    "height": 10,
+    "latency": 16686
+  },
+  {
+    "txIdx": 4506,
+    "timestamp": 1737802251626,
+    "height": 13,
+    "latency": 39942
+  },
+  {
+    "txIdx": 4454,
+    "timestamp": 1737802251626,
+    "height": 12,
+    "latency": 32491
+  },
+  {
+    "txIdx": 4344,
+    "timestamp": 1737802251627,
+    "height": 15,
+    "latency": 55190
+  },
+  {
+    "txIdx": 4325,
+    "timestamp": 1737802251627,
+    "height": 13,
+    "latency": 39941
+  },
+  {
+    "txIdx": 4154,
+    "timestamp": 1737802251629,
+    "height": 16,
+    "latency": 62515
+  },
+  {
+    "txIdx": 4067,
+    "timestamp": 1737802251629,
+    "height": 9,
+    "latency": 8865
+  },
+  {
+    "txIdx": 4480,
+    "timestamp": 1737802251631,
+    "height": 11,
+    "latency": 24466
+  },
+  {
+    "txIdx": 4013,
+    "timestamp": 1737802251632,
+    "height": 13,
+    "latency": 39936
+  },
+  {
+    "txIdx": 4029,
+    "timestamp": 1737802251634,
+    "height": 16,
+    "latency": 62510
+  },
+  {
+    "txIdx": 4210,
+    "timestamp": 1737802251634,
+    "height": 15,
+    "latency": 55183
+  },
+  {
+    "txIdx": 4382,
+    "timestamp": 1737802251635,
+    "height": 15,
+    "latency": 55182
+  },
+  {
+    "txIdx": 4119,
+    "timestamp": 1737802251635,
+    "height": 11,
+    "latency": 24462
+  },
+  {
+    "txIdx": 4340,
+    "timestamp": 1737802251636,
+    "height": 15,
+    "latency": 55181
+  },
+  {
+    "txIdx": 4554,
+    "timestamp": 1737802251637,
+    "height": 9,
+    "latency": 8857
+  },
+  {
+    "txIdx": 4278,
+    "timestamp": 1737802251638,
+    "height": 10,
+    "latency": 16673
+  },
+  {
+    "txIdx": 4239,
+    "timestamp": 1737802251639,
+    "height": 15,
+    "latency": 55178
+  },
+  {
+    "txIdx": 4437,
+    "timestamp": 1737802251639,
+    "height": 11,
+    "latency": 24458
+  },
+  {
+    "txIdx": 4618,
+    "timestamp": 1737802251639,
+    "height": 10,
+    "latency": 16672
+  },
+  {
+    "txIdx": 4486,
+    "timestamp": 1737802251640,
+    "height": 15,
+    "latency": 55177
+  },
+  {
+    "txIdx": 4236,
+    "timestamp": 1737802251640,
+    "height": 15,
+    "latency": 55177
+  },
+  {
+    "txIdx": 4288,
+    "timestamp": 1737802251641,
+    "height": 13,
+    "latency": 39927
+  },
+  {
+    "txIdx": 4474,
+    "timestamp": 1737802251642,
+    "height": 14,
+    "latency": 47621
+  },
+  {
+    "txIdx": 4547,
+    "timestamp": 1737802251643,
+    "height": 14,
+    "latency": 47620
+  },
+  {
+    "txIdx": 4539,
+    "timestamp": 1737802251644,
+    "height": 16,
+    "latency": 62500
+  },
+  {
+    "txIdx": 4202,
+    "timestamp": 1737802251645,
+    "height": 12,
+    "latency": 32472
+  },
+  {
+    "txIdx": 4601,
+    "timestamp": 1737802251645,
+    "height": 13,
+    "latency": 39923
+  },
+  {
+    "txIdx": 4763,
+    "timestamp": 1737802251646,
+    "height": 16,
+    "latency": 62498
+  },
+  {
+    "txIdx": 4086,
+    "timestamp": 1737802251646,
+    "height": 10,
+    "latency": 16665
+  },
+  {
+    "txIdx": 4548,
+    "timestamp": 1737802251650,
+    "height": 10,
+    "latency": 16661
+  },
+  {
+    "txIdx": 4371,
+    "timestamp": 1737802251651,
+    "height": 17,
+    "latency": 70048
+  },
+  {
+    "txIdx": 4385,
+    "timestamp": 1737802251652,
+    "height": 9,
+    "latency": 8842
+  },
+  {
+    "txIdx": 4522,
+    "timestamp": 1737802251653,
+    "height": 17,
+    "latency": 70046
+  },
+  {
+    "txIdx": 4083,
+    "timestamp": 1737802251653,
+    "height": 17,
+    "latency": 70046
+  },
+  {
+    "txIdx": 4521,
+    "timestamp": 1737802251654,
+    "height": 12,
+    "latency": 32463
+  },
+  {
+    "txIdx": 4760,
+    "timestamp": 1737802251654,
+    "height": 11,
+    "latency": 24443
+  },
+  {
+    "txIdx": 4499,
+    "timestamp": 1737802251654,
+    "height": 10,
+    "latency": 16657
+  },
+  {
+    "txIdx": 4068,
+    "timestamp": 1737802251655,
+    "height": 9,
+    "latency": 8839
+  },
+  {
+    "txIdx": 4620,
+    "timestamp": 1737802251656,
+    "height": 17,
+    "latency": 70043
+  },
+  {
+    "txIdx": 4555,
+    "timestamp": 1737802251656,
+    "height": 12,
+    "latency": 32461
+  },
+  {
+    "txIdx": 4316,
+    "timestamp": 1737802251659,
+    "height": 12,
+    "latency": 32458
+  },
+  {
+    "txIdx": 4770,
+    "timestamp": 1737802251660,
+    "height": 9,
+    "latency": 8834
+  },
+  {
+    "txIdx": 4082,
+    "timestamp": 1737802251660,
+    "height": 17,
+    "latency": 70039
+  },
+  {
+    "txIdx": 4380,
+    "timestamp": 1737802251661,
+    "height": 9,
+    "latency": 8833
+  },
+  {
+    "txIdx": 4241,
+    "timestamp": 1737802251661,
+    "height": 9,
+    "latency": 8833
+  },
+  {
+    "txIdx": 4354,
+    "timestamp": 1737802251662,
+    "height": 9,
+    "latency": 8832
+  },
+  {
+    "txIdx": 4176,
+    "timestamp": 1737802251664,
+    "height": 14,
+    "latency": 47599
+  },
+  {
+    "txIdx": 4470,
+    "timestamp": 1737802251665,
+    "height": 14,
+    "latency": 47598
+  },
+  {
+    "txIdx": 4383,
+    "timestamp": 1737802251666,
+    "height": 15,
+    "latency": 55151
+  },
+  {
+    "txIdx": 4672,
+    "timestamp": 1737802251666,
+    "height": 10,
+    "latency": 16645
+  },
+  {
+    "txIdx": 4684,
+    "timestamp": 1737802251667,
+    "height": 9,
+    "latency": 8827
+  },
+  {
+    "txIdx": 4367,
+    "timestamp": 1737802251668,
+    "height": 14,
+    "latency": 47595
+  },
+  {
+    "txIdx": 4036,
+    "timestamp": 1737802251668,
+    "height": 12,
+    "latency": 32449
+  },
+  {
+    "txIdx": 4427,
+    "timestamp": 1737802251670,
+    "height": 14,
+    "latency": 47593
+  },
+  {
+    "txIdx": 4125,
+    "timestamp": 1737802251671,
+    "height": 15,
+    "latency": 55146
+  },
+  {
+    "txIdx": 4090,
+    "timestamp": 1737802251671,
+    "height": 16,
+    "latency": 62473
+  },
+  {
+    "txIdx": 4167,
+    "timestamp": 1737802251672,
+    "height": 11,
+    "latency": 24425
+  },
+  {
+    "txIdx": 4416,
+    "timestamp": 1737802251672,
+    "height": 10,
+    "latency": 16639
+  },
+  {
+    "txIdx": 4335,
+    "timestamp": 1737802251673,
+    "height": 15,
+    "latency": 55144
+  },
+  {
+    "txIdx": 4573,
+    "timestamp": 1737802251674,
+    "height": 12,
+    "latency": 32443
+  },
+  {
+    "txIdx": 4682,
+    "timestamp": 1737802251675,
+    "height": 12,
+    "latency": 32442
+  },
+  {
+    "txIdx": 4403,
+    "timestamp": 1737802251675,
+    "height": 16,
+    "latency": 62469
+  },
+  {
+    "txIdx": 4559,
+    "timestamp": 1737802251676,
+    "height": 11,
+    "latency": 24421
+  },
+  {
+    "txIdx": 4528,
+    "timestamp": 1737802251677,
+    "height": 12,
+    "latency": 32440
+  },
+  {
+    "txIdx": 4398,
+    "timestamp": 1737802251678,
+    "height": 14,
+    "latency": 47585
+  },
+  {
+    "txIdx": 4127,
+    "timestamp": 1737802251678,
+    "height": 9,
+    "latency": 8816
+  },
+  {
+    "txIdx": 4564,
+    "timestamp": 1737802251678,
+    "height": 10,
+    "latency": 16633
+  },
+  {
+    "txIdx": 4638,
+    "timestamp": 1737802251679,
+    "height": 11,
+    "latency": 24418
+  },
+  {
+    "txIdx": 4033,
+    "timestamp": 1737802251680,
+    "height": 15,
+    "latency": 55137
+  },
+  {
+    "txIdx": 4164,
+    "timestamp": 1737802251680,
+    "height": 9,
+    "latency": 8814
+  },
+  {
+    "txIdx": 4565,
+    "timestamp": 1737802251682,
+    "height": 9,
+    "latency": 8812
+  },
+  {
+    "txIdx": 4423,
+    "timestamp": 1737802251682,
+    "height": 11,
+    "latency": 24415
+  },
+  {
+    "txIdx": 4767,
+    "timestamp": 1737802251683,
+    "height": 16,
+    "latency": 62461
+  },
+  {
+    "txIdx": 4071,
+    "timestamp": 1737802251685,
+    "height": 13,
+    "latency": 39883
+  },
+  {
+    "txIdx": 4494,
+    "timestamp": 1737802251686,
+    "height": 17,
+    "latency": 70013
+  },
+  {
+    "txIdx": 4156,
+    "timestamp": 1737802251688,
+    "height": 13,
+    "latency": 39880
+  },
+  {
+    "txIdx": 4759,
+    "timestamp": 1737802251689,
+    "height": 13,
+    "latency": 39879
+  },
+  {
+    "txIdx": 4732,
+    "timestamp": 1737802251690,
+    "height": 14,
+    "latency": 47573
+  },
+  {
+    "txIdx": 4088,
+    "timestamp": 1737802251691,
+    "height": 9,
+    "latency": 8803
+  },
+  {
+    "txIdx": 4411,
+    "timestamp": 1737802251692,
+    "height": 10,
+    "latency": 16619
+  },
+  {
+    "txIdx": 4030,
+    "timestamp": 1737802251692,
+    "height": 17,
+    "latency": 70007
+  },
+  {
+    "txIdx": 4394,
+    "timestamp": 1737802251692,
+    "height": 16,
+    "latency": 62452
+  },
+  {
+    "txIdx": 4670,
+    "timestamp": 1737802251693,
+    "height": 15,
+    "latency": 55124
+  },
+  {
+    "txIdx": 4400,
+    "timestamp": 1737802251693,
+    "height": 10,
+    "latency": 16618
+  },
+  {
+    "txIdx": 4467,
+    "timestamp": 1737802251694,
+    "height": 9,
+    "latency": 8800
+  },
+  {
+    "txIdx": 4560,
+    "timestamp": 1737802251695,
+    "height": 10,
+    "latency": 16616
+  },
+  {
+    "txIdx": 4292,
+    "timestamp": 1737802251695,
+    "height": 15,
+    "latency": 55122
+  },
+  {
+    "txIdx": 4124,
+    "timestamp": 1737802251697,
+    "height": 14,
+    "latency": 47566
+  },
+  {
+    "txIdx": 4105,
+    "timestamp": 1737802251697,
+    "height": 11,
+    "latency": 24400
+  },
+  {
+    "txIdx": 4712,
+    "timestamp": 1737802251698,
+    "height": 17,
+    "latency": 70001
+  },
+  {
+    "txIdx": 4111,
+    "timestamp": 1737802251698,
+    "height": 9,
+    "latency": 8796
+  },
+  {
+    "txIdx": 4213,
+    "timestamp": 1737802251699,
+    "height": 11,
+    "latency": 24398
+  },
+  {
+    "txIdx": 4572,
+    "timestamp": 1737802251699,
+    "height": 11,
+    "latency": 24398
+  },
+  {
+    "txIdx": 4583,
+    "timestamp": 1737802251699,
+    "height": 9,
+    "latency": 8795
+  },
+  {
+    "txIdx": 4080,
+    "timestamp": 1737802251700,
+    "height": 13,
+    "latency": 39868
+  },
+  {
+    "txIdx": 4627,
+    "timestamp": 1737802251701,
+    "height": 9,
+    "latency": 8793
+  },
+  {
+    "txIdx": 4008,
+    "timestamp": 1737802251701,
+    "height": 11,
+    "latency": 24396
+  },
+  {
+    "txIdx": 4611,
+    "timestamp": 1737802251702,
+    "height": 9,
+    "latency": 8792
+  },
+  {
+    "txIdx": 4436,
+    "timestamp": 1737802251702,
+    "height": 10,
+    "latency": 16609
+  },
+  {
+    "txIdx": 4135,
+    "timestamp": 1737802251704,
+    "height": 17,
+    "latency": 69995
+  },
+  {
+    "txIdx": 4614,
+    "timestamp": 1737802251705,
+    "height": 16,
+    "latency": 62439
+  },
+  {
+    "txIdx": 4569,
+    "timestamp": 1737802251706,
+    "height": 10,
+    "latency": 16605
+  },
+  {
+    "txIdx": 4514,
+    "timestamp": 1737802251707,
+    "height": 12,
+    "latency": 32410
+  },
+  {
+    "txIdx": 4308,
+    "timestamp": 1737802251708,
+    "height": 13,
+    "latency": 39860
+  },
+  {
+    "txIdx": 4730,
+    "timestamp": 1737802251708,
+    "height": 12,
+    "latency": 32409
+  },
+  {
+    "txIdx": 4740,
+    "timestamp": 1737802251708,
+    "height": 12,
+    "latency": 32409
+  },
+  {
+    "txIdx": 4786,
+    "timestamp": 1737802251709,
+    "height": 10,
+    "latency": 16602
+  },
+  {
+    "txIdx": 4212,
+    "timestamp": 1737802251709,
+    "height": 9,
+    "latency": 8785
+  },
+  {
+    "txIdx": 4662,
+    "timestamp": 1737802251709,
+    "height": 16,
+    "latency": 62435
+  },
+  {
+    "txIdx": 4683,
+    "timestamp": 1737802251710,
+    "height": 13,
+    "latency": 39858
+  },
+  {
+    "txIdx": 4131,
+    "timestamp": 1737802251711,
+    "height": 12,
+    "latency": 32406
+  },
+  {
+    "txIdx": 4104,
+    "timestamp": 1737802251712,
+    "height": 15,
+    "latency": 55105
+  },
+  {
+    "txIdx": 4655,
+    "timestamp": 1737802251712,
+    "height": 14,
+    "latency": 47551
+  },
+  {
+    "txIdx": 4072,
+    "timestamp": 1737802251713,
+    "height": 11,
+    "latency": 24384
+  },
+  {
+    "txIdx": 4667,
+    "timestamp": 1737802251713,
+    "height": 10,
+    "latency": 16598
+  },
+  {
+    "txIdx": 4798,
+    "timestamp": 1737802251714,
+    "height": 12,
+    "latency": 32403
+  },
+  {
+    "txIdx": 4328,
+    "timestamp": 1737802251715,
+    "height": 15,
+    "latency": 55102
+  },
+  {
+    "txIdx": 4199,
+    "timestamp": 1737802251715,
+    "height": 9,
+    "latency": 8779
+  },
+  {
+    "txIdx": 4720,
+    "timestamp": 1737802251715,
+    "height": 17,
+    "latency": 69984
+  },
+  {
+    "txIdx": 4173,
+    "timestamp": 1737802251716,
+    "height": 16,
+    "latency": 62428
+  },
+  {
+    "txIdx": 4664,
+    "timestamp": 1737802251716,
+    "height": 9,
+    "latency": 8778
+  },
+  {
+    "txIdx": 4191,
+    "timestamp": 1737802251717,
+    "height": 16,
+    "latency": 62427
+  },
+  {
+    "txIdx": 4606,
+    "timestamp": 1737802251717,
+    "height": 10,
+    "latency": 16594
+  },
+  {
+    "txIdx": 4716,
+    "timestamp": 1737802251717,
+    "height": 15,
+    "latency": 55100
+  },
+  {
+    "txIdx": 4537,
+    "timestamp": 1737802251718,
+    "height": 9,
+    "latency": 8776
+  },
+  {
+    "txIdx": 4203,
+    "timestamp": 1737802251718,
+    "height": 9,
+    "latency": 8776
+  },
+  {
+    "txIdx": 4584,
+    "timestamp": 1737802251718,
+    "height": 15,
+    "latency": 55099
+  },
+  {
+    "txIdx": 4031,
+    "timestamp": 1737802251720,
+    "height": 14,
+    "latency": 47543
+  },
+  {
+    "txIdx": 4549,
+    "timestamp": 1737802251720,
+    "height": 9,
+    "latency": 8774
+  },
+  {
+    "txIdx": 4726,
+    "timestamp": 1737802251721,
+    "height": 10,
+    "latency": 16590
+  },
+  {
+    "txIdx": 4144,
+    "timestamp": 1737802251721,
+    "height": 16,
+    "latency": 62423
+  },
+  {
+    "txIdx": 4395,
+    "timestamp": 1737802251722,
+    "height": 10,
+    "latency": 16589
+  },
+  {
+    "txIdx": 4757,
+    "timestamp": 1737802251722,
+    "height": 11,
+    "latency": 24375
+  },
+  {
+    "txIdx": 4780,
+    "timestamp": 1737802251725,
+    "height": 13,
+    "latency": 39843
+  },
+  {
+    "txIdx": 4783,
+    "timestamp": 1737802251725,
+    "height": 16,
+    "latency": 62419
+  },
+  {
+    "txIdx": 4679,
+    "timestamp": 1737802251726,
+    "height": 9,
+    "latency": 8768
+  },
+  {
+    "txIdx": 4540,
+    "timestamp": 1737802251727,
+    "height": 17,
+    "latency": 69972
+  },
+  {
+    "txIdx": 4517,
+    "timestamp": 1737802251728,
+    "height": 9,
+    "latency": 8766
+  },
+  {
+    "txIdx": 4728,
+    "timestamp": 1737802251729,
+    "height": 17,
+    "latency": 69970
+  },
+  {
+    "txIdx": 4723,
+    "timestamp": 1737802251729,
+    "height": 15,
+    "latency": 55088
+  },
+  {
+    "txIdx": 4277,
+    "timestamp": 1737802251729,
+    "height": 13,
+    "latency": 39839
+  },
+  {
+    "txIdx": 4796,
+    "timestamp": 1737802251730,
+    "height": 10,
+    "latency": 16581
+  },
+  {
+    "txIdx": 4607,
+    "timestamp": 1737802251730,
+    "height": 17,
+    "latency": 69969
+  },
+  {
+    "txIdx": 4779,
+    "timestamp": 1737802251731,
+    "height": 14,
+    "latency": 47532
+  },
+  {
+    "txIdx": 4089,
+    "timestamp": 1737802251732,
+    "height": 10,
+    "latency": 16579
+  },
+  {
+    "txIdx": 4596,
+    "timestamp": 1737802251732,
+    "height": 12,
+    "latency": 32385
+  },
+  {
+    "txIdx": 4703,
+    "timestamp": 1737802251732,
+    "height": 16,
+    "latency": 62412
+  },
+  {
+    "txIdx": 4735,
+    "timestamp": 1737802251739,
+    "height": 11,
+    "latency": 24358
+  },
+  {
+    "txIdx": 4361,
+    "timestamp": 1737802251742,
+    "height": 9,
+    "latency": 8752
+  },
+  {
+    "txIdx": 4787,
+    "timestamp": 1737802251743,
+    "height": 11,
+    "latency": 24354
+  },
+  {
+    "txIdx": 4617,
+    "timestamp": 1737802251747,
+    "height": 10,
+    "latency": 16564
+  },
+  {
+    "txIdx": 4577,
+    "timestamp": 1737802251750,
+    "height": 9,
+    "latency": 8744
+  },
+  {
+    "txIdx": 4773,
+    "timestamp": 1737802251751,
+    "height": 9,
+    "latency": 8743
+  },
+  {
+    "txIdx": 4417,
+    "timestamp": 1737802251757,
+    "height": 9,
+    "latency": 8737
+  },
+  {
+    "txIdx": 4769,
+    "timestamp": 1737802251766,
+    "height": 14,
+    "latency": 47497
+  },
+  {
+    "txIdx": 4605,
+    "timestamp": 1737802251769,
+    "height": 14,
+    "latency": 47494
+  },
+  {
+    "txIdx": 4509,
+    "timestamp": 1737802251770,
+    "height": 16,
+    "latency": 62374
+  },
+  {
+    "txIdx": 4497,
+    "timestamp": 1737802251773,
+    "height": 9,
+    "latency": 8721
+  },
+  {
+    "txIdx": 4225,
+    "timestamp": 1737802251778,
+    "height": 11,
+    "latency": 24319
+  },
+  {
+    "txIdx": 4625,
+    "timestamp": 1737802251781,
+    "height": 13,
+    "latency": 39787
+  },
+  {
+    "txIdx": 4665,
+    "timestamp": 1737802251782,
+    "height": 14,
+    "latency": 47481
+  },
+  {
+    "txIdx": 4585,
+    "timestamp": 1737802251784,
+    "height": 10,
+    "latency": 16527
+  },
+  {
+    "txIdx": 4693,
+    "timestamp": 1737802251790,
+    "height": 12,
+    "latency": 32327
+  },
+  {
+    "txIdx": 4581,
+    "timestamp": 1737802251800,
+    "height": 15,
+    "latency": 55017
+  },
+  {
+    "txIdx": 4649,
+    "timestamp": 1737802251803,
+    "height": 14,
+    "latency": 47460
+  },
+  {
+    "txIdx": 4393,
+    "timestamp": 1737802251804,
+    "height": 12,
+    "latency": 32313
+  },
+  {
+    "txIdx": 4397,
+    "timestamp": 1737802251816,
+    "height": 10,
+    "latency": 16495
+  },
+  {
+    "txIdx": 4685,
+    "timestamp": 1737802251829,
+    "height": 9,
+    "latency": 8665
+  },
+  {
+    "txIdx": 4737,
+    "timestamp": 1737802251837,
+    "height": 16,
+    "latency": 62307
+  },
+  {
+    "txIdx": 4777,
+    "timestamp": 1737802251844,
+    "height": 12,
+    "latency": 32273
+  },
+  {
+    "txIdx": 4781,
+    "timestamp": 1737802251845,
+    "height": 13,
+    "latency": 39723
+  },
+  {
+    "txIdx": 4169,
+    "timestamp": 1737802251854,
+    "height": 15,
+    "latency": 54963
+  },
+  {
+    "txIdx": 4789,
+    "timestamp": 1737802251860,
+    "height": 12,
+    "latency": 32257
+  },
+  {
+    "txIdx": 4822,
+    "timestamp": 1737802252546,
+    "height": 10,
+    "latency": 15765
+  },
+  {
+    "txIdx": 4838,
+    "timestamp": 1737802252548,
+    "height": 16,
+    "latency": 61596
+  },
+  {
+    "txIdx": 4934,
+    "timestamp": 1737802252554,
+    "height": 16,
+    "latency": 61590
+  },
+  {
+    "txIdx": 5314,
+    "timestamp": 1737802252558,
+    "height": 14,
+    "latency": 46705
+  },
+  {
+    "txIdx": 5330,
+    "timestamp": 1737802252563,
+    "height": 12,
+    "latency": 31554
+  },
+  {
+    "txIdx": 4914,
+    "timestamp": 1737802252563,
+    "height": 10,
+    "latency": 15748
+  },
+  {
+    "txIdx": 5318,
+    "timestamp": 1737802252567,
+    "height": 10,
+    "latency": 15744
+  },
+  {
+    "txIdx": 5410,
+    "timestamp": 1737802252567,
+    "height": 16,
+    "latency": 61577
+  },
+  {
+    "txIdx": 4910,
+    "timestamp": 1737802252568,
+    "height": 10,
+    "latency": 15743
+  },
+  {
+    "txIdx": 5214,
+    "timestamp": 1737802252570,
+    "height": 10,
+    "latency": 15741
+  },
+  {
+    "txIdx": 4870,
+    "timestamp": 1737802252571,
+    "height": 12,
+    "latency": 31546
+  },
+  {
+    "txIdx": 5238,
+    "timestamp": 1737802252573,
+    "height": 16,
+    "latency": 61571
+  },
+  {
+    "txIdx": 5030,
+    "timestamp": 1737802252578,
+    "height": 12,
+    "latency": 31539
+  },
+  {
+    "txIdx": 5342,
+    "timestamp": 1737802252582,
+    "height": 16,
+    "latency": 61562
+  },
+  {
+    "txIdx": 4926,
+    "timestamp": 1737802252589,
+    "height": 14,
+    "latency": 46674
+  },
+  {
+    "txIdx": 5470,
+    "timestamp": 1737802252594,
+    "height": 16,
+    "latency": 61550
+  },
+  {
+    "txIdx": 5310,
+    "timestamp": 1737802252595,
+    "height": 10,
+    "latency": 15716
+  },
+  {
+    "txIdx": 5406,
+    "timestamp": 1737802252598,
+    "height": 12,
+    "latency": 31519
+  },
+  {
+    "txIdx": 5346,
+    "timestamp": 1737802252603,
+    "height": 12,
+    "latency": 31514
+  },
+  {
+    "txIdx": 5262,
+    "timestamp": 1737802252603,
+    "height": 16,
+    "latency": 61541
+  },
+  {
+    "txIdx": 4882,
+    "timestamp": 1737802252604,
+    "height": 16,
+    "latency": 61540
+  },
+  {
+    "txIdx": 4986,
+    "timestamp": 1737802252608,
+    "height": 12,
+    "latency": 31509
+  },
+  {
+    "txIdx": 5554,
+    "timestamp": 1737802252611,
+    "height": 12,
+    "latency": 31506
+  },
+  {
+    "txIdx": 5534,
+    "timestamp": 1737802252612,
+    "height": 16,
+    "latency": 61532
+  },
+  {
+    "txIdx": 5418,
+    "timestamp": 1737802252616,
+    "height": 16,
+    "latency": 61528
+  },
+  {
+    "txIdx": 5486,
+    "timestamp": 1737802252617,
+    "height": 12,
+    "latency": 31500
+  },
+  {
+    "txIdx": 4890,
+    "timestamp": 1737802252621,
+    "height": 12,
+    "latency": 31496
+  },
+  {
+    "txIdx": 5594,
+    "timestamp": 1737802252624,
+    "height": 16,
+    "latency": 61520
+  },
+  {
+    "txIdx": 5354,
+    "timestamp": 1737802252624,
+    "height": 16,
+    "latency": 61520
+  },
+  {
+    "txIdx": 5390,
+    "timestamp": 1737802252627,
+    "height": 16,
+    "latency": 61517
+  },
+  {
+    "txIdx": 4874,
+    "timestamp": 1737802252627,
+    "height": 12,
+    "latency": 31490
+  },
+  {
+    "txIdx": 5498,
+    "timestamp": 1737802252628,
+    "height": 16,
+    "latency": 61516
+  },
+  {
+    "txIdx": 5014,
+    "timestamp": 1737802252632,
+    "height": 16,
+    "latency": 61512
+  },
+  {
+    "txIdx": 5494,
+    "timestamp": 1737802252636,
+    "height": 16,
+    "latency": 61508
+  },
+  {
+    "txIdx": 5526,
+    "timestamp": 1737802252640,
+    "height": 12,
+    "latency": 31477
+  },
+  {
+    "txIdx": 5454,
+    "timestamp": 1737802252640,
+    "height": 12,
+    "latency": 31477
+  },
+  {
+    "txIdx": 5442,
+    "timestamp": 1737802252642,
+    "height": 16,
+    "latency": 61502
+  },
+  {
+    "txIdx": 5154,
+    "timestamp": 1737802252643,
+    "height": 12,
+    "latency": 31474
+  },
+  {
+    "txIdx": 4850,
+    "timestamp": 1737802252654,
+    "height": 16,
+    "latency": 61490
+  },
+  {
+    "txIdx": 4982,
+    "timestamp": 1737802252657,
+    "height": 12,
+    "latency": 31460
+  },
+  {
+    "txIdx": 5130,
+    "timestamp": 1737802252659,
+    "height": 16,
+    "latency": 61485
+  },
+  {
+    "txIdx": 5306,
+    "timestamp": 1737802252660,
+    "height": 12,
+    "latency": 31457
+  },
+  {
+    "txIdx": 5398,
+    "timestamp": 1737802252662,
+    "height": 12,
+    "latency": 31455
+  },
+  {
+    "txIdx": 5006,
+    "timestamp": 1737802252663,
+    "height": 12,
+    "latency": 31454
+  },
+  {
+    "txIdx": 5506,
+    "timestamp": 1737802252664,
+    "height": 16,
+    "latency": 61480
+  },
+  {
+    "txIdx": 5502,
+    "timestamp": 1737802252669,
+    "height": 16,
+    "latency": 61475
+  },
+  {
+    "txIdx": 5162,
+    "timestamp": 1737802252672,
+    "height": 16,
+    "latency": 61472
+  },
+  {
+    "txIdx": 5138,
+    "timestamp": 1737802252672,
+    "height": 12,
+    "latency": 31445
+  },
+  {
+    "txIdx": 4930,
+    "timestamp": 1737802252676,
+    "height": 12,
+    "latency": 31441
+  },
+  {
+    "txIdx": 5094,
+    "timestamp": 1737802252677,
+    "height": 16,
+    "latency": 61467
+  },
+  {
+    "txIdx": 5050,
+    "timestamp": 1737802252680,
+    "height": 16,
+    "latency": 61464
+  },
+  {
+    "txIdx": 5510,
+    "timestamp": 1737802252683,
+    "height": 16,
+    "latency": 61461
+  },
+  {
+    "txIdx": 5022,
+    "timestamp": 1737802252688,
+    "height": 16,
+    "latency": 61456
+  },
+  {
+    "txIdx": 5246,
+    "timestamp": 1737802252688,
+    "height": 16,
+    "latency": 61456
+  },
+  {
+    "txIdx": 5490,
+    "timestamp": 1737802252689,
+    "height": 16,
+    "latency": 61455
+  },
+  {
+    "txIdx": 4918,
+    "timestamp": 1737802252690,
+    "height": 16,
+    "latency": 61454
+  },
+  {
+    "txIdx": 5446,
+    "timestamp": 1737802252691,
+    "height": 12,
+    "latency": 31426
+  },
+  {
+    "txIdx": 4810,
+    "timestamp": 1737802252693,
+    "height": 12,
+    "latency": 31424
+  },
+  {
+    "txIdx": 4950,
+    "timestamp": 1737802252700,
+    "height": 12,
+    "latency": 31417
+  },
+  {
+    "txIdx": 5278,
+    "timestamp": 1737802252700,
+    "height": 12,
+    "latency": 31417
+  },
+  {
+    "txIdx": 5252,
+    "timestamp": 1737802253288,
+    "height": 13,
+    "latency": 38280
+  },
+  {
+    "txIdx": 5236,
+    "timestamp": 1737802253292,
+    "height": 11,
+    "latency": 22805
+  },
+  {
+    "txIdx": 5184,
+    "timestamp": 1737802253294,
+    "height": 13,
+    "latency": 38274
+  },
+  {
+    "txIdx": 5364,
+    "timestamp": 1737802253305,
+    "height": 13,
+    "latency": 38263
+  },
+  {
+    "txIdx": 4916,
+    "timestamp": 1737802253307,
+    "height": 17,
+    "latency": 68392
+  },
+  {
+    "txIdx": 5308,
+    "timestamp": 1737802253307,
+    "height": 17,
+    "latency": 68392
+  },
+  {
+    "txIdx": 5296,
+    "timestamp": 1737802253309,
+    "height": 11,
+    "latency": 22788
+  },
+  {
+    "txIdx": 5344,
+    "timestamp": 1737802253309,
+    "height": 9,
+    "latency": 7185
+  },
+  {
+    "txIdx": 4872,
+    "timestamp": 1737802253311,
+    "height": 15,
+    "latency": 53506
+  },
+  {
+    "txIdx": 5340,
+    "timestamp": 1737802253313,
+    "height": 10,
+    "latency": 14998
+  },
+  {
+    "txIdx": 5420,
+    "timestamp": 1737802253315,
+    "height": 14,
+    "latency": 45948
+  },
+  {
+    "txIdx": 5084,
+    "timestamp": 1737802253317,
+    "height": 10,
+    "latency": 14994
+  },
+  {
+    "txIdx": 5524,
+    "timestamp": 1737802253319,
+    "height": 10,
+    "latency": 14992
+  },
+  {
+    "txIdx": 5348,
+    "timestamp": 1737802253324,
+    "height": 15,
+    "latency": 53493
+  },
+  {
+    "txIdx": 5280,
+    "timestamp": 1737802253326,
+    "height": 14,
+    "latency": 45937
+  },
+  {
+    "txIdx": 5584,
+    "timestamp": 1737802253326,
+    "height": 15,
+    "latency": 53491
+  },
+  {
+    "txIdx": 5396,
+    "timestamp": 1737802253327,
+    "height": 10,
+    "latency": 14984
+  },
+  {
+    "txIdx": 5032,
+    "timestamp": 1737802253328,
+    "height": 14,
+    "latency": 45935
+  },
+  {
+    "txIdx": 5368,
+    "timestamp": 1737802253328,
+    "height": 10,
+    "latency": 14983
+  },
+  {
+    "txIdx": 4824,
+    "timestamp": 1737802253330,
+    "height": 10,
+    "latency": 14981
+  },
+  {
+    "txIdx": 5520,
+    "timestamp": 1737802253330,
+    "height": 14,
+    "latency": 45933
+  },
+  {
+    "txIdx": 4948,
+    "timestamp": 1737802253334,
+    "height": 14,
+    "latency": 45929
+  },
+  {
+    "txIdx": 5000,
+    "timestamp": 1737802253335,
+    "height": 14,
+    "latency": 45928
+  },
+  {
+    "txIdx": 5140,
+    "timestamp": 1737802253336,
+    "height": 11,
+    "latency": 22761
+  },
+  {
+    "txIdx": 5212,
+    "timestamp": 1737802253345,
+    "height": 10,
+    "latency": 14966
+  },
+  {
+    "txIdx": 5116,
+    "timestamp": 1737802253346,
+    "height": 14,
+    "latency": 45917
+  },
+  {
+    "txIdx": 5191,
+    "timestamp": 1737802253351,
+    "height": 14,
+    "latency": 45912
+  },
+  {
+    "txIdx": 5455,
+    "timestamp": 1737802253360,
+    "height": 14,
+    "latency": 45903
+  },
+  {
+    "txIdx": 5255,
+    "timestamp": 1737802253361,
+    "height": 14,
+    "latency": 45902
+  },
+  {
+    "txIdx": 5372,
+    "timestamp": 1737802253362,
+    "height": 10,
+    "latency": 14949
+  },
+  {
+    "txIdx": 5472,
+    "timestamp": 1737802253364,
+    "height": 15,
+    "latency": 53453
+  },
+  {
+    "txIdx": 5195,
+    "timestamp": 1737802253366,
+    "height": 10,
+    "latency": 14945
+  },
+  {
+    "txIdx": 5232,
+    "timestamp": 1737802253367,
+    "height": 10,
+    "latency": 14944
+  },
+  {
+    "txIdx": 5235,
+    "timestamp": 1737802253369,
+    "height": 10,
+    "latency": 14942
+  },
+  {
+    "txIdx": 4968,
+    "timestamp": 1737802253370,
+    "height": 10,
+    "latency": 14941
+  },
+  {
+    "txIdx": 4972,
+    "timestamp": 1737802253372,
+    "height": 10,
+    "latency": 14939
+  },
+  {
+    "txIdx": 5112,
+    "timestamp": 1737802253374,
+    "height": 10,
+    "latency": 14937
+  },
+  {
+    "txIdx": 5071,
+    "timestamp": 1737802253374,
+    "height": 10,
+    "latency": 14937
+  },
+  {
+    "txIdx": 5103,
+    "timestamp": 1737802253379,
+    "height": 10,
+    "latency": 14932
+  },
+  {
+    "txIdx": 5588,
+    "timestamp": 1737802253380,
+    "height": 15,
+    "latency": 53437
+  },
+  {
+    "txIdx": 5456,
+    "timestamp": 1737802253381,
+    "height": 10,
+    "latency": 14930
+  },
+  {
+    "txIdx": 5431,
+    "timestamp": 1737802253382,
+    "height": 14,
+    "latency": 45881
+  },
+  {
+    "txIdx": 5323,
+    "timestamp": 1737802253383,
+    "height": 14,
+    "latency": 45880
+  },
+  {
+    "txIdx": 5231,
+    "timestamp": 1737802253392,
+    "height": 10,
+    "latency": 14919
+  },
+  {
+    "txIdx": 5076,
+    "timestamp": 1737802253393,
+    "height": 14,
+    "latency": 45870
+  },
+  {
+    "txIdx": 5516,
+    "timestamp": 1737802253396,
+    "height": 14,
+    "latency": 45867
+  },
+  {
+    "txIdx": 4999,
+    "timestamp": 1737802253398,
+    "height": 14,
+    "latency": 45865
+  },
+  {
+    "txIdx": 5459,
+    "timestamp": 1737802253402,
+    "height": 14,
+    "latency": 45861
+  },
+  {
+    "txIdx": 5163,
+    "timestamp": 1737802253406,
+    "height": 10,
+    "latency": 14905
+  },
+  {
+    "txIdx": 5528,
+    "timestamp": 1737802253411,
+    "height": 11,
+    "latency": 22686
+  },
+  {
+    "txIdx": 4803,
+    "timestamp": 1737802253412,
+    "height": 11,
+    "latency": 22685
+  },
+  {
+    "txIdx": 5028,
+    "timestamp": 1737802253413,
+    "height": 14,
+    "latency": 45850
+  },
+  {
+    "txIdx": 5007,
+    "timestamp": 1737802253415,
+    "height": 14,
+    "latency": 45848
+  },
+  {
+    "txIdx": 5192,
+    "timestamp": 1737802253419,
+    "height": 10,
+    "latency": 14892
+  },
+  {
+    "txIdx": 5580,
+    "timestamp": 1737802253428,
+    "height": 10,
+    "latency": 14883
+  },
+  {
+    "txIdx": 5399,
+    "timestamp": 1737802253431,
+    "height": 14,
+    "latency": 45832
+  },
+  {
+    "txIdx": 5123,
+    "timestamp": 1737802253435,
+    "height": 10,
+    "latency": 14876
+  },
+  {
+    "txIdx": 5476,
+    "timestamp": 1737802253435,
+    "height": 11,
+    "latency": 22662
+  },
+  {
+    "txIdx": 5484,
+    "timestamp": 1737802253436,
+    "height": 15,
+    "latency": 53381
+  },
+  {
+    "txIdx": 5488,
+    "timestamp": 1737802253438,
+    "height": 10,
+    "latency": 14873
+  },
+  {
+    "txIdx": 5092,
+    "timestamp": 1737802253440,
+    "height": 10,
+    "latency": 14871
+  },
+  {
+    "txIdx": 5224,
+    "timestamp": 1737802253442,
+    "height": 10,
+    "latency": 14869
+  },
+  {
+    "txIdx": 5176,
+    "timestamp": 1737802253444,
+    "height": 10,
+    "latency": 14867
+  },
+  {
+    "txIdx": 5227,
+    "timestamp": 1737802253451,
+    "height": 10,
+    "latency": 14860
+  },
+  {
+    "txIdx": 4864,
+    "timestamp": 1737802253452,
+    "height": 10,
+    "latency": 14859
+  },
+  {
+    "txIdx": 5448,
+    "timestamp": 1737802253453,
+    "height": 14,
+    "latency": 45810
+  },
+  {
+    "txIdx": 5303,
+    "timestamp": 1737802253455,
+    "height": 15,
+    "latency": 53362
+  },
+  {
+    "txIdx": 5335,
+    "timestamp": 1737802253456,
+    "height": 10,
+    "latency": 14855
+  },
+  {
+    "txIdx": 5087,
+    "timestamp": 1737802253458,
+    "height": 14,
+    "latency": 45805
+  },
+  {
+    "txIdx": 5211,
+    "timestamp": 1737802253459,
+    "height": 10,
+    "latency": 14852
+  },
+  {
+    "txIdx": 5300,
+    "timestamp": 1737802253461,
+    "height": 14,
+    "latency": 45802
+  },
+  {
+    "txIdx": 5172,
+    "timestamp": 1737802253464,
+    "height": 14,
+    "latency": 45799
+  },
+  {
+    "txIdx": 5248,
+    "timestamp": 1737802253467,
+    "height": 14,
+    "latency": 45796
+  },
+  {
+    "txIdx": 5148,
+    "timestamp": 1737802253471,
+    "height": 14,
+    "latency": 45792
+  },
+  {
+    "txIdx": 4935,
+    "timestamp": 1737802253472,
+    "height": 16,
+    "latency": 60672
+  },
+  {
+    "txIdx": 4871,
+    "timestamp": 1737802253476,
+    "height": 12,
+    "latency": 30641
+  },
+  {
+    "txIdx": 4912,
+    "timestamp": 1737802253481,
+    "height": 14,
+    "latency": 45782
+  },
+  {
+    "txIdx": 5199,
+    "timestamp": 1737802253481,
+    "height": 13,
+    "latency": 38087
+  },
+  {
+    "txIdx": 5159,
+    "timestamp": 1737802253483,
+    "height": 11,
+    "latency": 22614
+  },
+  {
+    "txIdx": 5187,
+    "timestamp": 1737802253494,
+    "height": 11,
+    "latency": 22603
+  },
+  {
+    "txIdx": 5095,
+    "timestamp": 1737802253496,
+    "height": 14,
+    "latency": 45767
+  },
+  {
+    "txIdx": 4981,
+    "timestamp": 1737802253497,
+    "height": 9,
+    "latency": 6997
+  },
+  {
+    "txIdx": 4913,
+    "timestamp": 1737802253507,
+    "height": 14,
+    "latency": 45756
+  },
+  {
+    "txIdx": 4933,
+    "timestamp": 1737802253508,
+    "height": 17,
+    "latency": 68191
+  },
+  {
+    "txIdx": 5529,
+    "timestamp": 1737802253513,
+    "height": 9,
+    "latency": 6981
+  },
+  {
+    "txIdx": 4843,
+    "timestamp": 1737802253515,
+    "height": 11,
+    "latency": 22582
+  },
+  {
+    "txIdx": 5271,
+    "timestamp": 1737802253516,
+    "height": 11,
+    "latency": 22581
+  },
+  {
+    "txIdx": 5167,
+    "timestamp": 1737802253519,
+    "height": 12,
+    "latency": 30598
+  },
+  {
+    "txIdx": 4885,
+    "timestamp": 1737802253523,
+    "height": 13,
+    "latency": 38045
+  },
+  {
+    "txIdx": 5093,
+    "timestamp": 1737802253525,
+    "height": 14,
+    "latency": 45738
+  },
+  {
+    "txIdx": 5291,
+    "timestamp": 1737802253527,
+    "height": 11,
+    "latency": 22570
+  },
+  {
+    "txIdx": 5287,
+    "timestamp": 1737802253531,
+    "height": 13,
+    "latency": 38037
+  },
+  {
+    "txIdx": 5201,
+    "timestamp": 1737802253533,
+    "height": 9,
+    "latency": 6961
+  },
+  {
+    "txIdx": 5253,
+    "timestamp": 1737802253534,
+    "height": 13,
+    "latency": 38034
+  },
+  {
+    "txIdx": 4883,
+    "timestamp": 1737802253536,
+    "height": 11,
+    "latency": 22561
+  },
+  {
+    "txIdx": 5321,
+    "timestamp": 1737802253537,
+    "height": 17,
+    "latency": 68162
+  },
+  {
+    "txIdx": 4857,
+    "timestamp": 1737802253538,
+    "height": 17,
+    "latency": 68161
+  },
+  {
+    "txIdx": 4903,
+    "timestamp": 1737802253542,
+    "height": 11,
+    "latency": 22555
+  },
+  {
+    "txIdx": 4929,
+    "timestamp": 1737802253543,
+    "height": 13,
+    "latency": 38025
+  },
+  {
+    "txIdx": 5575,
+    "timestamp": 1737802253546,
+    "height": 15,
+    "latency": 53271
+  },
+  {
+    "txIdx": 5145,
+    "timestamp": 1737802253548,
+    "height": 13,
+    "latency": 38020
+  },
+  {
+    "txIdx": 5555,
+    "timestamp": 1737802253548,
+    "height": 11,
+    "latency": 22549
+  },
+  {
+    "txIdx": 5395,
+    "timestamp": 1737802253550,
+    "height": 11,
+    "latency": 22547
+  },
+  {
+    "txIdx": 5223,
+    "timestamp": 1737802253551,
+    "height": 11,
+    "latency": 22546
+  },
+  {
+    "txIdx": 4815,
+    "timestamp": 1737802253552,
+    "height": 17,
+    "latency": 68147
+  },
+  {
+    "txIdx": 4911,
+    "timestamp": 1737802253554,
+    "height": 12,
+    "latency": 30563
+  },
+  {
+    "txIdx": 5371,
+    "timestamp": 1737802253557,
+    "height": 15,
+    "latency": 53260
+  },
+  {
+    "txIdx": 5153,
+    "timestamp": 1737802253559,
+    "height": 17,
+    "latency": 68140
+  },
+  {
+    "txIdx": 5457,
+    "timestamp": 1737802253560,
+    "height": 13,
+    "latency": 38008
+  },
+  {
+    "txIdx": 5397,
+    "timestamp": 1737802253564,
+    "height": 13,
+    "latency": 38004
+  },
+  {
+    "txIdx": 5033,
+    "timestamp": 1737802253569,
+    "height": 9,
+    "latency": 6925
+  },
+  {
+    "txIdx": 5219,
+    "timestamp": 1737802253569,
+    "height": 11,
+    "latency": 22528
+  },
+  {
+    "txIdx": 4835,
+    "timestamp": 1737802253570,
+    "height": 16,
+    "latency": 60574
+  },
+  {
+    "txIdx": 5011,
+    "timestamp": 1737802253572,
+    "height": 17,
+    "latency": 68127
+  },
+  {
+    "txIdx": 5433,
+    "timestamp": 1737802253573,
+    "height": 9,
+    "latency": 6921
+  },
+  {
+    "txIdx": 4985,
+    "timestamp": 1737802253577,
+    "height": 13,
+    "latency": 37991
+  },
+  {
+    "txIdx": 5161,
+    "timestamp": 1737802253582,
+    "height": 13,
+    "latency": 37986
+  },
+  {
+    "txIdx": 4939,
+    "timestamp": 1737802253588,
+    "height": 14,
+    "latency": 45675
+  },
+  {
+    "txIdx": 5485,
+    "timestamp": 1737802253590,
+    "height": 9,
+    "latency": 6904
+  },
+  {
+    "txIdx": 5565,
+    "timestamp": 1737802253592,
+    "height": 9,
+    "latency": 6902
+  },
+  {
+    "txIdx": 5329,
+    "timestamp": 1737802253593,
+    "height": 17,
+    "latency": 68106
+  },
+  {
+    "txIdx": 5035,
+    "timestamp": 1737802253594,
+    "height": 17,
+    "latency": 68105
+  },
+  {
+    "txIdx": 5083,
+    "timestamp": 1737802253597,
+    "height": 15,
+    "latency": 53220
+  },
+  {
+    "txIdx": 5475,
+    "timestamp": 1737802253600,
+    "height": 14,
+    "latency": 45663
+  },
+  {
+    "txIdx": 5597,
+    "timestamp": 1737802253601,
+    "height": 13,
+    "latency": 37967
+  },
+  {
+    "txIdx": 5031,
+    "timestamp": 1737802253601,
+    "height": 17,
+    "latency": 68098
+  },
+  {
+    "txIdx": 5525,
+    "timestamp": 1737802253603,
+    "height": 17,
+    "latency": 68096
+  },
+  {
+    "txIdx": 5505,
+    "timestamp": 1737802253604,
+    "height": 13,
+    "latency": 37964
+  },
+  {
+    "txIdx": 4937,
+    "timestamp": 1737802253606,
+    "height": 17,
+    "latency": 68093
+  },
+  {
+    "txIdx": 4977,
+    "timestamp": 1737802253608,
+    "height": 9,
+    "latency": 6886
+  },
+  {
+    "txIdx": 5259,
+    "timestamp": 1737802253608,
+    "height": 14,
+    "latency": 45655
+  },
+  {
+    "txIdx": 5075,
+    "timestamp": 1737802253611,
+    "height": 18,
+    "latency": 75731
+  },
+  {
+    "txIdx": 5283,
+    "timestamp": 1737802253612,
+    "height": 18,
+    "latency": 75730
+  },
+  {
+    "txIdx": 5477,
+    "timestamp": 1737802253613,
+    "height": 17,
+    "latency": 68086
+  },
+  {
+    "txIdx": 5325,
+    "timestamp": 1737802253621,
+    "height": 17,
+    "latency": 68078
+  },
+  {
+    "txIdx": 5357,
+    "timestamp": 1737802253625,
+    "height": 13,
+    "latency": 37943
+  },
+  {
+    "txIdx": 4897,
+    "timestamp": 1737802253639,
+    "height": 9,
+    "latency": 6855
+  },
+  {
+    "txIdx": 5561,
+    "timestamp": 1737802253643,
+    "height": 17,
+    "latency": 68056
+  },
+  {
+    "txIdx": 5097,
+    "timestamp": 1737802253647,
+    "height": 13,
+    "latency": 37921
+  },
+  {
+    "txIdx": 5241,
+    "timestamp": 1737802253651,
+    "height": 13,
+    "latency": 37917
+  },
+  {
+    "txIdx": 5473,
+    "timestamp": 1737802253652,
+    "height": 17,
+    "latency": 68047
+  },
+  {
+    "txIdx": 5061,
+    "timestamp": 1737802253656,
+    "height": 13,
+    "latency": 37912
+  },
+  {
+    "txIdx": 5517,
+    "timestamp": 1737802253659,
+    "height": 17,
+    "latency": 68040
+  },
+  {
+    "txIdx": 5305,
+    "timestamp": 1737802253660,
+    "height": 9,
+    "latency": 6834
+  },
+  {
+    "txIdx": 5289,
+    "timestamp": 1737802253661,
+    "height": 13,
+    "latency": 37907
+  },
+  {
+    "txIdx": 5317,
+    "timestamp": 1737802253667,
+    "height": 13,
+    "latency": 37901
+  },
+  {
+    "txIdx": 4805,
+    "timestamp": 1737802253678,
+    "height": 9,
+    "latency": 6816
+  },
+  {
+    "txIdx": 5109,
+    "timestamp": 1737802253680,
+    "height": 17,
+    "latency": 68019
+  },
+  {
+    "txIdx": 5385,
+    "timestamp": 1737802253691,
+    "height": 13,
+    "latency": 37877
+  },
+  {
+    "txIdx": 5469,
+    "timestamp": 1737802253697,
+    "height": 17,
+    "latency": 68002
+  },
+  {
+    "txIdx": 4989,
+    "timestamp": 1737802253699,
+    "height": 9,
+    "latency": 6795
+  },
+  {
+    "txIdx": 5017,
+    "timestamp": 1737802253701,
+    "height": 9,
+    "latency": 6793
+  },
+  {
+    "txIdx": 5449,
+    "timestamp": 1737802253702,
+    "height": 9,
+    "latency": 6792
+  },
+  {
+    "txIdx": 5593,
+    "timestamp": 1737802253704,
+    "height": 17,
+    "latency": 67995
+  },
+  {
+    "txIdx": 5445,
+    "timestamp": 1737802253710,
+    "height": 13,
+    "latency": 37858
+  },
+  {
+    "txIdx": 4993,
+    "timestamp": 1737802253717,
+    "height": 17,
+    "latency": 67982
+  },
+  {
+    "txIdx": 4809,
+    "timestamp": 1737802253725,
+    "height": 17,
+    "latency": 67974
+  },
+  {
+    "txIdx": 5353,
+    "timestamp": 1737802253728,
+    "height": 13,
+    "latency": 37840
+  },
+  {
+    "txIdx": 4965,
+    "timestamp": 1737802253729,
+    "height": 17,
+    "latency": 67970
+  },
+  {
+    "txIdx": 5005,
+    "timestamp": 1737802253741,
+    "height": 17,
+    "latency": 67958
+  },
+  {
+    "txIdx": 5089,
+    "timestamp": 1737802253748,
+    "height": 17,
+    "latency": 67951
+  },
+  {
+    "txIdx": 5165,
+    "timestamp": 1737802253755,
+    "height": 13,
+    "latency": 37813
+  },
+  {
+    "txIdx": 5381,
+    "timestamp": 1737802253758,
+    "height": 17,
+    "latency": 67941
+  },
+  {
+    "txIdx": 5365,
+    "timestamp": 1737802253759,
+    "height": 13,
+    "latency": 37809
+  },
+  {
+    "txIdx": 5611,
+    "timestamp": 1737802253768,
+    "height": 16,
+    "latency": 60376
+  },
+  {
+    "txIdx": 5605,
+    "timestamp": 1737802253770,
+    "height": 13,
+    "latency": 37798
+  },
+  {
+    "txIdx": 5821,
+    "timestamp": 1737802253775,
+    "height": 9,
+    "latency": 6719
+  },
+  {
+    "txIdx": 5857,
+    "timestamp": 1737802253785,
+    "height": 9,
+    "latency": 6709
+  },
+  {
+    "txIdx": 6109,
+    "timestamp": 1737802253786,
+    "height": 9,
+    "latency": 6708
+  },
+  {
+    "txIdx": 5935,
+    "timestamp": 1737802253788,
+    "height": 11,
+    "latency": 22309
+  },
+  {
+    "txIdx": 6129,
+    "timestamp": 1737802253788,
+    "height": 13,
+    "latency": 37780
+  },
+  {
+    "txIdx": 5601,
+    "timestamp": 1737802253791,
+    "height": 17,
+    "latency": 67908
+  },
+  {
+    "txIdx": 5977,
+    "timestamp": 1737802253792,
+    "height": 13,
+    "latency": 37776
+  },
+  {
+    "txIdx": 5801,
+    "timestamp": 1737802253795,
+    "height": 13,
+    "latency": 37773
+  },
+  {
+    "txIdx": 5917,
+    "timestamp": 1737802253798,
+    "height": 9,
+    "latency": 6696
+  },
+  {
+    "txIdx": 5775,
+    "timestamp": 1737802253799,
+    "height": 18,
+    "latency": 75543
+  },
+  {
+    "txIdx": 5885,
+    "timestamp": 1737802253799,
+    "height": 13,
+    "latency": 37769
+  },
+  {
+    "txIdx": 5983,
+    "timestamp": 1737802253800,
+    "height": 11,
+    "latency": 22297
+  },
+  {
+    "txIdx": 5863,
+    "timestamp": 1737802253802,
+    "height": 13,
+    "latency": 37766
+  },
+  {
+    "txIdx": 5799,
+    "timestamp": 1737802253803,
+    "height": 16,
+    "latency": 60341
+  },
+  {
+    "txIdx": 5767,
+    "timestamp": 1737802253805,
+    "height": 11,
+    "latency": 22292
+  },
+  {
+    "txIdx": 5701,
+    "timestamp": 1737802253806,
+    "height": 17,
+    "latency": 67893
+  },
+  {
+    "txIdx": 6029,
+    "timestamp": 1737802253807,
+    "height": 17,
+    "latency": 67892
+  },
+  {
+    "txIdx": 5823,
+    "timestamp": 1737802253808,
+    "height": 17,
+    "latency": 67891
+  },
+  {
+    "txIdx": 5811,
+    "timestamp": 1737802253809,
+    "height": 17,
+    "latency": 67890
+  },
+  {
+    "txIdx": 5941,
+    "timestamp": 1737802253811,
+    "height": 9,
+    "latency": 6683
+  },
+  {
+    "txIdx": 5755,
+    "timestamp": 1737802253811,
+    "height": 11,
+    "latency": 22286
+  },
+  {
+    "txIdx": 5967,
+    "timestamp": 1737802253812,
+    "height": 11,
+    "latency": 22285
+  },
+  {
+    "txIdx": 5893,
+    "timestamp": 1737802253813,
+    "height": 17,
+    "latency": 67886
+  },
+  {
+    "txIdx": 6263,
+    "timestamp": 1737802253814,
+    "height": 17,
+    "latency": 67885
+  },
+  {
+    "txIdx": 5757,
+    "timestamp": 1737802253815,
+    "height": 13,
+    "latency": 37753
+  },
+  {
+    "txIdx": 5777,
+    "timestamp": 1737802253818,
+    "height": 17,
+    "latency": 67881
+  },
+  {
+    "txIdx": 5881,
+    "timestamp": 1737802253819,
+    "height": 17,
+    "latency": 67880
+  },
+  {
+    "txIdx": 5951,
+    "timestamp": 1737802253819,
+    "height": 11,
+    "latency": 22278
+  },
+  {
+    "txIdx": 6075,
+    "timestamp": 1737802253820,
+    "height": 13,
+    "latency": 37748
+  },
+  {
+    "txIdx": 5623,
+    "timestamp": 1737802253821,
+    "height": 14,
+    "latency": 45442
+  },
+  {
+    "txIdx": 5873,
+    "timestamp": 1737802253823,
+    "height": 17,
+    "latency": 67876
+  },
+  {
+    "txIdx": 5987,
+    "timestamp": 1737802253824,
+    "height": 11,
+    "latency": 22273
+  },
+  {
+    "txIdx": 5901,
+    "timestamp": 1737802253824,
+    "height": 9,
+    "latency": 6670
+  },
+  {
+    "txIdx": 6003,
+    "timestamp": 1737802253826,
+    "height": 11,
+    "latency": 22271
+  },
+  {
+    "txIdx": 5841,
+    "timestamp": 1737802253826,
+    "height": 9,
+    "latency": 6668
+  },
+  {
+    "txIdx": 6093,
+    "timestamp": 1737802253827,
+    "height": 13,
+    "latency": 37741
+  },
+  {
+    "txIdx": 5843,
+    "timestamp": 1737802253827,
+    "height": 11,
+    "latency": 22270
+  },
+  {
+    "txIdx": 5961,
+    "timestamp": 1737802253828,
+    "height": 9,
+    "latency": 6666
+  },
+  {
+    "txIdx": 5915,
+    "timestamp": 1737802253831,
+    "height": 11,
+    "latency": 22266
+  },
+  {
+    "txIdx": 5627,
+    "timestamp": 1737802253832,
+    "height": 15,
+    "latency": 52985
+  },
+  {
+    "txIdx": 5703,
+    "timestamp": 1737802253833,
+    "height": 16,
+    "latency": 60311
+  },
+  {
+    "txIdx": 5659,
+    "timestamp": 1737802253833,
+    "height": 11,
+    "latency": 22264
+  },
+  {
+    "txIdx": 6049,
+    "timestamp": 1737802253834,
+    "height": 13,
+    "latency": 37734
+  },
+  {
+    "txIdx": 5923,
+    "timestamp": 1737802253835,
+    "height": 11,
+    "latency": 22262
+  },
+  {
+    "txIdx": 5729,
+    "timestamp": 1737802253835,
+    "height": 17,
+    "latency": 67864
+  },
+  {
+    "txIdx": 6283,
+    "timestamp": 1737802253836,
+    "height": 11,
+    "latency": 22261
+  },
+  {
+    "txIdx": 6143,
+    "timestamp": 1737802253837,
+    "height": 11,
+    "latency": 22260
+  },
+  {
+    "txIdx": 5753,
+    "timestamp": 1737802253838,
+    "height": 17,
+    "latency": 67861
+  },
+  {
+    "txIdx": 5639,
+    "timestamp": 1737802253842,
+    "height": 11,
+    "latency": 22255
+  },
+  {
+    "txIdx": 6397,
+    "timestamp": 1737802253845,
+    "height": 13,
+    "latency": 37723
+  },
+  {
+    "txIdx": 5647,
+    "timestamp": 1737802253846,
+    "height": 15,
+    "latency": 52971
+  },
+  {
+    "txIdx": 5953,
+    "timestamp": 1737802253846,
+    "height": 9,
+    "latency": 6648
+  },
+  {
+    "txIdx": 6001,
+    "timestamp": 1737802253849,
+    "height": 17,
+    "latency": 67850
+  },
+  {
+    "txIdx": 5691,
+    "timestamp": 1737802253850,
+    "height": 11,
+    "latency": 22247
+  },
+  {
+    "txIdx": 6321,
+    "timestamp": 1737802253851,
+    "height": 13,
+    "latency": 37717
+  },
+  {
+    "txIdx": 6137,
+    "timestamp": 1737802253855,
+    "height": 17,
+    "latency": 67844
+  },
+  {
+    "txIdx": 6327,
+    "timestamp": 1737802253856,
+    "height": 15,
+    "latency": 52961
+  },
+  {
+    "txIdx": 6165,
+    "timestamp": 1737802253856,
+    "height": 17,
+    "latency": 67843
+  },
+  {
+    "txIdx": 6377,
+    "timestamp": 1737802253857,
+    "height": 9,
+    "latency": 6637
+  },
+  {
+    "txIdx": 6101,
+    "timestamp": 1737802253858,
+    "height": 13,
+    "latency": 37710
+  },
+  {
+    "txIdx": 6351,
+    "timestamp": 1737802253860,
+    "height": 15,
+    "latency": 52957
+  },
+  {
+    "txIdx": 6087,
+    "timestamp": 1737802253864,
+    "height": 11,
+    "latency": 22233
+  },
+  {
+    "txIdx": 6131,
+    "timestamp": 1737802253865,
+    "height": 11,
+    "latency": 22232
+  },
+  {
+    "txIdx": 6105,
+    "timestamp": 1737802253869,
+    "height": 17,
+    "latency": 67830
+  },
+  {
+    "txIdx": 5743,
+    "timestamp": 1737802253872,
+    "height": 11,
+    "latency": 22225
+  },
+  {
+    "txIdx": 5637,
+    "timestamp": 1737802253872,
+    "height": 13,
+    "latency": 37696
+  },
+  {
+    "txIdx": 6085,
+    "timestamp": 1737802253873,
+    "height": 17,
+    "latency": 67826
+  },
+  {
+    "txIdx": 6031,
+    "timestamp": 1737802253873,
+    "height": 15,
+    "latency": 52944
+  },
+  {
+    "txIdx": 5853,
+    "timestamp": 1737802253875,
+    "height": 17,
+    "latency": 67824
+  },
+  {
+    "txIdx": 6345,
+    "timestamp": 1737802253875,
+    "height": 17,
+    "latency": 67824
+  },
+  {
+    "txIdx": 6033,
+    "timestamp": 1737802253877,
+    "height": 17,
+    "latency": 67822
+  },
+  {
+    "txIdx": 5685,
+    "timestamp": 1737802253879,
+    "height": 17,
+    "latency": 67820
+  },
+  {
+    "txIdx": 6381,
+    "timestamp": 1737802253880,
+    "height": 17,
+    "latency": 67819
+  },
+  {
+    "txIdx": 5929,
+    "timestamp": 1737802253881,
+    "height": 17,
+    "latency": 67818
+  },
+  {
+    "txIdx": 6259,
+    "timestamp": 1737802253882,
+    "height": 11,
+    "latency": 22215
+  },
+  {
+    "txIdx": 5695,
+    "timestamp": 1737802253883,
+    "height": 15,
+    "latency": 52934
+  },
+  {
+    "txIdx": 6373,
+    "timestamp": 1737802253884,
+    "height": 17,
+    "latency": 67815
+  },
+  {
+    "txIdx": 6153,
+    "timestamp": 1737802253885,
+    "height": 17,
+    "latency": 67814
+  },
+  {
+    "txIdx": 5625,
+    "timestamp": 1737802253885,
+    "height": 9,
+    "latency": 6609
+  },
+  {
+    "txIdx": 5765,
+    "timestamp": 1737802253886,
+    "height": 17,
+    "latency": 67813
+  },
+  {
+    "txIdx": 5661,
+    "timestamp": 1737802253887,
+    "height": 13,
+    "latency": 37681
+  },
+  {
+    "txIdx": 6149,
+    "timestamp": 1737802253887,
+    "height": 9,
+    "latency": 6607
+  },
+  {
+    "txIdx": 5827,
+    "timestamp": 1737802253888,
+    "height": 15,
+    "latency": 52929
+  },
+  {
+    "txIdx": 6293,
+    "timestamp": 1737802253889,
+    "height": 9,
+    "latency": 6605
+  },
+  {
+    "txIdx": 6325,
+    "timestamp": 1737802253890,
+    "height": 13,
+    "latency": 37678
+  },
+  {
+    "txIdx": 5759,
+    "timestamp": 1737802253890,
+    "height": 15,
+    "latency": 52927
+  },
+  {
+    "txIdx": 6097,
+    "timestamp": 1737802253891,
+    "height": 13,
+    "latency": 37677
+  },
+  {
+    "txIdx": 6343,
+    "timestamp": 1737802253893,
+    "height": 11,
+    "latency": 22204
+  },
+  {
+    "txIdx": 5655,
+    "timestamp": 1737802253894,
+    "height": 11,
+    "latency": 22203
+  },
+  {
+    "txIdx": 5763,
+    "timestamp": 1737802253900,
+    "height": 11,
+    "latency": 22197
+  },
+  {
+    "txIdx": 6281,
+    "timestamp": 1737802253903,
+    "height": 9,
+    "latency": 6591
+  },
+  {
+    "txIdx": 6247,
+    "timestamp": 1737802253908,
+    "height": 11,
+    "latency": 22189
+  },
+  {
+    "txIdx": 6199,
+    "timestamp": 1737802253910,
+    "height": 11,
+    "latency": 22187
+  },
+  {
+    "txIdx": 6039,
+    "timestamp": 1737802253911,
+    "height": 15,
+    "latency": 52906
+  },
+  {
+    "txIdx": 6175,
+    "timestamp": 1737802253913,
+    "height": 11,
+    "latency": 22184
+  },
+  {
+    "txIdx": 6239,
+    "timestamp": 1737802253915,
+    "height": 15,
+    "latency": 52902
+  },
+  {
+    "txIdx": 5665,
+    "timestamp": 1737802253915,
+    "height": 13,
+    "latency": 37653
+  },
+  {
+    "txIdx": 6265,
+    "timestamp": 1737802253919,
+    "height": 17,
+    "latency": 67780
+  },
+  {
+    "txIdx": 5635,
+    "timestamp": 1737802253919,
+    "height": 11,
+    "latency": 22178
+  },
+  {
+    "txIdx": 6205,
+    "timestamp": 1737802253919,
+    "height": 17,
+    "latency": 67780
+  },
+  {
+    "txIdx": 6221,
+    "timestamp": 1737802253920,
+    "height": 17,
+    "latency": 67779
+  },
+  {
+    "txIdx": 6253,
+    "timestamp": 1737802253922,
+    "height": 13,
+    "latency": 37646
+  },
+  {
+    "txIdx": 6305,
+    "timestamp": 1737802253927,
+    "height": 17,
+    "latency": 67772
+  },
+  {
+    "txIdx": 6139,
+    "timestamp": 1737802253927,
+    "height": 11,
+    "latency": 22170
+  },
+  {
+    "txIdx": 6127,
+    "timestamp": 1737802253928,
+    "height": 11,
+    "latency": 22169
+  },
+  {
+    "txIdx": 5905,
+    "timestamp": 1737802253928,
+    "height": 17,
+    "latency": 67771
+  },
+  {
+    "txIdx": 6385,
+    "timestamp": 1737802253929,
+    "height": 13,
+    "latency": 37639
+  },
+  {
+    "txIdx": 6313,
+    "timestamp": 1737802253931,
+    "height": 9,
+    "latency": 6563
+  },
+  {
+    "txIdx": 6193,
+    "timestamp": 1737802253932,
+    "height": 9,
+    "latency": 6562
+  },
+  {
+    "txIdx": 6261,
+    "timestamp": 1737802253932,
+    "height": 17,
+    "latency": 67767
+  },
+  {
+    "txIdx": 5829,
+    "timestamp": 1737802253933,
+    "height": 9,
+    "latency": 6561
+  },
+  {
+    "txIdx": 5651,
+    "timestamp": 1737802253933,
+    "height": 15,
+    "latency": 52884
+  },
+  {
+    "txIdx": 6177,
+    "timestamp": 1737802253934,
+    "height": 13,
+    "latency": 37634
+  },
+  {
+    "txIdx": 6013,
+    "timestamp": 1737802253938,
+    "height": 9,
+    "latency": 6556
+  },
+  {
+    "txIdx": 5771,
+    "timestamp": 1737802253938,
+    "height": 11,
+    "latency": 22159
+  },
+  {
+    "txIdx": 6391,
+    "timestamp": 1737802253939,
+    "height": 11,
+    "latency": 22158
+  },
+  {
+    "txIdx": 6349,
+    "timestamp": 1737802253940,
+    "height": 17,
+    "latency": 67759
+  },
+  {
+    "txIdx": 6035,
+    "timestamp": 1737802253944,
+    "height": 11,
+    "latency": 22153
+  },
+  {
+    "txIdx": 6107,
+    "timestamp": 1737802253948,
+    "height": 15,
+    "latency": 52869
+  },
+  {
+    "txIdx": 6303,
+    "timestamp": 1737802253952,
+    "height": 15,
+    "latency": 52865
+  },
+  {
+    "txIdx": 6163,
+    "timestamp": 1737802253954,
+    "height": 15,
+    "latency": 52863
+  },
+  {
+    "txIdx": 6051,
+    "timestamp": 1737802253956,
+    "height": 15,
+    "latency": 52861
+  },
+  {
+    "txIdx": 6387,
+    "timestamp": 1737802253957,
+    "height": 15,
+    "latency": 52860
+  },
+  {
+    "txIdx": 6002,
+    "timestamp": 1737802254347,
+    "height": 12,
+    "latency": 29770
+  },
+  {
+    "txIdx": 6242,
+    "timestamp": 1737802254364,
+    "height": 16,
+    "latency": 59780
+  },
+  {
+    "txIdx": 6282,
+    "timestamp": 1737802254366,
+    "height": 12,
+    "latency": 29751
+  },
+  {
+    "txIdx": 5602,
+    "timestamp": 1737802254379,
+    "height": 16,
+    "latency": 59765
+  },
+  {
+    "txIdx": 6338,
+    "timestamp": 1737802254386,
+    "height": 12,
+    "latency": 29731
+  },
+  {
+    "txIdx": 5978,
+    "timestamp": 1737802254401,
+    "height": 16,
+    "latency": 59743
+  },
+  {
+    "txIdx": 5710,
+    "timestamp": 1737802254402,
+    "height": 12,
+    "latency": 29715
+  },
+  {
+    "txIdx": 6218,
+    "timestamp": 1737802254404,
+    "height": 16,
+    "latency": 59740
+  },
+  {
+    "txIdx": 6114,
+    "timestamp": 1737802254418,
+    "height": 12,
+    "latency": 29699
+  },
+  {
+    "txIdx": 6262,
+    "timestamp": 1737802254427,
+    "height": 12,
+    "latency": 29690
+  },
+  {
+    "txIdx": 6366,
+    "timestamp": 1737802254431,
+    "height": 12,
+    "latency": 29686
+  },
+  {
+    "txIdx": 5846,
+    "timestamp": 1737802254433,
+    "height": 16,
+    "latency": 59711
+  },
+  {
+    "txIdx": 5886,
+    "timestamp": 1737802254440,
+    "height": 12,
+    "latency": 29677
+  },
+  {
+    "txIdx": 6274,
+    "timestamp": 1737802254450,
+    "height": 12,
+    "latency": 29667
+  },
+  {
+    "txIdx": 5894,
+    "timestamp": 1737802254452,
+    "height": 16,
+    "latency": 59692
+  },
+  {
+    "txIdx": 5734,
+    "timestamp": 1737802254458,
+    "height": 12,
+    "latency": 29659
+  },
+  {
+    "txIdx": 6162,
+    "timestamp": 1737802254469,
+    "height": 12,
+    "latency": 29648
+  },
+  {
+    "txIdx": 6286,
+    "timestamp": 1737802254473,
+    "height": 12,
+    "latency": 29644
+  },
+  {
+    "txIdx": 5850,
+    "timestamp": 1737802254484,
+    "height": 16,
+    "latency": 59660
+  },
+  {
+    "txIdx": 5726,
+    "timestamp": 1737802254490,
+    "height": 16,
+    "latency": 59654
+  },
+  {
+    "txIdx": 5670,
+    "timestamp": 1737802254492,
+    "height": 16,
+    "latency": 59652
+  },
+  {
+    "txIdx": 6138,
+    "timestamp": 1737802254504,
+    "height": 12,
+    "latency": 29613
+  },
+  {
+    "txIdx": 6134,
+    "timestamp": 1737802254507,
+    "height": 12,
+    "latency": 29610
+  },
+  {
+    "txIdx": 5770,
+    "timestamp": 1737802254510,
+    "height": 12,
+    "latency": 29607
+  },
+  {
+    "txIdx": 6130,
+    "timestamp": 1737802254511,
+    "height": 16,
+    "latency": 59633
+  },
+  {
+    "txIdx": 6074,
+    "timestamp": 1737802254523,
+    "height": 16,
+    "latency": 59621
+  },
+  {
+    "txIdx": 6142,
+    "timestamp": 1737802254526,
+    "height": 16,
+    "latency": 59618
+  },
+  {
+    "txIdx": 5882,
+    "timestamp": 1737802254528,
+    "height": 16,
+    "latency": 59616
+  },
+  {
+    "txIdx": 6078,
+    "timestamp": 1737802254532,
+    "height": 12,
+    "latency": 29585
+  },
+  {
+    "txIdx": 6102,
+    "timestamp": 1737802254533,
+    "height": 12,
+    "latency": 29584
+  },
+  {
+    "txIdx": 6358,
+    "timestamp": 1737802254537,
+    "height": 12,
+    "latency": 29580
+  },
+  {
+    "txIdx": 6270,
+    "timestamp": 1737802254541,
+    "height": 12,
+    "latency": 29576
+  },
+  {
+    "txIdx": 5746,
+    "timestamp": 1737802254546,
+    "height": 12,
+    "latency": 29571
+  },
+  {
+    "txIdx": 5890,
+    "timestamp": 1737802254547,
+    "height": 16,
+    "latency": 59597
+  },
+  {
+    "txIdx": 6246,
+    "timestamp": 1737802254549,
+    "height": 16,
+    "latency": 59595
+  },
+  {
+    "txIdx": 6006,
+    "timestamp": 1737802254551,
+    "height": 12,
+    "latency": 29566
+  },
+  {
+    "txIdx": 5782,
+    "timestamp": 1737802254554,
+    "height": 12,
+    "latency": 29563
+  },
+  {
+    "txIdx": 6122,
+    "timestamp": 1737802254555,
+    "height": 16,
+    "latency": 59589
+  },
+  {
+    "txIdx": 6210,
+    "timestamp": 1737802254560,
+    "height": 16,
+    "latency": 59584
+  },
+  {
+    "txIdx": 5818,
+    "timestamp": 1737802254562,
+    "height": 12,
+    "latency": 29555
+  },
+  {
+    "txIdx": 6086,
+    "timestamp": 1737802254562,
+    "height": 12,
+    "latency": 29555
+  },
+  {
+    "txIdx": 5718,
+    "timestamp": 1737802254563,
+    "height": 12,
+    "latency": 29554
+  },
+  {
+    "txIdx": 5998,
+    "timestamp": 1737802254567,
+    "height": 12,
+    "latency": 29550
+  },
+  {
+    "txIdx": 5794,
+    "timestamp": 1737802254568,
+    "height": 16,
+    "latency": 59576
+  },
+  {
+    "txIdx": 6050,
+    "timestamp": 1737802254571,
+    "height": 12,
+    "latency": 29546
+  },
+  {
+    "txIdx": 5842,
+    "timestamp": 1737802254572,
+    "height": 16,
+    "latency": 59572
+  },
+  {
+    "txIdx": 5626,
+    "timestamp": 1737802254574,
+    "height": 16,
+    "latency": 59570
+  },
+  {
+    "txIdx": 5898,
+    "timestamp": 1737802254580,
+    "height": 16,
+    "latency": 59564
+  },
+  {
+    "txIdx": 5950,
+    "timestamp": 1737802254580,
+    "height": 12,
+    "latency": 29537
+  },
+  {
+    "txIdx": 6202,
+    "timestamp": 1737802254581,
+    "height": 12,
+    "latency": 29536
+  }
+]
