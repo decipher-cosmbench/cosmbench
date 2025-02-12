@@ -3,16 +3,28 @@
 # Variables
 SCRIPTS_DIR=scripts
 
-.PHONY: init init-nodes assign-validators create-accounts initialize-env generate-transactions run send restart calculate update stop
+.PHONY: init install-bin init-nodes assign-validators create-accounts initialize-env generate-transactions run send restart calculate update stop
 
-init: update-auth init-nodes assign-validators create-accounts initialize-env generate-transactions
+init: install-bin init-nodes assign-validators create-accounts initialize-env generate-transactions
 	@echo "Initialization complete."
 
-update-auth:
-	@echo "Copying injectived from ./bin/ to /usr/local/bin/"
-	@sudo cp -r ./bin/injectived /usr/local/bin/
-	@sudo chmod +x /usr/local/bin/injectived
-	@echo "Update complete."
+install-bin:
+	@if [ -f /usr/local/bin/injectived ]; then \
+		echo "Injectived binary already exists. Skipping installation."; \
+	else \
+		echo "Downloading Injective binary..."; \
+		wget -q https://github.com/InjectiveLabs/injective-chain-releases/releases/download/v1.14.0-1739303348/linux-amd64.zip -O injective.zip; \
+		echo "Extracting Injective binary..."; \
+		unzip -o injective.zip; \
+		echo "Moving binaries to /usr/local/bin/..."; \
+		sudo mv injectived peggo /usr/local/bin/; \
+		sudo chmod +x /usr/local/bin/injectived /usr/local/bin/peggo; \
+		echo "Moving libwasmvm.x86_64.so to /usr/lib/..."; \
+		sudo mv libwasmvm.x86_64.so /usr/lib/; \
+		echo "Cleaning up installation files..."; \
+		rm -f injective.zip; \
+		echo "Injective installation complete."; \
+	fi
 
 init-nodes:
 	@echo "Initializing nodes..."
