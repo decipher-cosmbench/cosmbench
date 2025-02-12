@@ -49,7 +49,7 @@ done
 echo "Updating persistent_peers..."
 PERSISTENT_PEERS=""
 for ((j = 0; j < $NODE_COUNT; j++)); do
-    PEER_ID=$(axelard tendermint show-node-id --home "$TESTDIR/node$j")
+    PEER_ID=$(celestia-appd tendermint show-node-id --home "$TESTDIR/node$j")
     if [ -n "$PEER_ID" ]; then
         PERSISTENT_PEERS+="${PEER_ID}@${PRIVATE_HOSTS[$j]}:${P2P_PORTS[$j]},"
     else
