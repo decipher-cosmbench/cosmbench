@@ -8,6 +8,7 @@ import (
 	"net/http"
 	"os"
 	"path/filepath"
+	"runtime"
 	"sort"
 	"strconv"
 	"sync"
@@ -22,13 +23,19 @@ type SendLogEntry struct {
 }
 
 var (
-	encodedTxDir = "injective-cosmbench_encoded_txs"
-	HOSTS        = []string{"147.46.240.248", "147.46.240.248", "147.46.240.248", "147.46.240.248"}
-	REST_PORTS   = []string{"32200", "32201", "32202", "32203"}
+	encodedTxDir string
+	HOSTS        = []string{"127.0.0.1", "127.0.0.1", "127.0.0.1", "127.0.0.1"}
+	REST_PORTS   = []string{"22200", "22201", "22202", "22203"}
 	InputTPS     int
 	runTime      int
 	numTxs       int
 )
+
+func init() {
+	_, filename, _, _ := runtime.Caller(0)
+	dir := filepath.Dir(filename)
+	encodedTxDir = filepath.Join(dir, "injective-cosmbench_encoded_txs") // "scripts" 제거
+}
 
 type TxData struct {
 	TxBytes string `json:"tx_bytes"`
