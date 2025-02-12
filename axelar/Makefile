@@ -5,7 +5,7 @@ SCRIPTS_DIR=scripts
 
 .PHONY: init init-nodes assign-validators create-accounts initialize-env generate-transactions run send restart calculate update stop
 
-init: update-auth init-nodes assign-validators create-accounts initialize-env generate-transactions
+init: init-nodes assign-validators create-accounts initialize-env generate-transactions
 	@echo "Initialization complete."
 
 update-auth:

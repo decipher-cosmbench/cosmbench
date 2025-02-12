@@ -14,7 +14,12 @@ This repository is systematically organized into multiple blockchain-related dir
 
 ### How to Run Benchmarks for Each Network
 
-> **Note:** The benchmarking scripts are designed to run in a **Linux environment**, and we highly recommend using **Ubuntu 22.04 LTS** for the best compatibility and performance.
+> **Note:**
+> - The benchmarking scripts are designed to run in a **Linux environment**, and we highly recommend using **Ubuntu 22.04 LTS** for the best compatibility and performance.
+> - Before running the benchmarks, make sure to **pull all required binary files** using the following command:
+>   ```bash
+>   git lfs pull
+>   ```
 
 - [Axelar](axelar/README.md)
 - [Celestia](celestia/README.md)
