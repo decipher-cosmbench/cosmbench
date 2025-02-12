@@ -9,21 +9,21 @@ init: check-celestia install-bin init-nodes assign-validators create-accounts in
 	@echo "Initialization complete."
 
 check-celestia:
-	@if [ -f /usr/local/bin/celestia ]; then \
+	@if [ -f /usr/local/bin/celestia-appd ]; then \
 		echo "Celestia binary already exists. Skipping install-bin."; \
 		touch .celestia_installed; \
 	fi
 
 install-bin:
-	@if [ -f /usr/local/bin/celestia ]; then \
+	@if [ -f /usr/local/bin/celestia-appd ]; then \
 		echo "Celestia already installed. Skipping..."; \
 	else \
-		echo "Installing Celestia..."; \
-		rm -rf celestia-node; \
-		git clone https://github.com/celestiaorg/celestia-node.git; \
-		cd celestia-node && make build && make install; \
+		echo "Installing Celestia App..."; \
+		rm -rf celestia-app; \
+		git clone https://github.com/celestiaorg/celestia-app.git; \
+		cd celestia-app && git checkout tags/v3.3.1 && make install; \
 		cd ..; \
-		rm -rf celestia-node; \
+		rm -rf celestia-app; \
 		echo "Installation complete."; \
 	fi
 
