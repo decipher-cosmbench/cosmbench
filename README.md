@@ -13,6 +13,9 @@ Through rigorous testing, we aim to provide a more accurate and practical unders
 This repository is systematically organized into multiple blockchain-related directories, each containing scripts and documentation specific to that network. Below is the list of blockchain ecosystems we currently support:
 
 ### How to Run Benchmarks for Each Network
+
+> **Note:** The benchmarking scripts are designed to run in a **Linux environment**, and we highly recommend using **Ubuntu 22.04 LTS** for the best compatibility and performance.
+
 - [Axelar](axelar/README.md)
 - [Celestia](celestia/README.md)
 - [Cosmos](cosmos/README.md)
@@ -31,4 +34,3 @@ Our goal is to foster a more transparent and empirical approach to blockchain pe
 ---
 
 For more details, refer to the respective directories above or contact the **Decipher Cosmbench** team. We appreciate your interest and support in making blockchain performance evaluation more accurate and reliable.
-
