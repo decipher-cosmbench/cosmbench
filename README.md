@@ -22,11 +22,11 @@ This repository is systematically organized into multiple blockchain-related dir
 >   ```
 
 - [Axelar](axelar/README.md)
-- [Celestia](celestia/README.md)
 - [Cosmos](cosmos/README.md)
-- [Cronos](cronos/README.md)
 - [Injective](injective/README.md)
 - [Sei](sei/README.md)
+- [Celestia](celestia/README.md)(TBD)
+- [Cronos](cronos/README.md)(TBD)
 
 Each directory contains essential benchmarking scripts, performance logs, and result files, providing an extensive look into each blockchain's actual transaction handling capacity.
 
