@@ -9,7 +9,10 @@ init: update-auth init-nodes assign-validators create-accounts initialize-env ge
 	@echo "Initialization complete."
 
 update-auth:
-	@chmod +x ./bin/axelard
+	@echo "Copying axelard from ./bin/ to /usr/local/bin/"
+	@sudo cp -r ./bin/axelard /usr/local/bin/
+	@sudo chmod +x /usr/local/bin/axelard
+	@echo "Update complete."
 
 init-nodes:
 	@echo "Initializing nodes..."

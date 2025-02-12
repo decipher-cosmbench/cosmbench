@@ -2,8 +2,7 @@
 
 CHAIN_NAME="axelar"
 CHAIN_ID=$CHAIN_NAME"-cosmbench" #블록체인 ID
-#BINARY="/usr/local/bin/"$CHAIN_NAME"d"
-BINARY="$(cd "$(dirname "$0")/.." && pwd)/bin/${CHAIN_NAME}d"
+BINARY="/usr/local/bin/"$CHAIN_NAME"d"
 MONIKER="cosmbench"
 # ADDRESS_PREFIX="mssong"
 
