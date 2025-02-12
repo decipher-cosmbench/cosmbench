@@ -21,7 +21,7 @@ install-bin:
 		echo "Installing Celestia App..."; \
 		rm -rf celestia-app; \
 		git clone https://github.com/celestiaorg/celestia-app.git; \
-		cd celestia-app && git checkout tags/v3.3.1 && make install; \
+		cd celestia-app && make enable-bbr && git checkout tags/v3.3.1 && make install; \
 		cd ..; \
 		echo "Moving celestia-appd to /usr/local/bin/"; \
 		sudo mv $$HOME/go/bin/celestia-appd /usr/local/bin/celestia-appd; \
