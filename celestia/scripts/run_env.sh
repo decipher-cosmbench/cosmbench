@@ -1,6 +1,6 @@
 #!/bin/bash
 
-TESTDIR="/home/mssong/decipher-cosmbench/celestia"
+TESTDIR="nodes"
 
 HOSTS=()
 
