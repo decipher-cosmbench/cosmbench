@@ -1,7 +1,7 @@
 #!/bin/bash
 
 CHAIN_ID=local_devnet
-BINARY="/usr/local/bin/celestia-appd"
+BINARY="/usr/local/bin/celestia"
 MONIKER="cosmbench"
 
 KEYRING_BACKEND="test"

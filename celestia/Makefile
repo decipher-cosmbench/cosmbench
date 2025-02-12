@@ -5,14 +5,27 @@ SCRIPTS_DIR=scripts
 
 .PHONY: init init-nodes assign-validators create-accounts initialize-env generate-transactions run send restart calculate update stop
 
-init: update-auth init-nodes assign-validators create-accounts initialize-env generate-transactions
+init: check-celestia install-bin init-nodes assign-validators create-accounts initialize-env generate-transactions
 	@echo "Initialization complete."
 
-update-auth:
-	@echo "Copying celestia-appd from ./bin/ to /usr/local/bin/"
-	@sudo cp -r ./bin/celestia-appd /usr/local/bin/
-	@sudo chmod +x /usr/local/bin/celestia-appd
-	@echo "Update complete."
+check-celestia:
+	@if [ -f /usr/local/bin/celestia ]; then \
+		echo "Celestia binary already exists. Skipping install-bin."; \
+		touch .celestia_installed; \
+	fi
+
+install-bin:
+	@if [ -f /usr/local/bin/celestia ]; then \
+		echo "Celestia already installed. Skipping..."; \
+	else \
+		echo "Installing Celestia..."; \
+		rm -rf celestia-node; \
+		git clone https://github.com/celestiaorg/celestia-node.git; \
+		cd celestia-node && make build && make install; \
+		cd ..; \
+		rm -rf celestia-node; \
+		echo "Installation complete."; \
+	fi
 
 init-nodes:
 	@echo "Initializing nodes..."
