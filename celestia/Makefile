@@ -23,6 +23,9 @@ install-bin:
 		git clone https://github.com/celestiaorg/celestia-app.git; \
 		cd celestia-app && git checkout tags/v3.3.1 && make install; \
 		cd ..; \
+		echo "Moving celestia-appd to /usr/local/bin/"; \
+		sudo mv $$HOME/go/bin/celestia-appd /usr/local/bin/celestia-appd; \
+		sudo chmod +x /usr/local/bin/celestia-appd; \
 		rm -rf celestia-app; \
 		echo "Installation complete."; \
 	fi
