@@ -31,7 +31,7 @@ generate-transactions:
 run:
 	@echo "Starting all nodes..."
 	for i in 0 1 2 3; do \
-		bash scripts/92_run.sh $$i & \
+		bash ./scripts/92_run.sh $$i & \
 	done; \
 	wait
 

@@ -8,6 +8,7 @@ import (
 	"net/http"
 	"os"
 	"path/filepath"
+	"runtime"
 	"sort"
 	"strconv"
 	"sync"
@@ -15,13 +16,19 @@ import (
 )
 
 var (
-	encodedTxDir = "/home/mssong/decipher-cosmbench/axelar/axelar-cosmbench_encoded_txs"
+	encodedTxDir string
 	HOSTS        = []string{"127.0.0.1", "127.0.0.1", "127.0.0.1", "127.0.0.1"}
 	REST_PORTS   = []string{"22200", "22201", "22202", "22203"}
 	InputTPS     int
 	runTime      int
 	numTxs       int
 )
+
+func init() {
+	_, filename, _, _ := runtime.Caller(0)
+	dir := filepath.Dir(filename)
+	encodedTxDir = filepath.Join(dir, "scripts", "axelar-cosmbench_encoded_txs")
+}
 
 type SendLogEntry struct {
 	TxIdx     int    `json:"txIdx"`

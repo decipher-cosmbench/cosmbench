@@ -31,7 +31,7 @@ generate-transactions:
 run:
 	@echo "Starting all nodes..."
 	for i in 0 1 2 3; do \
-		bash scripts/92_run.sh $$i & \
+		bash 92_run.sh $$i & \
 	done; \
 	wait
 
@@ -43,10 +43,6 @@ restart:
 	@echo "Restarting environment and nodes..."
 	make initialize-env
 	make run
-reset:
-	@echo "Reset"
-	bash $(SCRIPTS_DIR)/93_reset.sh
-	
 
 calculate:
 	@echo "Calculating metrics..."
