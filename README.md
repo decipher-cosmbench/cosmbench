@@ -30,6 +30,21 @@ This repository is systematically organized into multiple blockchain-related dir
 
 Each directory contains essential benchmarking scripts, performance logs, and result files, providing an extensive look into each blockchain's actual transaction handling capacity.
 
+### Binary Versions
+
+The benchmarking process requires specific blockchain binaries. Below are the versions used for each network:
+
+| Blockchain | Binary Version |
+|------------|---------------|
+| **Injective** | Mainnet-v1.13.2 |
+| **Cronos** | v1.4.1 |
+| **Axelar** | v1.1.0-4-gee4809d3 |
+| **Celestia** | v1.7.0 |
+| **Cosmos** | v0.50.11 |
+| **Sei** | v6.0.1 |
+
+Ensure that you are using the correct versions to maintain consistency in benchmarking results.
+
 ## Contribution & Community
 
 We welcome contributions from the blockchain and research community to further enhance our benchmarking methodologies. If you are interested in collaborating with us, feel free to **open an issue, submit a pull request, or reach out to our team**.
