@@ -5,8 +5,14 @@ SCRIPTS_DIR=scripts
 
 .PHONY: init init-nodes assign-validators create-accounts initialize-env generate-transactions run send restart calculate update stop
 
-init: init-nodes assign-validators create-accounts initialize-env generate-transactions
+init: update-auth init-nodes assign-validators create-accounts initialize-env generate-transactions
 	@echo "Initialization complete."
+
+update-auth:
+	@echo "Copying cosmosd from ./bin/ to /usr/local/bin/"
+	@sudo cp -r ./bin/cosmosd /usr/local/bin/
+	@sudo chmod +x /usr/local/bin/cosmosd
+	@echo "Update complete."
 
 init-nodes:
 	@echo "Initializing nodes..."
@@ -31,7 +37,7 @@ generate-transactions:
 run:
 	@echo "Starting all nodes..."
 	for i in 0 1 2 3; do \
-		bash scripts/92_run.sh $$i & \
+		bash ./scripts/92_run.sh $$i & \
 	done; \
 	wait
 
@@ -46,7 +52,9 @@ restart:
 
 calculate:
 	@echo "Calculating metrics..."
+	@go run update_height.go
 	@go run calc_metrics.go
+	@go run conv_json_to_csv.go
 
 update-height:
 	@echo "Updating transaction heights in the log..."
