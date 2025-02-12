@@ -5,9 +5,11 @@ SCRIPTS_DIR=scripts
 
 .PHONY: init init-nodes assign-validators create-accounts initialize-env generate-transactions run send restart calculate update stop
 
-init: init-nodes assign-validators create-accounts initialize-env generate-transactions
-	@chmod +x ./bin/axelard
+init: update-auth init-nodes assign-validators create-accounts initialize-env generate-transactions
 	@echo "Initialization complete."
+
+update-auth:
+	@chmod +x ./bin/axelard
 
 init-nodes:
 	@echo "Initializing nodes..."
