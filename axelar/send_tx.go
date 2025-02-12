@@ -27,7 +27,7 @@ var (
 func init() {
 	_, filename, _, _ := runtime.Caller(0)
 	dir := filepath.Dir(filename)
-	encodedTxDir = filepath.Join(dir, "scripts", "axelar-cosmbench_encoded_txs")
+	encodedTxDir = filepath.Join(dir, "axelar-cosmbench_encoded_txs") // "scripts" 제거
 }
 
 type SendLogEntry struct {
