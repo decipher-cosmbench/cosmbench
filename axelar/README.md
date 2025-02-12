@@ -1,288 +1,133 @@
-# Cosmbench-Axelar
-## Example of Directory Structure
-```
-.
-├── axelar-cosmbench_accounts
-│   ├── node0
-│   ├── node1
-│   ├── node2
-│   └── node3
-├── axelar-cosmbench_encoded_txs
-├── axelar-cosmbench_nodes
-│   ├── node0
-│   │   ├── config
-│   │   │   └── gentx
-│   │   ├── data
-│   │   └── keyring-test
-│   ├── node1
-│   │   ├── config
-│   │   │   └── gentx
-│   │   ├── data
-│   │   └── keyring-test
-│   ├── node2
-│   │   ├── config
-│   │   │   └── gentx
-│   │   ├── data
-│   │   └── keyring-test
-│   └── node3
-│       ├── config
-│       │   └── gentx
-│       ├── data
-│       └── keyring-test
-├── axelar-cosmbench_signed_txs
-├── axelar-cosmbench_unsigned_txs
-├── bin
-├── logs
-├── nodes
-│   ├── node0
-│   │   ├── config
-│   │   │   └── gentx
-│   │   ├── data
-│   │   │   ├── application.db
-│   │   │   ├── blockstore.db
-│   │   │   ├── cs.wal
-│   │   │   ├── evidence.db
-│   │   │   ├── snapshots
-│   │   │   │   └── metadata.db
-│   │   │   ├── state.db
-│   │   │   └── tx_index.db
-│   │   └── keyring-test
-│   ├── node1
-│   │   ├── config
-│   │   │   └── gentx
-│   │   ├── data
-│   │   │   ├── application.db
-│   │   │   ├── blockstore.db
-│   │   │   ├── cs.wal
-│   │   │   ├── evidence.db
-│   │   │   ├── snapshots
-│   │   │   │   └── metadata.db
-│   │   │   ├── state.db
-│   │   │   └── tx_index.db
-│   │   └── keyring-test
-│   ├── node2
-│   │   ├── config
-│   │   │   └── gentx
-│   │   ├── data
-│   │   │   ├── application.db
-│   │   │   ├── blockstore.db
-│   │   │   ├── cs.wal
-│   │   │   ├── evidence.db
-│   │   │   ├── snapshots
-│   │   │   │   └── metadata.db
-│   │   │   ├── state.db
-│   │   │   └── tx_index.db
-│   │   └── keyring-test
-│   └── node3
-│       ├── config
-│       │   └── gentx
-│       ├── data
-│       │   ├── application.db
-│       │   ├── blockstore.db
-│       │   ├── cs.wal
-│       │   ├── evidence.db
-│       │   ├── snapshots
-│       │   │   └── metadata.db
-│       │   ├── state.db
-│       │   └── tx_index.db
-│       └── keyring-test
-├── results
-└── scripts
-    ├── logs
-    └── nodes
-        ├── node0
-        │   ├── config
-        │   └── data
-        │       ├── application.db
-        │       ├── blockstore.db
-        │       ├── snapshots
-        │       │   └── metadata.db
-        │       └── state.db
-        ├── node1
-        │   ├── config
-        │   └── data
-        │       ├── application.db
-        │       ├── blockstore.db
-        │       ├── snapshots
-        │       │   └── metadata.db
-        │       └── state.db
-        ├── node2
-        │   ├── config
-        │   └── data
-        │       ├── application.db
-        │       ├── blockstore.db
-        │       ├── snapshots
-        │       │   └── metadata.db
-        │       └── state.db
-        └── node3
-            ├── config
-            └── data
-                ├── application.db
-                ├── blockstore.db
-                ├── snapshots
-                │   └── metadata.db
-                └── state.db
-```
----
-## Initial Setup
+# Axelar Setup Guide
 
-Before proceeding with any node setup, ensure you clone the Axelar repository and build the project:
+## 1. Initialize Nodes, Assign Validators, Create Accounts, and Generate Transactions
 
-```bash
-git clone https://github.com/axelarnetwork/axelar-core.git
-cd axelar-core
-make build
-```
+Run the following command to initialize the entire setup:
 
----
-
-## Makefile Usage Guide
-
-This repository contains a `Makefile` to automate the initialization, running, and management of nodes for a blockchain test environment. Below is a detailed guide for using the available Makefile targets.
-
----
-
-### 1. **Initialization**
-#### Command:
 ```bash
 make init
 ```
-#### Description:
-Performs the full setup process, including:
-1. Initializing nodes with default configurations.
-2. Assigning validators to nodes.
-3. Creating accounts for transactions.
-4. Setting up the environment and configuring persistent peers.
-5. Generating transaction files for testing.
 
-#### Use Case:
-Run this command to prepare the environment from scratch.
+This command will execute the following steps:
+- **Initialize Nodes**:
+  - Load environment variables from `env.sh`
+  - Remove any existing node data in `$NODE_ROOT_DIR`
+  - Initialize `$NODE_COUNT` nodes with unique monikers
+  - Create a backup of each node's `genesis.json` file
+  - Display the node IDs for all initialized nodes
+
+- **Assign Validators**:
+  - Add accounts to the genesis file for each node
+  - Assign an initial balance to each genesis account
+  - Generate validator transactions (`gentx`) for each node
+  - Collect all `gentx` transactions into a single genesis file
+  - Save the final `genesis.json` as `validator_genesis.json` in node 0
+
+- **Create Accounts**:
+  - Generate multiple accounts for each node
+  - Assign an initial balance to each account in the genesis file
+  - Backup keyring information for all created accounts
+  - Display the account addresses for verification
+
+- **Generate Transactions**:
+  - Clean and recreate directories for unsigned, signed, and encoded transactions
+  - Generate unsigned transactions for each account
+  - Sign transactions using the corresponding account
+  - Encode the signed transactions for broadcasting
+  - Save the final encoded transactions for later use
 
 ---
 
-###  **Individual Initialization Step 1**
+## 2. Initialize Node Environment
 
-#### a. **Initialize Nodes**
-```bash
-make init-nodes
-```
-Initializes the nodes and creates default `genesis.json` files.
+Run the following command to initialize the node environment:
 
-#### b. **Assign Validators**
-```bash
-make assign-validators
-```
-Assigns validator roles to nodes and updates `genesis.json` accordingly.
-
-#### c. **Create Accounts**
-```bash
-make create-accounts
-```
-Creates accounts for transactions and adds them to `genesis.json`.
-
-#### d. **Initialize Environment**
 ```bash
 make initialize-env
 ```
-Sets up configuration files (e.g., updating ports, enabling APIs, and configuring persistent peers).
 
-#### e. **Generate Transactions**
-```bash
-make generate-transactions
-```
-Generates unsigned, signed, and encoded transactions for testing.
+This command will:
+- Copy the initialized node data to a test directory
+- Ensure all nodes use the same `genesis.json`
+- Replace `"stake"` with `"uaxl"` in `genesis.json`
+- Update `config.toml` for:
+  - Custom RPC, P2P, API, and gRPC ports
+  - Allowing duplicate IPs
+  - Increasing mempool size
+- Enable the REST API in `app.toml`
+- Set up persistent peers between nodes to ensure connectivity
 
 ---
 
-### 2. **Run Nodes**
-#### Command:
+## 3. Run Nodes
+
+After initializing everything, start all nodes by running:
+
 ```bash
 make run
 ```
-#### Description:
-Starts all nodes concurrently using `scripts/92_run.sh` for each node.
+
+This will:
+- Execute `scripts/92_run.sh` for each node in parallel
+- Start all nodes and wait for them to be fully operational
 
 ---
 
-### 3. **Send Transactions**
-#### Command:
+## 4. Send Transactions
+
+Run the following command to send transactions:
+
 ```bash
-make send ARGS="TPS RunTime"
+go run send_tx.go <TPS> <RunTime>
 ```
-#### Example:
+
+This script will:
+- Load encoded transactions from the `scripts/axelar-cosmbench_encoded_txs` directory
+- Broadcast transactions to the blockchain network asynchronously
+- Log transaction hashes and timestamps for tracking
+- Save transaction logs in `results/tx_log.json`
+
+### Arguments:
+1. **TPS (Transactions Per Second)**:
+  - Specifies the number of transactions to send per second.
+  - Example: `40` means the script will attempt to send 40 transactions per second.
+
+2. **RunTime (Seconds)**:
+  - Defines the total duration (in seconds) for which transactions will be sent.
+  - Example: `5` means the script will run for 5 seconds, sending transactions continuously during this period.
+
+#### Example Usage:
+
 ```bash
-make send ARGS="200 10"
+go run send_tx.go 40 5
 ```
-#### Description:
-Sends transactions with the specified transactions per second (TPS) and runtime (in seconds).
+
+This will send transactions at a rate of **40 transactions per second** for **5 seconds**.
+
+After execution, transaction logs will be stored in:
+
+```bash
+results/tx_log.json
+```
+
+This file contains transaction indices, timestamps, and transaction hashes for verification.
 
 ---
 
-### 4. **Restart Environment**
-#### Command:
-```bash
-make restart
-```
-#### Description:
-1. Re-initializes the environment by running `make initialize-env`.
-2. Restarts all nodes using `make run`.
+## 5. Calculate Metrics
 
----
+Once transactions have been sent, you can calculate performance metrics by running:
 
-### 5. **Stop Nodes**
-#### Command:
-```bash
-make stop
-```
-#### Description:
-Stops all running nodes by killing their processes.
-
----
-
-### 6. **Calculate Metrics**
-#### Command:
 ```bash
 make calculate
 ```
-#### Description:
-Runs the `metrics_calculator.go` script to analyze and calculate metrics from the blockchain logs and transactions.
 
----
+This command will:
+- **Update block heights** using `update_height.go`
+- **Calculate transaction metrics** using `calc_metrics.go`
+- **Convert results into CSV format** using `conv_json_to_csv.go`
 
-### Example Workflow
-1. **Set up the environment:**
-   ```bash
-   make init
-   ```
+### Results:
 
-2. **Start all nodes:**
-   ```bash
-   make run
-   ```
-
-3. **Send transactions:**
-   ```bash
-   make send ARGS="100 20"
-   ```
-
-4. **Calculate metrics:**
-   ```bash
-   make calculate
-   ```
-
-5. **Restart environment if needed:**
-   ```bash
-   make restart
-   ```
-
-6. **Stop all nodes:**
-   ```bash
-   make stop
-   ```
-
----
-
-### Notes
-- Ensure all required scripts are present in the `scripts/` directory.
-- Modify the Makefile variables if you need to customize paths or parameters.
-- Use `make` commands in the root directory of the project.
+After running this command, the calculated metrics will be available in the `results/` directory.  
+These results provide insights into transaction performance and system behavior.
