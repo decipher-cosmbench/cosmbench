@@ -1,6 +1,9 @@
 #!/bin/bash
-source ./env.sh
-source ./run_env.sh
+
+# Load environment variables
+SCRIPT_DIR=$(dirname "$0")
+source "$SCRIPT_DIR/env.sh"
+source "$SCRIPT_DIR/run_env.sh"
 
 INDEX=$1
 CURRENT_DATA_DIR=$TESTDIR/node$INDEX

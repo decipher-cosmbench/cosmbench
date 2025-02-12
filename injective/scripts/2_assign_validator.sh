@@ -1,5 +1,7 @@
 #!/bin/bash
-source ./env.sh
+# Load environment variables relative to the scripts directory
+SCRIPT_DIR=$(dirname "$0")
+source "$SCRIPT_DIR/env.sh"
 
 # First, create accounts and add them to genesis
 for ((i=0;i<$NODE_COUNT;i++))

@@ -1,8 +1,8 @@
-### multiple senders case
-
 #!/bin/bash
 
-source ./env.sh
+# Load environment variables relative to the script's location
+SCRIPT_DIR=$(dirname "$0")
+source "$SCRIPT_DIR/env.sh"
 
 rm -rf $UNSIGNED_TX_ROOT_DIR
 rm -rf $SIGNED_TX_ROOT_DIR

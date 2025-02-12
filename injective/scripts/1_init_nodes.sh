@@ -1,8 +1,8 @@
 # init node해서 default genesis.json 만드는 스크립트
 
-#!/bin/bash
-source ./env.sh
-
+# Load environment variables relative to the scripts directory
+SCRIPT_DIR=$(dirname "$0")
+source "$SCRIPT_DIR/env.sh"
 
 if [ -d "$NODE_ROOT_DIR" ]; then
     echo "Removing $NODE_ROOT_DIR directory..."

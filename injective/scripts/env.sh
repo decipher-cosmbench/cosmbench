@@ -2,7 +2,7 @@
 
 CHAIN_NAME="injective"  
 CHAIN_ID=$CHAIN_NAME"-cosmbench" #블록체인 ID
-BINARY="./bin/"$CHAIN_NAME"d"
+BINARY="/usr/local/bin/"$CHAIN_NAME"d"
 MONIKER="cosmbench"
 # ADDRESS_PREFIX="mssong"
 

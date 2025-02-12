@@ -1,8 +1,7 @@
 #!/bin/bash
-source ./env.sh
-source ./run_env.sh
-
-
+SCRIPT_DIR=$(dirname "$0")
+source "$SCRIPT_DIR/env.sh"
+source "$SCRIPT_DIR/run_env.sh"
 
 if [ -d "$TESTDIR" ]; then
     echo "Removing $TESTDIR directory..."

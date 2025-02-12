@@ -1,7 +1,8 @@
 #!/bin/bash
-source ./env.sh
 
-
+# Load environment variables relative to the scripts directory
+SCRIPT_DIR=$(dirname "$0")
+source "$SCRIPT_DIR/env.sh"
 for ((i=0;i<$NODE_COUNT;i++))
 do
     CURRENT_DATA_DIR=$NODE_ROOT_DIR/node$i
