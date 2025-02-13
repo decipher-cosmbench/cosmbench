@@ -49,7 +49,7 @@ make initialize-env
 This command will:
 - Copy the initialized node data to a test directory
 - Ensure all nodes use the same `genesis.json`
-- Replace `"stake"` with `"uaxl"` in `genesis.json`
+- Replace `"stake"` in `genesis.json`
 - Update `config.toml` for:
   - Custom RPC, P2P, API, and gRPC ports
   - Allowing duplicate IPs
